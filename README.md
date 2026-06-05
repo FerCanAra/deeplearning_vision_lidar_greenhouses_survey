@@ -1,7 +1,7 @@
-# Robotics papers 
-Repository of articles and interesting repositories for robotics in agriculture 🌱 🤖
+# Robotics papers 🌱 🤖
+Repository of articles and interesting repositories for robotics in agriculture
 
-# Ground segmentation
+## Ground segmentation
 1. Ground Segmentation ROS 2 Node (GSeg3D) [[link](https://github.com/dfki-ric/ground_segmentation_ros2?tab=readme-ov-file)]: This package implements a ROS 2 node that wraps the GSeg3D ground segmentation algorithm and exposes it as a real-time perception component for robotic systems. The node subscribes to LiDAR point clouds (optionally synchronized with IMU data), performs two-phase grid-based ground segmentation, and publishes ground and obstacle point clouds for downstream navigation and perception modules. INCLUDE A NAV2 IMPLEMENTATION.
 <div align="center">
   <img width="450" height="180" alt="image" src="https://github.com/user-attachments/assets/15d83492-40ba-4883-9db4-e655abbc550f" />
@@ -15,7 +15,7 @@ Repository of articles and interesting repositories for robotics in agriculture 
   <img width="470" height="270" alt="image" src="https://github.com/user-attachments/assets/07c7ba4f-6241-48e4-b74d-a2368ee5c689" />
 </div>
 
-# Image segmentation
+## Image segmentation
 1. SAM3 ROS Wrapper [[link](https://github.com/SanghyunPark01/sam3_ros_wrapper)]: This repository provides a ROS wrapper for SAM3 (Segment Anything Model 3), compatible with both ROS1 and ROS2. It enables using SAM3-based segmentation within ROS pipelines while keeping the model code and ROS integration loosely coupled.
 <div align="center">
   <img width="415" height="251" alt="image" src="https://github.com/user-attachments/assets/30e6a956-3b41-4cc7-81b4-05fda4488c29" />
