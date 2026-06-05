@@ -27,3 +27,11 @@ Repository of articles and interesting repositories for robotics in agriculture
 <div align="center"> 
   <img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/fe2f1ec3-e7cf-4073-b5eb-89a1c30a96dd" />
 </div>
+
+3. PointFusion: Deep Sensor Fusion for 3D Bounding Box Estimation [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_PointFusion_Deep_Sensor_CVPR_2018_paper.pdf)]: a generic 3D object detection
+method that leverages both image and 3D point cloud information.
+<div align="center">
+  <img width="500" height="100" alt="image" src="https://github.com/user-attachments/assets/3dbe2eae-37ba-44d7-830d-50dbe6251c9a" />
+</div>
+
+
