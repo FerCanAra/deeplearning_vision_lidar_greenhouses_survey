@@ -18,11 +18,11 @@ A repository providing a state-of-the-art overview of the most important algorit
   </summary>
   <div style="margin-top: 10px; padding-left: 5px;">
 
-  Here you can list the foundation papers using standard Markdown:
+  Aquí dejas una línea totalmente vacía antes de escribir.
   
-  * **Paper 1:** *Review of 3D Point Cloud Processing* - Author et al. (2024) [[Link]](https://github.com)
-  * **Paper 2:** *Geometric Constraints in Greenhouse Environments* - Smith et al. (2025) [[Link]](https://github.com)
-  
+  * **Artículo A:** Ahora sí debería salir en negrita y como viñeta.
+  * **Artículo B:** Recuerda dejar otra línea vacía al final.
+
   </div>
 </details>
 
