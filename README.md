@@ -70,10 +70,9 @@ The foundational articles underpinning the most significant advances in vision t
     <img width="350" height="200" alt="image" src="https://github.com/user-attachments/assets/9617dd38-49d3-4017-8ac1-6ed2d76525a7" />
   </div>
   </details>
-</details>
 
 <details>
-  <summary>2. Articles on greenhouse farming</summary>
+  <summary><strong>2. Articles on greenhouse farming</strong>strong></summary>
 
   ### AlexNet Algoritm
 
@@ -123,7 +122,7 @@ The foundational articles underpinning the most significant advances in vision t
 
   
   </details>
-
+</details>
 
 </details>
 <details>
