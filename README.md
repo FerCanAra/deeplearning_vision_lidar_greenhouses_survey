@@ -62,8 +62,9 @@ A repository providing a state-of-the-art overview of the most important algorit
     <img width="350" height="200" alt="image" src="https://github.com/user-attachments/assets/9617dd38-49d3-4017-8ac1-6ed2d76525a7" />
   </div>
   </details>
+</details>
 
-  <details>
+<details>
   <summary>2. Articles on greenhouse farming</summary>
 
   1. High-precision pest and disease detection in greenhouses using the novel IM-AlexNet framework (2025) [[link](https://www.nature.com/articles/s41538-025-00426-7)]]. This study proposes an improved AlexNet (IM-AlexNet) model incorporating ReLU6, batch normalization, and GoogleNet Inception-v3 to enhance pest and disease identification. 
@@ -96,7 +97,7 @@ A repository providing a state-of-the-art overview of the most important algorit
     <img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/7eb8340d-600e-4fae-a6d4-e1676792e07b" />
   </div>
 
-  </details>
+</details>
 <details>
 <summary>Object detecction</summary>
 
