@@ -5,30 +5,31 @@ Repository of articles and interesting repositories for robotics in agriculture
 <details>
 <summary>Classification</summary>
 
-1. VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION [[link](https://arxiv.org/pdf/1409.1556)][[Repository](https://github.com/Prabhu204/Very-Deep-Convolutional-Networks-for-Large-Scale-Image-Recognition)]. In this work we investigate the effect of the convolutional network depth on its accuracy in the large-scale image recognition setting.
-
-<div align="center"> 
-  <img width="400" height="220" alt="image" src="https://github.com/user-attachments/assets/af978155-debb-433b-95f3-67b2555532a3" />
-</div>
-
-2. CLRNet Video Lane Pipeline [[link](https://github.com/yigitbalcioglu/Advanced-Lane-Detection-CLRNet)]: This repository is a practical lane-detection project built around CLRNet, focused on running ONNX inference on videos and producing stable, interpretable lane outputs.
-<div align="center"> 
-  <img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/fe2f1ec3-e7cf-4073-b5eb-89a1c30a96dd" />
-</div>
-
-3. Deep Residual Learning for Image Recognition [[link](https://arxiv.org/pdf/1512.03385)][[Repository](https://github.com/KaimingHe/deep-residual-networks)]. We explicitly reformulate the layers as learning residual functions with reference to the layer inputs, instead of learning unreferenced functions. 
-
-<div align="center"> 
-  <img width="350" height="150" alt="image" src="https://github.com/user-attachments/assets/964b0b6e-dea4-438e-9778-622ad0173606" />
-</div>
-
-4. A ConvNet for the 2020s [[link](https://arxiv.org/pdf/2201.03545)][[Repository](https://github.com/facebookresearch/ConvNeXt)]. A vanilla ViT, on the other hand, faces difficulties when applied to general computer vision tasks such as object detection and semantic segmentation. It is the hierarchical Transformers (e.g., Swin Transformers) that reintroduced several ConvNet priors, making Transformers practically viable as a generic vision backbone and demonstrating remarkable performance on a wide variety of vision tasks.
-
-<div align="center"> 
-  <img width="350" height="200" alt="image" src="https://github.com/user-attachments/assets/9617dd38-49d3-4017-8ac1-6ed2d76525a7" />
-</div>
+  1. VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION [[link](https://arxiv.org/pdf/1409.1556)][[Repository](https://github.com/Prabhu204/Very-Deep-Convolutional-Networks-for-Large-Scale-Image-Recognition)]. In this work we investigate the effect of the convolutional network depth on its accuracy in the large-scale image recognition setting.
+  
+  <div align="center"> 
+    <img width="400" height="220" alt="image" src="https://github.com/user-attachments/assets/af978155-debb-433b-95f3-67b2555532a3" />
+  </div>
+  
+  2. CLRNet Video Lane Pipeline [[link](https://github.com/yigitbalcioglu/Advanced-Lane-Detection-CLRNet)]: This repository is a practical lane-detection project built around CLRNet, focused on running ONNX inference on videos and producing stable, interpretable lane outputs.
+  <div align="center"> 
+    <img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/fe2f1ec3-e7cf-4073-b5eb-89a1c30a96dd" />
+  </div>
+  
+  3. Deep Residual Learning for Image Recognition [[link](https://arxiv.org/pdf/1512.03385)][[Repository](https://github.com/KaimingHe/deep-residual-networks)]. We explicitly reformulate the layers as learning residual functions with reference to the layer inputs, instead of learning unreferenced functions. 
+  
+  <div align="center"> 
+    <img width="350" height="150" alt="image" src="https://github.com/user-attachments/assets/964b0b6e-dea4-438e-9778-622ad0173606" />
+  </div>
+  
+  4. A ConvNet for the 2020s [[link](https://arxiv.org/pdf/2201.03545)][[Repository](https://github.com/facebookresearch/ConvNeXt)]. A vanilla ViT, on the other hand, faces difficulties when applied to general computer vision tasks such as object detection and semantic segmentation. It is the hierarchical Transformers (e.g., Swin Transformers) that reintroduced several ConvNet priors, making Transformers practically viable as a generic vision backbone and demonstrating remarkable performance on a wide variety of vision tasks.
+  
+  <div align="center"> 
+    <img width="350" height="200" alt="image" src="https://github.com/user-attachments/assets/9617dd38-49d3-4017-8ac1-6ed2d76525a7" />
+  </div>
 
 </details>
+<details>
 <summary>Object detecction</summary>
 
 1. SAM3 ROS Wrapper [[link](https://github.com/SanghyunPark01/sam3_ros_wrapper)]: This repository provides a ROS wrapper for SAM3 (Segment Anything Model 3), compatible with both ROS1 and ROS2. It enables using SAM3-based segmentation within ROS pipelines while keeping the model code and ROS integration loosely coupled.
@@ -45,6 +46,7 @@ method that leverages both image and 3D point cloud information.
 VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION
 
 </details>
+<details>
 <summary>Segmentation</summary>
 
 2. Semantic Segmentation Layer [[link](https://github.com/kiwicampus/semantic_segmentation_layer)]: A custom nav2 costmap layer plugin inspired on stvl, that integrates semantic segmentation data into the navigation costmap. INCLUDE A NAV2 IMPLEMENTATION.
@@ -59,6 +61,7 @@ VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION
 
 
 </details>
+<details>
 <summary>Generative</summary>
 
 
