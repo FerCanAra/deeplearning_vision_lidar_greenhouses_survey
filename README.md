@@ -2,7 +2,7 @@
 A repository providing a state-of-the-art overview of the most important algorithms as a basis for their use in greenhouse agriculture. It focuses on computer vision algorithms using cameras and LiDARs, amongst other sensors.
 
 <div align="center"> 
-  <img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/fb4ad2c5-85ff-45f7-a888-cdcfb2e47ac8" />
+  <img width="600" height="200" alt="image" src="https://github.com/user-attachments/assets/fb4ad2c5-85ff-45f7-a888-cdcfb2e47ac8" />
 </div>
 
 *Author: Fernando Cañadas Aránega, PhD student in Agricultural Robotics at the University of Almería, Spain.*
@@ -15,10 +15,9 @@ A repository providing a state-of-the-art overview of the most important algorit
 
 The foundational articles underpinning the most significant advances in vision technology are available for subsequent application in agriculture, specifically in greenhouses.
 
-<div align="center"> 
-  <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/f7b791c9-9184-40de-9553-086af6dee76e" />
+<div align="center">
+  <img width="500" height="400" alt="1782812385159" src="https://github.com/user-attachments/assets/35642db1-79f8-49c6-b31f-bd0d2ab657c4" />
 </div>
-
 
 <details>
 <summary><strong>Classification</strong></summary>
@@ -26,7 +25,6 @@ The foundational articles underpinning the most significant advances in vision t
 <details>
   <summary><strong>1. Articles on mathematical foundations</strong></summary>
 
-  <img width="700" height="550" alt="1782812385159" src="https://github.com/user-attachments/assets/35642db1-79f8-49c6-b31f-bd0d2ab657c4" />
 
   1. ImageNet Classification with Deep Convolutional Neural Networks (AlexNet) (2012) [[link](https://dl.acm.org/doi/abs/10.1145/3065386)]. We trained a large, deep convolutional neural network to classify the 1.2 million high-resolution images in the ImageNet LSVRC-2010 contest into the 1000 different classes.
   
