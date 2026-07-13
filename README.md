@@ -11,37 +11,79 @@ A repository providing a state-of-the-art overview of the most important algorit
 
 *Website: https://linktr.ee/FerCanAra*
 
+
+
 ## Vision algorithms for robotics
 <details>
 <summary>Classification</summary>
 
   <details>
-  <summary>Base papers</summary>
+  <summary>1. Articles on mathematical foundations</summary>
 
-  1. VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION [[link](https://arxiv.org/pdf/1409.1556)][[Repository](https://github.com/Prabhu204/Very-Deep-Convolutional-Networks-for-Large-Scale-Image-Recognition)]. In this work we investigate the effect of the convolutional network depth on its accuracy in the large-scale image recognition setting.
+
+
+  1. ImageNet Classification with Deep Convolutional Neural Networks (AlexNet) (2012) [[link](https://dl.acm.org/doi/abs/10.1145/3065386)]. We trained a large, deep convolutional neural network to classify the 1.2 million high-resolution images in the ImageNet LSVRC-2010 contest into the 1000 different classes.
   
   <div align="center"> 
-    <img width="400" height="220" alt="image" src="https://github.com/user-attachments/assets/af978155-debb-433b-95f3-67b2555532a3" />
+    <img width="400" height="120" alt="image" src="https://github.com/user-attachments/assets/c0b36d27-d13a-46b9-8a08-ff7f1d03ef4c" />
   </div>
-  
+
   2. CLRNet Video Lane Pipeline [[link](https://github.com/yigitbalcioglu/Advanced-Lane-Detection-CLRNet)]: This repository is a practical lane-detection project built around CLRNet, focused on running ONNX inference on videos and producing stable, interpretable lane outputs.
   <div align="center"> 
     <img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/fe2f1ec3-e7cf-4073-b5eb-89a1c30a96dd" />
   </div>
   
-  3. Deep Residual Learning for Image Recognition [[link](https://arxiv.org/pdf/1512.03385)][[Repository](https://github.com/KaimingHe/deep-residual-networks)]. We explicitly reformulate the layers as learning residual functions with reference to the layer inputs, instead of learning unreferenced functions. 
+  3. Deep Residual Learning for Image Recognition (ResNet) [[link](https://arxiv.org/pdf/1512.03385)][[Repository](https://github.com/KaimingHe/deep-residual-networks)]. We explicitly reformulate the layers as learning residual functions with reference to the layer inputs, instead of learning unreferenced functions. 
   
   <div align="center"> 
     <img width="350" height="150" alt="image" src="https://github.com/user-attachments/assets/964b0b6e-dea4-438e-9778-622ad0173606" />
   </div>
   
-  4. A ConvNet for the 2020s [[link](https://arxiv.org/pdf/2201.03545)][[Repository](https://github.com/facebookresearch/ConvNeXt)]. A vanilla ViT, on the other hand, faces difficulties when applied to general computer vision tasks such as object detection and semantic segmentation. It is the hierarchical Transformers (e.g., Swin Transformers) that reintroduced several ConvNet priors, making Transformers practically viable as a generic vision backbone and demonstrating remarkable performance on a wide variety of vision tasks.
+  4. A ConvNet for the 2020s (ConvNext) [[link](https://arxiv.org/pdf/2201.03545)][[Repository](https://github.com/facebookresearch/ConvNeXt)]. A vanilla ViT, on the other hand, faces difficulties when applied to general computer vision tasks such as object detection and semantic segmentation. It is the hierarchical Transformers (e.g., Swin Transformers) that reintroduced several ConvNet priors, making Transformers practically viable as a generic vision backbone and demonstrating remarkable performance on a wide variety of vision tasks.
   
   <div align="center"> 
     <img width="350" height="200" alt="image" src="https://github.com/user-attachments/assets/9617dd38-49d3-4017-8ac1-6ed2d76525a7" />
   </div>
   </details>
 </details>
+
+  <details>
+  <summary>2. Articles on greenhouse farming</summary>
+
+  1. High-precision pest and disease detection in greenhouses using the novel IM-AlexNet framework (2025) [[link](https://www.nature.com/articles/s41538-025-00426-7)]]. This study proposes an improved AlexNet (IM-AlexNet) model incorporating ReLU6, batch normalization, and GoogleNet Inception-v3 to enhance pest and disease identification. 
+
+  <div align="center"> 
+    <img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/83e64ee9-d86a-4ad6-9835-a3b6249eab94" />
+  </div>
+
+  2. Intelligent Agricultural Greenhouse Extraction Method Based on Multifeature Modeling: Fusion of Geometric, Spatial, and Spectral Characteristics (2025) [[link](https://ieeexplore.ieee.org/abstract/document/10858674)]]. This article proposes an intelligent extraction model that effectively addresses the geometric, spatial, and spectral features of agricultural greenhouses in remote sensing images.
+
+  <div align="center"> 
+    <img width="160" height="270" alt="image" src="https://github.com/user-attachments/assets/0a41026b-f485-42f5-a22c-a93c9e2b70c2" />
+  </div>
+
+  3. Visual-language transformer-based tomato leaf disease detection for portable greenhouse monitoring device (2025) [[link](https://link.springer.com/article/10.1186/s13007-025-01456-8)]]. This paper introduces the Tomato Leaf Disease Visual Language Model (TLDVLM), a novel approach based on the BLIP-2 architecture enhanced with Low-Rank Adaptation (LoRA), for precise classification of 10 distinct tomato leaf diseases.
+
+  <div align="center"> 
+    <img width="400" height="100" alt="image" src="https://github.com/user-attachments/assets/94b6effe-2a71-4e75-b60a-17cfa92dc2d8" />
+  </div>
+
+  4. An environment-guided visual–temporal deep learning framework for early disease detection in greenhouse horticultural crops (2026) [[link](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1796407/full)]]. This study provides a practically valuable technical pathway for early intelligent warning and precise regulation of greenhouse crop diseases. 
+
+  <div align="center"> 
+    <img width="350" height="70" alt="image" src="https://github.com/user-attachments/assets/7e5a09fd-51b6-40fc-b4c7-4453cdfaf0dc" />
+  </div>
+
+  5. Real-Time Monitoring and Disease Detection in Greenhouses Using IoT and Deep Learning (2025) [[link](https://link.springer.com/chapter/10.1007/978-3-031-82733-4_14)]]. A deep learning model, built on the DenseNet121 architecture and trained on a comprehensive plant disease dataset, is embedded within Node-RED to facilitate immediate disease identification, achieving an impressive accuracy of 97.11% across 16,012 images spanning ten classes.
+
+  <div align="center"> 
+    <img width="350" height="70" alt="image" src="https://github.com/user-attachments/assets/7e5a09fd-51b6-40fc-b4c7-4453cdfaf0dc" />
+  </div>
+
+
+
+
+  </details>
 <details>
 <summary>Object detecction</summary>
 
@@ -89,6 +131,12 @@ a mAP of 53.3%.
 
 
 </details>
+
+
+
+
+
+
 
 
 
