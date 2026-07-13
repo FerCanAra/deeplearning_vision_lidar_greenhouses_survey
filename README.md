@@ -12,6 +12,20 @@ A repository providing a state-of-the-art overview of the most important algorit
 *Website: https://linktr.ee/FerCanAra*
 
 
+<details style="border: 1px solid #d0d7de; border-radius: 6px; padding: 12px; background-color: #f6f8fa; margin-bottom: 12px;">
+  <summary style="font-weight: bold; cursor: pointer; color: #0969da; list-style: none;">
+    📐 1. Articles on Mathematical Foundations
+  </summary>
+  <div style="margin-top: 10px; padding-left: 5px;">
+
+  Here you can list the foundation papers using standard Markdown:
+  
+  * **Paper 1:** *Review of 3D Point Cloud Processing* - Author et al. (2024) [[Link]](https://github.com)
+  * **Paper 2:** *Geometric Constraints in Greenhouse Environments* - Smith et al. (2025) [[Link]](https://github.com)
+  
+  </div>
+</details>
+
 
 ## Vision algorithms for robotics
 
@@ -48,7 +62,6 @@ A repository providing a state-of-the-art overview of the most important algorit
     <img width="350" height="200" alt="image" src="https://github.com/user-attachments/assets/9617dd38-49d3-4017-8ac1-6ed2d76525a7" />
   </div>
   </details>
-</details>
 
   <details>
   <summary>2. Articles on greenhouse farming</summary>
