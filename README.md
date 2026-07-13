@@ -15,14 +15,15 @@ A repository providing a state-of-the-art overview of the most important algorit
 
 ## Vision algorithms for robotics
 
-<img width="800" height="661" alt="1782812385159" src="https://github.com/user-attachments/assets/35642db1-79f8-49c6-b31f-bd0d2ab657c4" />
 
 
 <details>
 <summary>Classification</summary>
 
-  <details>
-  <summary>1. Articles on mathematical foundations</summary>
+<details>
+  <summary><strong>1. Articles on mathematical foundations</strong></summary>
+
+  <img width="800" height="661" alt="1782812385159" src="https://github.com/user-attachments/assets/35642db1-79f8-49c6-b31f-bd0d2ab657c4" />
 
   1. ImageNet Classification with Deep Convolutional Neural Networks (AlexNet) (2012) [[link](https://dl.acm.org/doi/abs/10.1145/3065386)]. We trained a large, deep convolutional neural network to classify the 1.2 million high-resolution images in the ImageNet LSVRC-2010 contest into the 1000 different classes.
   
