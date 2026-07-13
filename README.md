@@ -2,8 +2,14 @@
 A repository providing a state-of-the-art overview of the most important algorithms as a basis for their use in greenhouse agriculture. It focuses on computer vision algorithms using cameras and LiDARs, amongst other sensors.
 
 <div align="center"> 
-  <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/fb4ad2c5-85ff-45f7-a888-cdcfb2e47ac8" />
+  <img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/fb4ad2c5-85ff-45f7-a888-cdcfb2e47ac8" />
 </div>
+
+*Author: Fernando Cañadas Aránega, PhD student in Agriculture Robotics at the University of Almeria, Spain.*
+
+*Gmail: fernando.ca@ual.es*
+
+*Website: https://linktr.ee/FerCanAra*
 
 ## Vision algorithms for robotics
 <details>
