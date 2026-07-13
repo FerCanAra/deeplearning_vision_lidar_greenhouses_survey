@@ -80,6 +80,7 @@ The foundational articles underpinning the most significant advances in vision t
   <div align="center"> 
     <img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/7eb8340d-600e-4fae-a6d4-e1676792e07b" />
   </div>
+  </details>
 
 </details>
 <details>
