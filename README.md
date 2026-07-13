@@ -11,25 +11,9 @@ A repository providing a state-of-the-art overview of the most important algorit
 
 *Website: https://linktr.ee/FerCanAra*
 
-
-<details style="border: 1px solid #d0d7de; border-radius: 6px; padding: 12px; background-color: #f6f8fa; margin-bottom: 12px;">
-  <summary style="font-weight: bold; cursor: pointer; color: #0969da; list-style: none;">
-    📐 1. Articles on Mathematical Foundations
-  </summary>
-  <div style="margin-top: 10px; padding-left: 5px;">
-
-  Aquí dejas una línea totalmente vacía antes de escribir.
-  
-  * **Artículo A:** Ahora sí debería salir en negrita y como viñeta.
-  * **Artículo B:** Recuerda dejar otra línea vacía al final.
-
-  </div>
-</details>
-
-
 ## Vision algorithms for robotics
 
-
+The foundational articles underpinning the most significant advances in vision technology are available for subsequent application in agriculture, specifically in greenhouses.
 
 <details>
 <summary>Classification</summary>
