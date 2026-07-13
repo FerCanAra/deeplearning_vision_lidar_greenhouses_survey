@@ -89,7 +89,7 @@ VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION
 
 ## Robotics tools
 
-</details>
+<details>
 <summary>Maps generative</summary>
 
 [ROS-SLAM-Map-Editor](https://github.com/GyroPalm/ROS-SLAM-Map-Editor): A web-based map editor for quick editing of ROS and ROS2 SLAM maps
