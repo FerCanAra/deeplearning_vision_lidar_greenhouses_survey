@@ -5,7 +5,7 @@ A repository providing a state-of-the-art overview of the most important algorit
   <img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/fb4ad2c5-85ff-45f7-a888-cdcfb2e47ac8" />
 </div>
 
-*Author: Fernando Cañadas Aránega, PhD student in Agriculture Robotics at the University of Almeria, Spain.*
+*Author: Fernando Cañadas Aránega, PhD student in Agricultural Robotics at the University of Almería, Spain.*
 
 *Gmail: fernando.ca@ual.es*
 
@@ -16,17 +16,17 @@ A repository providing a state-of-the-art overview of the most important algorit
 The foundational articles underpinning the most significant advances in vision technology are available for subsequent application in agriculture, specifically in greenhouses.
 
 <div align="center"> 
-  <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/f7b791c9-9184-40de-9553-086af6dee76e" />
+  <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/f7b791c9-9184-40de-9553-086af6dee76e" />
 </div>
 
 
 <details>
-<summary>Classification</summary>
+<summary><strong>Classification</strong></summary>
 
 <details>
   <summary><strong>1. Articles on mathematical foundations</strong></summary>
 
-  <img width="800" height="661" alt="1782812385159" src="https://github.com/user-attachments/assets/35642db1-79f8-49c6-b31f-bd0d2ab657c4" />
+  <img width="700" height="550" alt="1782812385159" src="https://github.com/user-attachments/assets/35642db1-79f8-49c6-b31f-bd0d2ab657c4" />
 
   1. ImageNet Classification with Deep Convolutional Neural Networks (AlexNet) (2012) [[link](https://dl.acm.org/doi/abs/10.1145/3065386)]. We trained a large, deep convolutional neural network to classify the 1.2 million high-resolution images in the ImageNet LSVRC-2010 contest into the 1000 different classes.
   
@@ -34,18 +34,37 @@ The foundational articles underpinning the most significant advances in vision t
     <img width="400" height="120" alt="image" src="https://github.com/user-attachments/assets/c0b36d27-d13a-46b9-8a08-ff7f1d03ef4c" />
   </div>
 
-  2. CLRNet Video Lane Pipeline [[link](https://github.com/yigitbalcioglu/Advanced-Lane-Detection-CLRNet)]: This repository is a practical lane-detection project built around CLRNet, focused on running ONNX inference on videos and producing stable, interpretable lane outputs.
-  <div align="center"> 
-    <img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/fe2f1ec3-e7cf-4073-b5eb-89a1c30a96dd" />
-  </div>
-  
-  3. Deep Residual Learning for Image Recognition (ResNet) [[link](https://arxiv.org/pdf/1512.03385)][[Repository](https://github.com/KaimingHe/deep-residual-networks)]. We explicitly reformulate the layers as learning residual functions with reference to the layer inputs, instead of learning unreferenced functions. 
+  2. Deep Residual Learning for Image Recognition (ResNet) (2012) [[link](https://arxiv.org/pdf/1512.03385)][[Repository](https://github.com/KaimingHe/deep-residual-networks)]. We explicitly reformulate the layers as learning residual functions with reference to the layer inputs, instead of learning unreferenced functions. 
   
   <div align="center"> 
     <img width="350" height="150" alt="image" src="https://github.com/user-attachments/assets/964b0b6e-dea4-438e-9778-622ad0173606" />
   </div>
+
+  3. Densely Connected Convolutional Networks (DenseNet) (2017) [[link](https://arxiv.org/abs/1608.06993)]. In this paper, it embraces this observation and introduces the Dense Convolutional Network (DenseNet), which connects each layer to every other layer in a feed-forward fashion. Whereas traditional convolutional networks with L layers have L connections - one between each layer and its subsequent layer - our network has L(L+1)/2 direct connections.
+
+  <div align="center"> 
+    <img width="454" height="312" alt="image" src="https://github.com/user-attachments/assets/2631fa86-2df7-42e3-8a56-378cf92290e0" />
+  </div>
+
+  4. EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks (EfficientNet) (2019) [[link](https://arxiv.org/abs/1608.06993)]. In this paper, we systematically study model scaling and identify that carefully balancing network depth, width, and resolution can lead to better performance.
+
+  <div align="center"> 
+    <img width="600" height="150" alt="image" src="https://github.com/user-attachments/assets/130f89c1-bd1b-4e55-a529-db1d8339570c" />
+  </div>
+
+  5. An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (ViT) (2020) [[link](https://arxiv.org/pdf/2010.11929/100)].We show that this reliance on CNNs is not necessary and a pure transformer applied directly to sequences of image patches can perform very well on image classification tasks.
+
+  <div align="center"> 
+    <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/4a3d0727-23ae-42c0-95ef-1d11b9b1dfed" />
+  </div>
+
+ 6. Swin Transformer: Hierarchical Vision Transformer using Shifted Windows (Swim Transformer) (2021) [[link](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper)]. We propose a hierarchical Transformer whose representation is computed with Shifted windows. The shifted windowing scheme brings greater efficiency by limiting self-attention computation to non-overlapping local windows while also allowing for cross-window connection. 
   
-  4. A ConvNet for the 2020s (ConvNext) [[link](https://arxiv.org/pdf/2201.03545)][[Repository](https://github.com/facebookresearch/ConvNeXt)]. A vanilla ViT, on the other hand, faces difficulties when applied to general computer vision tasks such as object detection and semantic segmentation. It is the hierarchical Transformers (e.g., Swin Transformers) that reintroduced several ConvNet priors, making Transformers practically viable as a generic vision backbone and demonstrating remarkable performance on a wide variety of vision tasks.
+  <div align="center"> 
+    <img width="400" height="120" alt="image" src="https://github.com/user-attachments/assets/4ad93278-5c7d-4a73-8fad-b72e239929a0" />
+  </div>
+
+  7. A ConvNet for the 2020s (ConvNext) (2020) [[link](https://arxiv.org/pdf/2201.03545)][[Repository](https://github.com/facebookresearch/ConvNeXt)]. A vanilla ViT, on the other hand, faces difficulties when applied to general computer vision tasks such as object detection and semantic segmentation. It is the hierarchical Transformers (e.g., Swin Transformers) that reintroduced several ConvNet priors, making Transformers practically viable as a generic vision backbone and demonstrating remarkable performance on a wide variety of vision tasks.
   
   <div align="center"> 
     <img width="350" height="200" alt="image" src="https://github.com/user-attachments/assets/9617dd38-49d3-4017-8ac1-6ed2d76525a7" />
@@ -96,6 +115,13 @@ The foundational articles underpinning the most significant advances in vision t
   <div align="center"> 
     <img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/7eb8340d-600e-4fae-a6d4-e1676792e07b" />
   </div>
+
+  7. CLRNet Video Lane Pipeline [[link](https://github.com/yigitbalcioglu/Advanced-Lane-Detection-CLRNet)]: This repository is a practical lane-detection project built around CLRNet, focused on running ONNX inference on videos and producing stable, interpretable lane outputs.
+  <div align="center"> 
+    <img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/fe2f1ec3-e7cf-4073-b5eb-89a1c30a96dd" />
+  </div>
+
+  
   </details>
 
 
