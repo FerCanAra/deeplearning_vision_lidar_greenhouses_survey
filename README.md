@@ -4,6 +4,9 @@ Repositorio que proporciona un estado delñ arte de los alfgoritmos mas importan
 <details>
 <summary>Classification</summary>
 
+  <details>
+  <summary>Base papers</summary>
+
   1. VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION [[link](https://arxiv.org/pdf/1409.1556)][[Repository](https://github.com/Prabhu204/Very-Deep-Convolutional-Networks-for-Large-Scale-Image-Recognition)]. In this work we investigate the effect of the convolutional network depth on its accuracy in the large-scale image recognition setting.
   
   <div align="center"> 
@@ -26,7 +29,7 @@ Repositorio que proporciona un estado delñ arte de los alfgoritmos mas importan
   <div align="center"> 
     <img width="350" height="200" alt="image" src="https://github.com/user-attachments/assets/9617dd38-49d3-4017-8ac1-6ed2d76525a7" />
   </div>
-
+  </details>
 </details>
 <details>
 <summary>Object detecction</summary>
@@ -36,15 +39,23 @@ Repositorio que proporciona un estado delñ arte de los alfgoritmos mas importan
   <img width="415" height="251" alt="image" src="https://github.com/user-attachments/assets/30e6a956-3b41-4cc7-81b4-05fda4488c29" />
 </div>
 
-3. PointFusion: Deep Sensor Fusion for 3D Bounding Box Estimation [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_PointFusion_Deep_Sensor_CVPR_2018_paper.pdf)]: a generic 3D object detection
+2. PointFusion: Deep Sensor Fusion for 3D Bounding Box Estimation [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_PointFusion_Deep_Sensor_CVPR_2018_paper.pdf)]: a generic 3D object detection
 method that leverages both image and 3D point cloud information.
 <div align="center">
   <img width="500" height="100" alt="image" src="https://github.com/user-attachments/assets/3dbe2eae-37ba-44d7-830d-50dbe6251c9a" />
 </div>
 
+3. Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation (R-CNN) [[paper](https://openaccess.thecvf.com/content_cvpr_2014/html/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.html)]: Object detection performance, as measured on the canonical PASCAL VOC dataset, has plateaued in the last few years. The best-performing methods are complex ensemble systems that typically combine multiple low-level image features with high-level context. In this paper, we propose a simple and scalable detection algorithm that improves mean average precision (mAP) by more than 30% relative to the previous best result on VOC 2012—achieving
+a mAP of 53.3%.
+<div align="center">
+  <img width="400" height="150" alt="image" src="https://github.com/user-attachments/assets/42d80b9f-2948-40f1-a128-0d6850efc8a5" />
+</div>
 
-
-VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION
+4. You Only Look Once: Unified, Real-Time Object Detection (YOLO) [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Redmon_You_Only_Look_CVPR_2016_paper.html)][[Github](https://github.com/mgonzs13/yolo_ros/tree/yolo_ros)]: Object detection performance, as measured on the canonical PASCAL VOC dataset, has plateaued in the last few years. The best-performing methods are complex ensemble systems that typically combine multiple low-level image features with high-level context. In this paper, we propose a simple and scalable detection algorithm that improves mean average precision (mAP) by more than 30% relative to the previous best result on VOC 2012—achieving
+a mAP of 53.3%.
+<div align="center">
+  <img width="400" height="150" alt="image" src="https://github.com/user-attachments/assets/42d80b9f-2948-40f1-a128-0d6850efc8a5" />
+</div>
 
 </details>
 <details>
