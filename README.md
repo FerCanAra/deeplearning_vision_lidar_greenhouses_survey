@@ -14,6 +14,10 @@ A repository providing a state-of-the-art overview of the most important algorit
 
 
 ## Vision algorithms for robotics
+
+<img width="800" height="661" alt="1782812385159" src="https://github.com/user-attachments/assets/35642db1-79f8-49c6-b31f-bd0d2ab657c4" />
+
+
 <details>
 <summary>Classification</summary>
 
