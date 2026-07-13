@@ -26,7 +26,7 @@ The foundational articles underpinning the most significant advances in vision t
   <summary><strong>1. Articles on mathematical foundations</strong></summary>
 
 
-  1. ImageNet Classification with Deep Convolutional Neural Networks (AlexNet) (2012) [[link](https://dl.acm.org/doi/abs/10.1145/3065386)]. We trained a large, deep convolutional neural network to classify the 1.2 million high-resolution images in the ImageNet LSVRC-2010 contest into the 1000 different classes.
+  1. **ImageNet Classification with Deep Convolutional Neural Networks (AlexNet) (2012)** [[link](https://dl.acm.org/doi/abs/10.1145/3065386)]. We trained a large, deep convolutional neural network to classify the 1.2 million high-resolution images in the ImageNet LSVRC-2010 contest into the 1000 different classes.
   
   <div align="center"> 
     <img width="400" height="120" alt="image" src="https://github.com/user-attachments/assets/c0b36d27-d13a-46b9-8a08-ff7f1d03ef4c" />
