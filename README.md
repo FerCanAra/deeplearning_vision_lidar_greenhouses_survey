@@ -1,5 +1,10 @@
 # Robotics papers 🌱 🤖
-Repositorio que proporciona un estado delñ arte de los alfgoritmos mas importantes como base y su uso en la agricultura. Se centra en los algoritmos de visión por camaras y LiDARs
+A repository providing a state-of-the-art overview of the most important algorithms as a basis for their use in greenhouse agriculture. It focuses on computer vision algorithms using cameras and LiDARs, amongst other sensors.
+
+<div align="center"> 
+  <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/fb4ad2c5-85ff-45f7-a888-cdcfb2e47ac8" />
+</div>
+
 ## Vision algorithms for robotics
 <details>
 <summary>Classification</summary>
