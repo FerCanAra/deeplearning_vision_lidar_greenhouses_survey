@@ -1,6 +1,5 @@
 # Robotics papers 🌱 🤖
-Repository of articles and interesting repositories for robotics in agriculture
-
+Repositorio que proporciona un estado delñ arte de los alfgoritmos mas importantes como base y su uso en la agricultura. Se centra en los algoritmos de visión por camaras y LiDARs
 ## Vision algorithms for robotics
 <details>
 <summary>Classification</summary>
@@ -42,6 +41,8 @@ method that leverages both image and 3D point cloud information.
 <div align="center">
   <img width="500" height="100" alt="image" src="https://github.com/user-attachments/assets/3dbe2eae-37ba-44d7-830d-50dbe6251c9a" />
 </div>
+
+
 
 VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION
 
