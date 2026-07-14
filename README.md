@@ -16,7 +16,7 @@ A repository providing a state-of-the-art overview of the most important algorit
 The foundational articles underpinning the most significant advances in vision technology are available for subsequent application in agriculture, specifically in greenhouses.
 
 <div align="center">
-  <img width="500" height="400" alt="1782812385159" src="https://github.com/user-attachments/assets/35642db1-79f8-49c6-b31f-bd0d2ab657c4" />
+  <img width="500" height="401" alt="image" src="https://github.com/user-attachments/assets/c1a30492-9621-40f2-9ee6-8636a86856d1" />
 </div>
 
 <details>
@@ -218,6 +218,11 @@ a mAP of 53.3%.
 
 
 ## LiDAR algorithms for robotics
+<div align="center">
+<img width="500" height="450" alt="image" src="https://github.com/user-attachments/assets/f9b8a090-6c63-45ac-b6cc-03b6a0e2ba8c" />
+</div>
+
+
 <details>
 <summary>Vision algorithms for robotics</summary>
 
