@@ -26,13 +26,13 @@ The foundational articles underpinning the most significant advances in vision t
   <summary><strong>1. Articles on mathematical foundations</strong></summary>
 
 
-  1. *ImageNet Classification with Deep Convolutional Neural Networks (AlexNet) (2012)* [[link](https://dl.acm.org/doi/abs/10.1145/3065386)]. We trained a large, deep convolutional neural network to classify the 1.2 million high-resolution images in the ImageNet LSVRC-2010 contest into the 1000 different classes.
+  1. Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). _Imagenet classification with deep convolutional neural networks (AlexNet)_. Advances in neural information processing systems, 25. [[link](https://dl.acm.org/doi/abs/10.1145/3065386)]. We trained a large, deep convolutional neural network to classify the 1.2 million high-resolution images in the ImageNet LSVRC-2010 contest into the 1000 different classes.
   
   <div align="center"> 
     <img width="400" height="120" alt="image" src="https://github.com/user-attachments/assets/c0b36d27-d13a-46b9-8a08-ff7f1d03ef4c" />
   </div>
 
-  2. _Deep Residual Learning for Image Recognition (ResNet) (2012)_ [[link](https://arxiv.org/pdf/1512.03385)][[Repository](https://github.com/KaimingHe/deep-residual-networks)]. We explicitly reformulate the layers as learning residual functions with reference to the layer inputs, instead of learning unreferenced functions. 
+  2. He, K., Zhang, X., Ren, S., & Sun, J. (2016). _Deep residual learning for image recognition (ResNet)_. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 770-778). [[link](https://arxiv.org/pdf/1512.03385)]. We explicitly reformulate the layers as learning residual functions with reference to the layer inputs, instead of learning unreferenced functions. 
   
   <div align="center"> 
     <img width="350" height="150" alt="image" src="https://github.com/user-attachments/assets/964b0b6e-dea4-438e-9778-622ad0173606" />
