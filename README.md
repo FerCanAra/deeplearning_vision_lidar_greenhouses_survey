@@ -46,7 +46,6 @@ The foundational articles underpinning the most significant advances in vision t
   ### AlexNet Algoritm
 
 
-
   ### VGG Algoritm
   1. High-precision pest and disease detection in greenhouses using the novel IM-AlexNet framework (2025) [[link](https://www.nature.com/articles/s41538-025-00426-7)]]. This study proposes an improved AlexNet (IM-AlexNet) model incorporating ReLU6, batch normalization, and GoogleNet Inception-v3 to enhance pest and disease identification. 
 
@@ -144,6 +143,7 @@ a mAP of 53.3%.
 </div>
 </details>
 </details>
+
 <details>
 <summary><strong>Segmentation</strong></summary>
 
@@ -162,9 +162,7 @@ a mAP of 53.3%.
 
  6. Kirillov, A., Mintun, E., Ravi, N., Mao, H., Rolland, C., Gustafson, L., Tete, X., Spencer, W., Alexander, B., Wan-Yen, L., Piotr, D., & Girshick, R. (2023). _Segment anything (SAM)_. In Proceedings of the IEEE/CVF international conference on computer vision (pp. 4015-4026). [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Kirillov_Segment_Anything_ICCV_2023_paper.html)].
 
-
 </details>
-
 
 <details>
   <summary><strong>2. Articles on greenhouse farming</strong></summary>
