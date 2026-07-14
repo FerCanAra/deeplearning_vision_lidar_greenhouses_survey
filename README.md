@@ -181,6 +181,7 @@ a mAP of 53.3%.
 
 
 </details>
+</details>
 <details>
 <summary>Generative</summary>
 
