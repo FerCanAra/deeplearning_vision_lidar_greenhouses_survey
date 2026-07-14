@@ -95,7 +95,7 @@ The foundational articles underpinning the most significant advances in vision t
 
 </details>
 <details>
-<summary><strong>Object detecction</strong>strong></summary>
+<summary><strong>Object detecction</strong></summary>
 
 <details>
   <summary><strong>1. Articles on mathematical foundations</strong></summary>
@@ -145,7 +145,11 @@ a mAP of 53.3%.
 </details>
 </details>
 <details>
-<summary>Segmentation</summary>
+<summary><strong>Segmentation</strong></summary>
+
+<details>
+  <summary><strong>1. Articles on mathematical foundations</strong></summary>
+
 
 2. Semantic Segmentation Layer [[link](https://github.com/kiwicampus/semantic_segmentation_layer)]: A custom nav2 costmap layer plugin inspired on stvl, that integrates semantic segmentation data into the navigation costmap. INCLUDE A NAV2 IMPLEMENTATION.
 <div align="center">
@@ -185,7 +189,7 @@ a mAP of 53.3%.
 
 
 VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION
-
+</details>
 </details>
 
 
