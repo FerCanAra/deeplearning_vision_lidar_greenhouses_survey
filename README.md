@@ -25,49 +25,19 @@ The foundational articles underpinning the most significant advances in vision t
 <details>
   <summary><strong>1. Articles on mathematical foundations</strong></summary>
 
-
-  1. Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). _Imagenet classification with deep convolutional neural networks (AlexNet)_. Advances in neural information processing systems, 25. [[link](https://dl.acm.org/doi/abs/10.1145/3065386)]. We trained a large, deep convolutional neural network to classify the 1.2 million high-resolution images in the ImageNet LSVRC-2010 contest into the 1000 different classes.
+  1. Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). _Imagenet classification with deep convolutional neural networks (AlexNet)_. Advances in neural information processing systems, 25. [[link](https://dl.acm.org/doi/abs/10.1145/3065386)].
   
-  <div align="center"> 
-    <img width="400" height="120" alt="image" src="https://github.com/user-attachments/assets/c0b36d27-d13a-46b9-8a08-ff7f1d03ef4c" />
-  </div>
+  2. He, K., Zhang, X., Ren, S., & Sun, J. (2016). _Deep residual learning for image recognition (ResNet)_. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 770-778). [[link](https://arxiv.org/pdf/1512.03385)].
 
-  2. He, K., Zhang, X., Ren, S., & Sun, J. (2016). _Deep residual learning for image recognition (ResNet)_. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 770-778). [[link](https://arxiv.org/pdf/1512.03385)]. We explicitly reformulate the layers as learning residual functions with reference to the layer inputs, instead of learning unreferenced functions. 
-  
-  <div align="center"> 
-    <img width="350" height="150" alt="image" src="https://github.com/user-attachments/assets/964b0b6e-dea4-438e-9778-622ad0173606" />
-  </div>
+  3. Huang, G., Liu, Z., Van Der Maaten, L., & Weinberger, K. Q. (2017). _Densely connected convolutional networks (DenseNet)_. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 4700-4708). [[link](https://arxiv.org/abs/1608.06993)].
 
-  3. _Densely Connected Convolutional Networks (DenseNet) (2017)_ [[link](https://arxiv.org/abs/1608.06993)]. In this paper, it embraces this observation and introduces the Dense Convolutional Network (DenseNet), which connects each layer to every other layer in a feed-forward fashion. Whereas traditional convolutional networks with L layers have L connections - one between each layer and its subsequent layer - our network has L(L+1)/2 direct connections.
+  4. Tan, M., & Le, Q. (2019). _Efficientnet: Rethinking model scaling for convolutional neural networks_. In International conference on machine learning (pp. 6105-6114). PMLR. [[link](https://arxiv.org/abs/1608.06993)]. 
 
-  <div align="center"> 
-    <img width="454" height="312" alt="image" src="https://github.com/user-attachments/assets/2631fa86-2df7-42e3-8a56-378cf92290e0" />
-  </div>
+  5. Dosovitskiy, A., Beyer, L., Kolesnikov, A., Weissenborn, D., Zhai, X., Unterthiner, T., Mostafa, D., Mattias, M., Georg, H., Sylvain, G., Jakob, U., & Houlsby, N. (2020). _An image is worth 16x16 words: Transformers for image recognition at scale (ViT)_. arXiv preprint arXiv:2010.11929. [[link](https://arxiv.org/pdf/2010.11929/100)].
 
-  4. _EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks (EfficientNet) (2019)_ [[link](https://arxiv.org/abs/1608.06993)]. In this paper, we systematically study model scaling and identify that carefully balancing network depth, width, and resolution can lead to better performance.
+ 6. Liu, Z., Lin, Y., Cao, Y., Hu, H., Wei, Y., Zhang, Z., Stephen, L., & Guo, B. (2021). _Swin transformer: Hierarchical vision transformer using shifted windows_. In Proceedings of the IEEE/CVF international conference on computer vision (pp. 10012-10022). [[link](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper)].
 
-  <div align="center"> 
-    <img width="600" height="150" alt="image" src="https://github.com/user-attachments/assets/130f89c1-bd1b-4e55-a529-db1d8339570c" />
-  </div>
-
-  5. _An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (ViT) (2020)_ [[link](https://arxiv.org/pdf/2010.11929/100)]. We show that this reliance on CNNs is not necessary and a pure transformer applied directly to sequences of image patches can perform very well on image classification tasks.
-
-  <div align="center"> 
-    <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/4a3d0727-23ae-42c0-95ef-1d11b9b1dfed" />
-  </div>
-
- 6. _Swin Transformer: Hierarchical Vision Transformer using Shifted Windows (Swim Transformer) (2021)_ [[link](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper)]. We propose a hierarchical Transformer whose representation is computed with Shifted windows. The shifted windowing scheme brings greater efficiency by limiting self-attention computation to non-overlapping local windows while also allowing for cross-window connection. 
-  
-  <div align="center"> 
-    <img width="400" height="120" alt="image" src="https://github.com/user-attachments/assets/4ad93278-5c7d-4a73-8fad-b72e239929a0" />
-  </div>
-
-  7. _A ConvNet for the 2020s (ConvNext) (2020)_ [[link](https://arxiv.org/pdf/2201.03545)][[Repository](https://github.com/facebookresearch/ConvNeXt)]. A vanilla ViT, on the other hand, faces difficulties when applied to general computer vision tasks such as object detection and semantic segmentation. It is the hierarchical Transformers (e.g., Swin Transformers) that reintroduced several ConvNet priors, making Transformers practically viable as a generic vision backbone and demonstrating remarkable performance on a wide variety of vision tasks.
-  
-  <div align="center"> 
-    <img width="350" height="200" alt="image" src="https://github.com/user-attachments/assets/9617dd38-49d3-4017-8ac1-6ed2d76525a7" />
-  </div>
-  </details>
+  7. Liu, Z., Mao, H., Wu, C. Y., Feichtenhofer, C., Darrell, T., & Xie, S. (2022). A convnet for the 2020s. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 11976-11986). [[link](https://arxiv.org/pdf/2201.03545)].
 
 <details>
   <summary><strong>2. Articles on greenhouse farming</strong>strong></summary>
