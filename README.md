@@ -219,7 +219,7 @@ a mAP of 53.3%.
 
 ## LiDAR algorithms for robotics
 <div align="center">
-<img width="500" height="420" alt="image" src="https://github.com/user-attachments/assets/96a12cee-7641-4dec-89ba-4444ed315a88" />
+  <img width="500" height="432" alt="image" src="https://github.com/user-attachments/assets/55cb1db4-f464-4f9b-a0f3-fdebc508851b" />
 </div>
 
 
