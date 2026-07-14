@@ -116,7 +116,10 @@ The foundational articles underpinning the most significant advances in vision t
 
   8. He, K., Gkioxari, G., Dollár, P., & Girshick, R. (2017). _Mask R-CNN_. In Proceedings of the IEEE international conference on computer vision (pp. 2961-2969). [[paper](https://openaccess.thecvf.com/content_iccv_2017/html/He_Mask_R-CNN_ICCV_2017_paper.html)].
 
-
+</details>
+<details>
+  <summary><strong>2. Articles on greenhouse farming</strong></summary>
+  
 1. SAM3 ROS Wrapper [[link](https://github.com/SanghyunPark01/sam3_ros_wrapper)]: This repository provides a ROS wrapper for SAM3 (Segment Anything Model 3), compatible with both ROS1 and ROS2. It enables using SAM3-based segmentation within ROS pipelines while keeping the model code and ROS integration loosely coupled.
 <div align="center">
   <img width="415" height="251" alt="image" src="https://github.com/user-attachments/assets/30e6a956-3b41-4cc7-81b4-05fda4488c29" />
@@ -139,7 +142,7 @@ a mAP of 53.3%.
 <div align="center">
   <img width="400" height="150" alt="image" src="https://github.com/user-attachments/assets/42d80b9f-2948-40f1-a128-0d6850efc8a5" />
 </div>
-
+</details>
 </details>
 <details>
 <summary>Segmentation</summary>
