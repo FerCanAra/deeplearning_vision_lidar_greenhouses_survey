@@ -39,6 +39,7 @@ The foundational articles underpinning the most significant advances in vision t
 
   7. Liu, Z., Mao, H., Wu, C. Y., Feichtenhofer, C., Darrell, T., & Xie, S. (2022). A convnet for the 2020s. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 11976-11986). [[paper](https://arxiv.org/pdf/2201.03545)].
 
+</details>
 <details>
   <summary><strong>2. Articles on greenhouse farming</strong></summary>
 
@@ -94,7 +95,7 @@ The foundational articles underpinning the most significant advances in vision t
 
 </details>
 <details>
-<summary>Object detecction</summary>
+<summary><strong>Object detecction</strong>strong></summary>
 
 <details>
   <summary><strong>1. Articles on mathematical foundations</strong></summary>
