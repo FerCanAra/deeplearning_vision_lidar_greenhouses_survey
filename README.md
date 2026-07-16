@@ -64,15 +64,34 @@ The foundational articles underpinning the most significant advances in vision t
 
   7. Kiran, K., Gopal, L., Agarwal, V., Bansal, V., & Gupta, R. (2026, April). CNN-Based Tomato Leaf Disease Detection for Sustainable Agriculture. In 2026 13th International Conference on Computing for Sustainable Global Development (INDIACom) (pp. 1-6). IEEE. [[link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11526549)]
 
-  8. Xiang, J., Ge, J., Fu, C., Huang, J., Lu, M., Zhang, Z., Yihong, S., & Yan, S. (2026). An environment-guided visual–temporal deep learning framework for early disease detection in greenhouse horticultural crops. Frontiers in Plant Science, 17, 1796407. [[link]([https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1796407/full](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1796407/full))]].
-  9. 
-  10. Antony, A. J., & Murugan, R. (2026, April). Transforming Agriculture with AI: Insights into Computer Vision Applications for Sustainable Farming. In 2026 International Conference on AI-Driven Innovations & Applications (IC-AIDA) (pp. 1-12). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/11564160)]
+  8. Xiang, J., Ge, J., Fu, C., Huang, J., Lu, M., Zhang, Z., Yihong, S., & Yan, S. (2026). An environment-guided visual–temporal deep learning framework for early disease detection in greenhouse horticultural crops. Frontiers in Plant Science, 17, 1796407. [[link](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1796407/full)]].
+     
+  9. Antony, A. J., & Murugan, R. (2026, April). Transforming Agriculture with AI: Insights into Computer Vision Applications for Sustainable Farming. In 2026 International Conference on AI-Driven Innovations & Applications (IC-AIDA) (pp. 1-12). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/11564160)]
+      
+  10. Upadhyay, A., Chandel, N. S., Singh, K. P., Chakraborty, S. K., Nandede, B. M., Kumar, M., Subbesh, A., Upendar, K., Salem, A., & Elbeltagi, A. (2025). _Deep learning and computer vision in plant disease detection: a comprehensive review of techniques, models, and trends in precision agriculture._ Artificial Intelligence Review, 58(3), 92. [[paper](https://link.springer.com/article/10.1007/s10462-024-11100-x)]
 
 <!-- -----------------ResNet -------------------- -->
 
   1. Swamy, L. N., Parande, P. V., Kumar, H. M., Rakshitha, V., Thimmaraju, S. N., & Yogesha, T. (2026). Convolutional Neural Network Architectures for Enhanced Tomato Leaf Disease Classification using ResNet-152 and VGGNet Model. Indian Journal of Agricultural Research, 60(1), 130-134. [[paper](https://indianjournals.com/article/ijar2-60-1-019)]
+     
+  2. Jain, E., Kukreja, V., Kaushik, P., Ahuja, V., & Bansal, A. (2025). Hybrid ViT-ResNet: A High-Accuracy AI Model for Automated Strawberry Ripeness Classification in Precision Agriculture. Applied Fruit Science, 67(5), 368. [[paper](https://link.springer.com/article/10.1007/s10341-025-01576-4)]
+     
+  3. Jiang, N. (2025, November). Crop disease detection for greenhouses: a lightweight solution combining ResNet and Inception. In International Conference on Advanced Algorithms and Image Processing Technologies (IC-AAIP 2025) (Vol. 13933, pp. 50-56). SPIE. [[paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13933/1393309/Crop-disease-detection-for-greenhouses--a-lightweight-solution-combining/10.1117/12.3090705.short)]
+     
+  4. Muthaiah, U., Reddy, Y. N., & Roy, R. V. (2026, January). RESNET Based Crop Disease Detection Models Using Convolutional Neural Networks. In Operations Research and Data Analytics: Current Trends and Future Perspectives: Selected Papers from International Conference on Industrial Engineering and Analytics (ICONIEA) 2024 (pp. 365-386). Singapore: Springer Nature Singapore. [[paper](https://link.springer.com/chapter/10.1007/978-981-96-8327-7_20)]
 
+  5. Zhang, K., Chai, Q., Gao, R., Shen, A., Liu, X., Yang, L., Pang, G., Wang, Y., Liu, X., & Sun, J. (2026). Deep learning-powered diagnosis of greenhouse tomato growth using time-series RGB images. Computers and Electronics in Agriculture, 245, 111566. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169926001614)]
 
+  6. Yusof, M. I., Yasin, F. N. M., Risangtuni, A. G., Putra, N. K., Samseh, S. H., Zainal, A., & Sani, M. A. A. (2026). Enhancing Greenhouse Pollination with CNN-Based Micro-UAV for Real-Time Flower Detection. [[paper](https://www.preprints.org/manuscript/202602.2026)]
+
+  7. Xue, X., Thakur, V., Dhumras, H., Jhaveri, R. H., & Gadekallu, T. R. (2025). Real-Time Pest Detection Using ResNet-50 and Vision Transformer: An IoT-Enabled Mobile Application for Smart Agriculture. IEEE Transactions on Consumer Electronics. [[paper](https://ieeexplore.ieee.org/abstract/document/11127220)]
+
+  8. Wang, L., Li, Y., Lin, H., Tong, J., Sun, L., Wang, X., & Jiang, J. (2025). RTR-CNN: Rotated tray region selection and young seedling health status detection by CNN in greenhouse seedbed. Computers and Electronics in Agriculture, 229, 109723. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169924011141)]
+
+  9. Zhang, L., Li, X., Yang, Z., Yang, B., Yu, S., Zhao, S., ... & Yang, M. (2025). Tomato seedling stem and leaf segmentation method based on an improved ResNet architecture. Frontiers in Plant Science, 16, 1571445. [paper](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1571445/full)]
+
+  10. Cohen, A., Muriki, H., Sun, Y., Qin, Z., Gan, L., & Chen, Y. (2025). A Proof-of-Concept for Non-Destructive Lettuce Nutrient Assessment Using Vision Transformers and Residual Networks on Raw Hyperspectral Imagery. Smart Agricultural Technology, 101501.[[paper](https://www.sciencedirect.com/science/article/pii/S2772375525007324)]
+      
 <!-- -----------------DenseNet -------------------- -->
 
   1. Jain, S., & Rajpoot, R. (2025). Real-Time Monitoring and Disease Detection in Greenhouses Using IoT and Deep Learning. In Computational Intelligence Techniques for 5G Enabled IoT Networks (pp. 213-235). Cham: Springer Nature Switzerland. [paper](https://link.springer.com/chapter/10.1007/978-3-031-82733-4_14)]
