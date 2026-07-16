@@ -11,6 +11,8 @@ A repository providing a state-of-the-art overview of the most important algorit
 
 *Website: https://linktr.ee/FerCanAra*
 
+<!-- Algoritmo de visión que utilizan -->
+
 ## Vision algorithms for robotics
 
 The foundational articles underpinning the most significant advances in vision technology are available for subsequent application in agriculture, specifically in greenhouses.
@@ -18,6 +20,9 @@ The foundational articles underpinning the most significant advances in vision t
 <div align="center">
   <img width="500" height="423" alt="image" src="https://github.com/user-attachments/assets/f28ec83f-27d0-4b56-ac4e-cbc57965b4b6" />
 </div>
+
+<!-- -------------------------------------Clasificación --------------------------------------- -->
+
 
 <details>
 <summary><strong>Classification</strong></summary>
@@ -43,54 +48,74 @@ The foundational articles underpinning the most significant advances in vision t
 <details>
   <summary><strong>2. Articles on greenhouse farming</strong></summary>
 
-  ### AlexNet Algoritm
+<!-- -----------------AlexNet -------------------- -->
+
+  1. Tang, R., Aridas, N. K., Talip, M. S. A., Yang, J., & Tang, J. (2025). _High-precision pest and disease detection in greenhouses using the novel IM-AlexNet framework_. npj Science of Food, 9(1), 68. [[paper](https://www.nature.com/articles/s41538-025-00426-7)]].
+
+  2. Ragavee, U., Oviya, R., & KR, N. (2025). _Renewable Energy-Driven IoT System for Automated Greenhouse Monitoring_. In 2025 International Conference On Emerging Computation and Information Technologies (ICECIT) (pp. 1-6). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/11450958)]
+
+  3. Zimmermann, G. B., Pellenz, M. E., Costa, Y. M., & Britto Jr, A. D. S. (2025). _Enhancing Disease and Pest Detection in Greenhouse Tomato Cultivation Using Advanced Machine Learning on New Dataset of Images_. Journal of the Brazilian Computer Society, 31(1). [[paper](https://openurl.ebsco.com/EPDB%3Agcd%3A16%3A20183152/detailv2?sid=ebsco%3Aplink%3Ascholar-a&id=ebsco%3Agcd%3A184589193&crl=c&jrnl=01046500&id_token_hint=eyJraWQiOiIxNzY5MTEwMjQ0MDQ3IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiJzNTYwMjQ3OC5tYWluIiwiZGV2aWNlX2lkIjoiMzc2MDRkNWQtNmI2OS00N2NkLTkxMWQtNTlmZTMzM2Q4MzVkIiwiYW1yIjpbImlwIl0sImlzcyI6Imh0dHBzOi8vYXV0aC5lYnNjby56b25lL2FwaS9kaXNwYXRjaGVyIiwiY2xpZW50X2lkIjoiYXdneWNJeDU3TXJ3bkRRNWg0VWU2eUNWRVAwcjVNdDkiLCJhdWQiOlsiaHR0cHM6Ly9hdXRoLmVic2NvLnpvbmUvYXBpL2Rpc3BhdGNoZXIiLCJodHRwOi8vYXV0aC1jeHQtbWdyLmVob3N0LWxpdmUuZWtzLmVob3N0LWxpdmUuZWlzbHouY29tIiwiaHR0cDovL3hmZi1wcm9jZXNzb3ItamF2YS5laG9zdC1kZXYuZWtzLmVob3N0LWRldnFhLmVpc2x6LmNvbS9zd2FnZ2VyLXVpL2luZGV4Lmh0bWwiLCJodHRwczovL2FjY2Vzcy1hcGkuZWJzY28uY29tIiwiYXdneWNJeDU3TXJ3bkRRNWg0VWU2eUNWRVAwcjVNdDkiXSwiYXpwIjoiYXdneWNJeDU3TXJ3bkRRNWg0VWU2eUNWRVAwcjVNdDkiLCJpZHQiOiJpbnN0aXR1dGlvbmFsIiwiZXhwIjoxNzg0MjAzMzEzLCJpYXQiOjE3ODQxOTk3MTMsImNsaWVudF9uYW1lIjoiV2ViYXV0aCAtIE5ldyBFRFMgaWRfdG9rZW4iLCJqdGkiOiI5YWRlNmY3Yy03ZTU2LTQ2MmUtYTg5Mi05NGJkOGRjYjIwNmIiLCJ1c2VybmFtZSI6Ikluc3RpdHV0aW9uYWxVc2VyIn0.Mybbsd6X8tswrXUO3Z3Pn5vsFqaTCu3Tfm86nwa6H6D6WbqS5QxxObyWJLXZfy6F2Zj4Po2cVisazLGBywtHGOFxGnREa5jsfWvWoCbr4qoxb1F17eMXu_wQjBF-rRkvzZHHyPnAjIJ6CKaY1We8yImKti2li3g_B0L1GeGLa8oT031X6R6PQjULKgWoD-K_xJsSYl4ol3A211GlVLE16bx07MNni3T3jLgKmNHRw_IDKTP_0JXCblq21oc1hX1LfBjYenLWrKc5U6HgA3xEHUK5kwcYyqs-jf_mtoRxyd7MZ0llVRXvsNHZ5Ah2E8NhMdUJIajUmAT2Q-qfDWuxgQ&link_origin=scholar.google.es)]
+
+  4. Bhaskar, C. G., Krishnan, C. A., & Manimekala, B. (2026). _Automated tomato leaf disease diagnosis with improved Alex Net model_. In AIP Conference Proceedings (Vol. 3427, No. 1, p. 020015). AIP Publishing LLC. [[paper](https://pubs.aip.org/aip/acp/article-abstract/3427/1/020015/3392439/Automated-tomato-leaf-disease-diagnosis-with)]
+
+  5. Rao, S. T., Dulla, T. C., Kolla, V. K., Kurakula, G. S., Suneetha, M., Moturi, S., & Reddy, D. V. (2025, March). _Deeplearning-based tomato leaf disease identification: Enhancing classification with alexnet_. In 2025 IEEE International Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI) (Vol. 3, pp. 1-6). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/10984969)]
+
+  6. Parvez, S., Uddin, M. A., Islam, M. M., Bharman, P., & Talukder, M. A. (2025). _Tomato leaf disease detection using convolutional neural network_. In Applied Intelligence for Healthcare Informatics (pp. 42-55). CRC Press. [[paper](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003583363-4/tomato-leaf-disease-detection-using-convolutional-neural-network-shamima-parvez-md-ashraf-uddin-md-manowarul-islam-pallab-bharman-md-alamin-talukder)]
+
+  7. Kiran, K., Gopal, L., Agarwal, V., Bansal, V., & Gupta, R. (2026, April). CNN-Based Tomato Leaf Disease Detection for Sustainable Agriculture. In 2026 13th International Conference on Computing for Sustainable Global Development (INDIACom) (pp. 1-6). IEEE. [[link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11526549)]
+
+  8. Xiang, J., Ge, J., Fu, C., Huang, J., Lu, M., Zhang, Z., Yihong, S., & Yan, S. (2026). An environment-guided visual–temporal deep learning framework for early disease detection in greenhouse horticultural crops. Frontiers in Plant Science, 17, 1796407. [[link]([https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1796407/full](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1796407/full))]].
+  9. 
+  10. Antony, A. J., & Murugan, R. (2026, April). Transforming Agriculture with AI: Insights into Computer Vision Applications for Sustainable Farming. In 2026 International Conference on AI-Driven Innovations & Applications (IC-AIDA) (pp. 1-12). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/11564160)]
+
+<!-- -----------------ResNet -------------------- -->
+
+  1. Swamy, L. N., Parande, P. V., Kumar, H. M., Rakshitha, V., Thimmaraju, S. N., & Yogesha, T. (2026). Convolutional Neural Network Architectures for Enhanced Tomato Leaf Disease Classification using ResNet-152 and VGGNet Model. Indian Journal of Agricultural Research, 60(1), 130-134. [[paper](https://indianjournals.com/article/ijar2-60-1-019)]
 
 
-  ### VGG Algoritm
-  1. High-precision pest and disease detection in greenhouses using the novel IM-AlexNet framework (2025) [[link](https://www.nature.com/articles/s41538-025-00426-7)]]. This study proposes an improved AlexNet (IM-AlexNet) model incorporating ReLU6, batch normalization, and GoogleNet Inception-v3 to enhance pest and disease identification. 
+<!-- -----------------DenseNet -------------------- -->
 
-  <div align="center"> 
-    <img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/83e64ee9-d86a-4ad6-9835-a3b6249eab94" />
-  </div>
+  1. Jain, S., & Rajpoot, R. (2025). Real-Time Monitoring and Disease Detection in Greenhouses Using IoT and Deep Learning. In Computational Intelligence Techniques for 5G Enabled IoT Networks (pp. 213-235). Cham: Springer Nature Switzerland. [paper](https://link.springer.com/chapter/10.1007/978-3-031-82733-4_14)]
 
-  2. Transfer Learning for Multi-Crop Leaf Disease Image Classification using Convolutional Neural Network VGG (2026) [[link](https://www.sciencedirect.com/science/article/pii/S2589721721000416)]]. The CNN based Visual Geometry Group (VGG) model is used for improved performance measures. The crops leaves images dataset is considered for training and testing the model. 
+  2. Jain, S., & Rajpoot, R. (2025). Real-Time Monitoring and Disease Detection in Greenhouses Using IoT and Deep Learning. In Computational Intelligence Techniques for 5G Enabled IoT Networks (pp. 213-235). Cham: Springer Nature Switzerland. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-82733-4_14)]].
 
-  <div align="center"> 
-    <img width="712" height="244" alt="image" src="https://github.com/user-attachments/assets/e6ddeebf-1d13-4bc2-bd01-9f844303bab1" />
-  </div>
+<!-- ----------------- VGG -------------------- -->
 
-  3. Intelligent Agricultural Greenhouse Extraction Method Based on Multifeature Modeling: Fusion of Geometric, Spatial, and Spectral Characteristics (2025) [[link](https://ieeexplore.ieee.org/abstract/document/10858674)]]. This article proposes an intelligent extraction model that effectively addresses the geometric, spatial, and spectral features of agricultural greenhouses in remote sensing images.
+  1. Paymode, A. S., & Malode, V. B. (2022). _Transfer learning for multi-crop leaf disease image classification using convolutional neural network VGG_. Artificial Intelligence in Agriculture, 6, 23-33. [[link](https://www.sciencedirect.com/science/article/pii/S2589721721000416)]].
 
-  <div align="center"> 
-    <img width="480" height="700" alt="image" src="https://github.com/user-attachments/assets/0a41026b-f485-42f5-a22c-a93c9e2b70c2" />
-  </div>
+<!-- -----------------EfficientNet -------------------- -->
 
-  4. Visual-language transformer-based tomato leaf disease detection for portable greenhouse monitoring device (2025) [[link](https://link.springer.com/article/10.1186/s13007-025-01456-8)]]. This paper introduces the Tomato Leaf Disease Visual Language Model (TLDVLM), a novel approach based on the BLIP-2 architecture enhanced with Low-Rank Adaptation (LoRA), for precise classification of 10 distinct tomato leaf diseases.
 
-  <div align="center"> 
-    <img width="400" height="100" alt="image" src="https://github.com/user-attachments/assets/94b6effe-2a71-4e75-b60a-17cfa92dc2d8" />
-  </div>
+  1. Ray, R. K., Chakravarty, S., Dash, S., Ghosh, A., Mohanty, S. N., Chirra, V. R. R., ... & Khan, M. I. (2025). Precision pest management in agriculture using Inception V3 and EfficientNet B4: A deep learning approach for crop protection. Information Processing in Agriculture. [[link](https://pdf.sciencedirectassets.com/287278/1-s2.0-S2214317326X20017/1-s2.0-S2214317325000484/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEHoaCXVzLWVhc3QtMSJHMEUCIQDFNdaJIpMO8un2YREl7ZzcR%2Bqjy%2B64kSGwm7iKWvblCgIgTGxpVQRcxrsvVie1HRFhAaCOUxQWMd4wGsiRe%2BKB35AqsgUIQxAFGgwwNTkwMDM1NDY4NjUiDFEQNIwycl46KUiUjSqPBVXT4m3h9No4L6wVf3jWMgu5FI0PtsfwSTOrwkg3rNX8cTRZu435trwyQZOYerFMyZgDIwKumHZaJcv28ZM6Uz4mZWViw%2FpVxBsDjwpJGg%2FRS9D40ZMCEBXEOSrNi3hKn4BTmnzn5FeDhklkAZ9skAqXTO792oRz6OWckq1n3v%2F6%2F8t7Qg20H0r94o3P6DQO7IgU3hldKCCsWLEyRUCpAmcukvT87AF2XDoSbQfYKg6YNFqplAOufLWDwUN6yhGkXTTW5uiiqUpnRY03vJry7gkjwbJotBr9fL4nz6tZQy5u3XAXM4x1qyTbB4%2F4Dllv%2BjlQxDN27y4v1GJX3NYHJBv9enzw10D8eAXWfXVmToSxmIF6HnQnpeAsQCHubo69djXmmFAR6A0O8b%2B9PmCeXhH6SovYblgUu1oAlgT1ACuh4nXoiVjR21KwTN2k92d2EBDKa%2BR4BmgB0GY7ylbzt335QUTNZWYb0D%2B1ILQHuRx3Ci6fq2g6OlAVHDkA4gW1nmocuW3pz3y%2BOijdRSDWtAf1jPZ%2FR9YIQdzm2weeLLLG%2FW1oTsLfog2WcoHviwt3LZMx%2BarqPGN2zkMKLpO44fPQ1%2BgUq2KGdYj5YI1zCM8lt5QXn6yC%2FUJpaWUwMSh9%2Fm3aNX8viJGvLrJOWfXGRxGgEX2lnSTH32ekW8zDhKP8VDuZ8%2F1iqV%2FurDQWEGqxCo5HZod0qMUNPcMXAXhbzRlKwqRiMbEalwjwZ24dMwqFiXo%2FEMgM4aMVJRH%2BT%2B%2B7B0sd6UG6nlPpwi0dVLE4tYgbLp7h0dSSauq6BxM4tE6A04j0ymVQT2DHE4hvjhSEp%2F%2BdYyJI9cWsR6piODig6d2gTEKNbqn0xd5NwrCYCswwxtXi0gY6sQGe3ujjAKuegZHQRSUk7Vi1w%2FpZHgYPTlv62tVRXgM%2Fok8HX4zCxeKMHKPEUl6QODA924ByIH%2FDAONQdG30N4d7tVn2MZkz6V6kOf5CP6XA%2FqI%2F7V0u%2Btolph7GJI6l0Dig9mYwaYafmreYGtncwnfimJRZbkWvZ5rP5kuvk4MpBsfu%2BXa03Ngt9JsuePBTkKg91%2F1j9PVAwI6ZIi8dJMe1rM1a0x2w%2FfZhPeIlqUqESJA%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260716T111024Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYTJI5SB7Z%2F20260716%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=873107445461b4ec7101384730bf87aebb64af29f4c69fe54d4edc04ca5d21c1&hash=ea9054ff413afe71d651615dee9f6078a7247775a319130cb7d6a9ed6eceb81c&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S2214317325000484&tid=spdf-2d7597f6-9625-4fc0-a375-c6f88d9438a2&sid=cb3a75e7265cf54a489aeda19b8c87ea2832gxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=0313045602515d01550d&rr=a1c08f6c28ddd665&cc=es)]
 
-  5. An environment-guided visual–temporal deep learning framework for early disease detection in greenhouse horticultural crops (2026) [[link](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1796407/full)]]. This study provides a practically valuable technical pathway for early intelligent warning and precise regulation of greenhouse crop diseases. 
 
-  <div align="center"> 
-    <img width="600" height="140" alt="image" src="https://github.com/user-attachments/assets/7e5a09fd-51b6-40fc-b4c7-4453cdfaf0dc" />
-  </div>
 
-  6. Real-Time Monitoring and Disease Detection in Greenhouses Using IoT and Deep Learning (2025) [[link](https://link.springer.com/chapter/10.1007/978-3-031-82733-4_14)]]. A deep learning model, built on the DenseNet121 architecture and trained on a comprehensive plant disease dataset, is embedded within Node-RED to facilitate immediate disease identification, achieving an impressive accuracy of 97.11% across 16,012 images spanning ten classes.
 
-  <div align="center"> 
-    <img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/7eb8340d-600e-4fae-a6d4-e1676792e07b" />
-  </div>
+<!-- -----------------ViT -------------------- -->
 
-  7. CLRNet Video Lane Pipeline [[link](https://github.com/yigitbalcioglu/Advanced-Lane-Detection-CLRNet)]: This repository is a practical lane-detection project built around CLRNet, focused on running ONNX inference on videos and producing stable, interpretable lane outputs.
-  <div align="center"> 
-    <img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/fe2f1ec3-e7cf-4073-b5eb-89a1c30a96dd" />
-  </div>
 
+
+<!-- ----------------- Swin tranformers -------------------- -->
+
+
+
+<!-- ----------------- ConvNet -------------------- -->
+
+  1. Mashamba, M. M., Telukdarie, A., Munien, I., Onkonkwo, U., & Vermeulen, A. (2024). _Detection of bacterial spot disease on tomato leaves using a Convolutional Neural Network (CNN)_. Procedia Computer Science, 237, 602-609. [[link](https://www.sciencedirect.com/science/article/pii/S187705092401161X)]
+
+  2. Wu, Y., Dai, J., Zhu, Y., & Zhang, T. (2025). _Intelligent Agricultural Greenhouse Extraction Method Based on Multifeature Modeling: Fusion of Geometric, Spatial, and Spectral Characteristics_. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 18, 5568-5581. [[link](https://ieeexplore.ieee.org/abstract/document/10858674)]].
+
+  3. Vanmathi, C., Mangayarkarasi, R., Agrawal, R., Sumalatha, L., & Shankar, V. (2026). Cross Disease Similarity Awareness Learning (CDSAL) with DenseNet–EfficientNet embedding fusion for high-precision tomato leaf pathology classification with Grad-CAM explainability. Scientific Reports. [[paper](https://www.nature.com/articles/s41598-026-48099-w)]
   
   </details>
 </details>
+
+
+
+<!-- -------------------------------------Detección --------------------------------------- -->
+
+
+
 
 </details>
 <details>
@@ -118,6 +143,11 @@ The foundational articles underpinning the most significant advances in vision t
 </details>
 <details>
   <summary><strong>2. Articles on greenhouse farming</strong></summary>
+
+1. Zhang, J., Guo, J., Zhao, C., Li, W., & Yuan, T. (2026). LeafRemoval-YOLO-K: A hybrid visual recognition network for stem-petiole segmentation and cutting point localization in tomato plants. Computers and Electronics in Agriculture, 246, 111485. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169926000803)]
+
+
+
   
 1. SAM3 ROS Wrapper [[link](https://github.com/SanghyunPark01/sam3_ros_wrapper)]: This repository provides a ROS wrapper for SAM3 (Segment Anything Model 3), compatible with both ROS1 and ROS2. It enables using SAM3-based segmentation within ROS pipelines while keeping the model code and ROS integration loosely coupled.
 <div align="center">
@@ -144,6 +174,11 @@ a mAP of 53.3%.
 </details>
 </details>
 
+
+
+
+
+
 <details>
 <summary><strong>Segmentation</strong></summary>
 
@@ -166,6 +201,12 @@ a mAP of 53.3%.
 
 <details>
   <summary><strong>2. Articles on greenhouse farming</strong></summary>
+
+
+  1. Ghantasala, G. P., Dasari, S., Kumar, P. P., Suman, B., Kumar, A. R., Reddy, A., & Vidyullatha, P. (2026). DEEP LEARNING FRAMEWORK FOR MULTI-CLASS TOMATO LEAF DISEASE DETECTION FROM SEGMENTED IMAGES. Genetics and Molecular Research. [[paper](https://geneticsmr.com/index.php/gmr/article/view/1672)]
+
+
+
 
 2. Semantic Segmentation Layer [[link](https://github.com/kiwicampus/semantic_segmentation_layer)]: A custom nav2 costmap layer plugin inspired on stvl, that integrates semantic segmentation data into the navigation costmap. INCLUDE A NAV2 IMPLEMENTATION.
 <div align="center">
