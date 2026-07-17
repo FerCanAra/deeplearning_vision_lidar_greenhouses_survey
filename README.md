@@ -140,7 +140,6 @@ The foundational articles underpinning the most significant advances in vision t
 
 <!-- -----------------EfficientNet -------------------- -->
 
-
   1. Ray, R. K., Chakravarty, S., Dash, S., Ghosh, A., Mohanty, S. N., Chirra, V. R. R., ... & Khan, M. I. (2025). Precision pest management in agriculture using Inception V3 and EfficientNet B4: A deep learning approach for crop protection. Information Processing in Agriculture. [[link](https://pdf.sciencedirectassets.com/287278/1-s2.0-S2214317326X20017/1-s2.0-S2214317325000484/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEHoaCXVzLWVhc3QtMSJHMEUCIQDFNdaJIpMO8un2YREl7ZzcR%2Bqjy%2B64kSGwm7iKWvblCgIgTGxpVQRcxrsvVie1HRFhAaCOUxQWMd4wGsiRe%2BKB35AqsgUIQxAFGgwwNTkwMDM1NDY4NjUiDFEQNIwycl46KUiUjSqPBVXT4m3h9No4L6wVf3jWMgu5FI0PtsfwSTOrwkg3rNX8cTRZu435trwyQZOYerFMyZgDIwKumHZaJcv28ZM6Uz4mZWViw%2FpVxBsDjwpJGg%2FRS9D40ZMCEBXEOSrNi3hKn4BTmnzn5FeDhklkAZ9skAqXTO792oRz6OWckq1n3v%2F6%2F8t7Qg20H0r94o3P6DQO7IgU3hldKCCsWLEyRUCpAmcukvT87AF2XDoSbQfYKg6YNFqplAOufLWDwUN6yhGkXTTW5uiiqUpnRY03vJry7gkjwbJotBr9fL4nz6tZQy5u3XAXM4x1qyTbB4%2F4Dllv%2BjlQxDN27y4v1GJX3NYHJBv9enzw10D8eAXWfXVmToSxmIF6HnQnpeAsQCHubo69djXmmFAR6A0O8b%2B9PmCeXhH6SovYblgUu1oAlgT1ACuh4nXoiVjR21KwTN2k92d2EBDKa%2BR4BmgB0GY7ylbzt335QUTNZWYb0D%2B1ILQHuRx3Ci6fq2g6OlAVHDkA4gW1nmocuW3pz3y%2BOijdRSDWtAf1jPZ%2FR9YIQdzm2weeLLLG%2FW1oTsLfog2WcoHviwt3LZMx%2BarqPGN2zkMKLpO44fPQ1%2BgUq2KGdYj5YI1zCM8lt5QXn6yC%2FUJpaWUwMSh9%2Fm3aNX8viJGvLrJOWfXGRxGgEX2lnSTH32ekW8zDhKP8VDuZ8%2F1iqV%2FurDQWEGqxCo5HZod0qMUNPcMXAXhbzRlKwqRiMbEalwjwZ24dMwqFiXo%2FEMgM4aMVJRH%2BT%2B%2B7B0sd6UG6nlPpwi0dVLE4tYgbLp7h0dSSauq6BxM4tE6A04j0ymVQT2DHE4hvjhSEp%2F%2BdYyJI9cWsR6piODig6d2gTEKNbqn0xd5NwrCYCswwxtXi0gY6sQGe3ujjAKuegZHQRSUk7Vi1w%2FpZHgYPTlv62tVRXgM%2Fok8HX4zCxeKMHKPEUl6QODA924ByIH%2FDAONQdG30N4d7tVn2MZkz6V6kOf5CP6XA%2FqI%2F7V0u%2Btolph7GJI6l0Dig9mYwaYafmreYGtncwnfimJRZbkWvZ5rP5kuvk4MpBsfu%2BXa03Ngt9JsuePBTkKg91%2F1j9PVAwI6ZIi8dJMe1rM1a0x2w%2FfZhPeIlqUqESJA%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260716T111024Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYTJI5SB7Z%2F20260716%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=873107445461b4ec7101384730bf87aebb64af29f4c69fe54d4edc04ca5d21c1&hash=ea9054ff413afe71d651615dee9f6078a7247775a319130cb7d6a9ed6eceb81c&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S2214317325000484&tid=spdf-2d7597f6-9625-4fc0-a375-c6f88d9438a2&sid=cb3a75e7265cf54a489aeda19b8c87ea2832gxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=0313045602515d01550d&rr=a1c08f6c28ddd665&cc=es)]
 
   2. Ni, L., Ye, F., Cui, X., Peng, X., Song, S., & Luo, W. (2026). Comparative Study of Lightweight Deep Learning Models for Greenhouse Tomato Leaf Disease Classification Using the Public TLID Dataset. Digital Intelligence in Agriculture, 2(1), 45-53. [[paper](https://www.icck.org/article/abs/dia.2026.103152)]
@@ -175,9 +174,27 @@ The foundational articles underpinning the most significant advances in vision t
 
 6. Guttikonda, B. S., Al-Khafaji, Z. A., Senthil, P., & Kavitha, P. (2025, June). Smart Agriculture Framework for Multi-Crop Disease Detection using IoT and Vision Transformer. In 2025 International Conference on Intelligent Computing and Knowledge Extraction (ICICKE) (pp. 1-7). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/11136532)]
 
+7. ÖZDEN, C. (2026). Vision Transformer and CNN-Based Models for Image Analysis of Plant Diseases: An Approach for Agricultural Decision Support Systems. ISPEC Journal of Agricultural Sciences. [[paper](https://ispecjournal.com/index.php/ispecjas/article/view/915)]
+
+8. Lata, K., Kaur, N., & Singh, S. (2025). Satellite-Based Crop Recognition Using Vision Transformer Models for Smart Agriculture. Engineering Proceedings, 118(1), 34. [[paper](https://www.mdpi.com/2673-4591/118/1/34)]
+
+9. Cho, S. B., Choi, J. W., Hidayat, M. S., Cho, J. I., Lee, H., Cho, B. K., & Kim, G. (2025). Development of a CNN classifier with XAI to detect interpretable water stress in sweet potato using RGB images. Agricultural Water Management, 321, 109899. [[paper](https://www.sciencedirect.com/science/article/pii/S0378377425006134)]
+
+10. Venkatesh, K., Prasad, M., Kurikala, G., & Singh, L. K. (2026, February). Crop Health Identification by Exploiting CNN-ViT Synergy: Detecting Multi-Nutrient Deficiencies. In 2026 2nd International Conference on Advances in Intelligent Computing and Applications (AICAPS) (pp. 1-4). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/11452925)]
 
 <!-- ----------------- Swin tranformers -------------------- -->
 
+1. Iftee, I. K., Ahmed, F., Jobaier, M. H., Osama, A. U., & Aziz, N. H. A. (2025, October). Smart Agriculture: Cucurbit Leaf Disease Detection Using Swin Transformer. In 2025 International Conference on Engineering and Emerging Technologies (ICEET) (pp. 1-6). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/11423931)]
+
+2. Liu, H., Gan, Y., Ren, X., Xu, J., Lin, P., & Chen, Y. (2026). Vision-based quantitative assessment of strawberry ripeness using a detail-aware perception transformer in complex agricultural environments. Journal of Food Measurement and Characterization, 20(4), 6418-6440. [[paper](https://link.springer.com/article/10.1007/s11694-026-04078-3)]
+
+3. Zhang, H., Gong, Z., Hu, C., Chen, C., Wang, Z., Yu, B., ... & Lv, C. (2025). A transformer-based detection network for precision cistanche pest and disease management in smart agriculture. Plants, 14(4), 499. [[paper](https://link.springer.com/chapter/10.1007/978-981-96-8796-1_19)]
+
+4. Haqiq, N., Zaim, M., Sbihi, M., El Alaoui, M., El Amraoui, K., El Kazini, Y., Roukhe, H., & Masmoudi, L. (2026). Lightweight Hybrid Deep Learning for Strawberry Disease Recognition and Edge Deployment Using Dynamic Multi-Scale CNN–Transformer Fusion. AgriEngineering, 8(2), 75. [[paper](https://www.mdpi.com/2624-7402/8/2/75)]
+
+5. Murugesan, S., Chinnadurai, J., Srinivasan, S., Mathivanan, S. K., Chandan, R. R., & Moorthy, U. (2025). Robust multiclass classification of crop leaf diseases using hybrid deep learning and Grad-CAM interpretability. Scientific Reports, 15(1), 29955. [[paper](https://www.nature.com/articles/s41598-025-14847-7)]
+
+6. Zhang, Q., Zhao, J., Cai, Y. L., Liu, K., & Li, Y. (2026). Toward smart agriculture: a hybrid mamba-transformer vision framework for plant disease detection. Frontiers in Plant Science, 17, 1846242. [[paper](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1846242/full)]
 
 
 <!-- ----------------- ConvNet -------------------- -->
@@ -187,6 +204,20 @@ The foundational articles underpinning the most significant advances in vision t
   2. Wu, Y., Dai, J., Zhu, Y., & Zhang, T. (2025). _Intelligent Agricultural Greenhouse Extraction Method Based on Multifeature Modeling: Fusion of Geometric, Spatial, and Spectral Characteristics_. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 18, 5568-5581. [[link](https://ieeexplore.ieee.org/abstract/document/10858674)]].
 
   3. Vanmathi, C., Mangayarkarasi, R., Agrawal, R., Sumalatha, L., & Shankar, V. (2026). Cross Disease Similarity Awareness Learning (CDSAL) with DenseNet–EfficientNet embedding fusion for high-precision tomato leaf pathology classification with Grad-CAM explainability. Scientific Reports. [[paper](https://www.nature.com/articles/s41598-026-48099-w)]
+
+  4. Landolfo, M., Perotti, F., Pistillo, A., Pennisi, G., Gianquinto, G., & Orsini, F. (2025). Optimizing artificial lighting for convolutional neural network-based crop monitoring with low-cost RGB imaging in indoor cultivation. Smart Agricultural Technology, 101677. [[paper](https://www.sciencedirect.com/science/article/pii/S2772375525009086)]
+
+  5. Xing, X., Gao, J., Qi, P., Wang, S., Wang, F., Peng, X., Fangyan, W., Hou, X., & Gao, J. (2026). A Lightweight Multi-View Detection and Counting Method for Real-Time Cherry Tomato Yield Estimation Using Greenhouse Inspection Robots. Smart Agricultural Technology, 102260. [[paper](https://www.sciencedirect.com/science/article/pii/S2772375526004843)]
+
+  6. Bashir, A., Wang, Y., Ojo, M. O., & Zahid, A. (2025). A Vision System for Occluded Cutting Point Localization in Robotic Harvesting of Greenhouse Lettuce. IEEE Transactions on AgriFood Electronics. [[paper](https://ieeexplore.ieee.org/abstract/document/11219194)]
+
+  7. Cardenas-Gallegos, J. S., Severns, P. M., Klimeš, P., Lacerda, L. N., Peduzzi, A., & Ferrarezi, R. S. (2025). Reliable plant segmentation under variable greenhouse illumination conditions. Computers and Electronics in Agriculture, 229, 109711. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169924011025)]
+
+  8. Song, W., He, H., Dai, J., & Jia, G. (2025). Extraction of agricultural plastic greenhouses based on a U-Net convolutional neural network coupled with edge expansion and loss function improvement. Journal of the Air & Waste Management Association, 75(2), 109-120. [[paper](https://www.tandfonline.com/doi/full/10.1080/10962247.2024.2412708)]
+
+  9. Amir, A., Giri, S., Giri, S., & Butt, M. (2025). An advanced approach to tomato apex head thickness measurement using lightweight YOLO variants, faster RCNN, and RGB-depth sensor. Smart Agricultural Technology, 101214. [[paper](https://www.sciencedirect.com/science/article/pii/S2772375525004459)]
+
+  10. Guo, J., Zhang, B., Zhou, P., Xu, Y., Luo, S., Ji, J., Zhuo, Y., Xu, X., & Lin, L. (2026). A Digital Framework for Smart Greenhouse Tomato Cultivation. Smart Agricultural Technology, 101879. [[paper](https://www.sciencedirect.com/science/article/pii/S2772375526001036)]
   
   </details>
 </details>
@@ -236,6 +267,8 @@ The foundational articles underpinning the most significant advances in vision t
 5. Moni, M. A., Chaitee, A. S., Tanvir, K. M., Rahman, M. A., Banik, S., & Habib, M. T. (2026, January). Machine vision-based pepper breed classification Using yolov10 and transfer learning models. In 2026 6th International Conference on Image Processing and Capsule Networks (ICIPCN) (pp. 544-549). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/11438307)] 
 
 6. Liu, Y., Wang, H., Wu, H., Xu, M., Yuan, G., Yan, R., & Zou, J. A Hybrid YOLO–EfficientNet Architecture for Multi-Task Recognition of Pests and Diseases in Greenhouse Crops. Available at SSRN 5939218. [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5939218)]
+
+7. Zhao, B., Zheng, D., Yang, C., Jomartova, S., Sonza, R., Mansurova, M., & Liu, H. (2026). DTBi-YOLOv8-seg: A dual-backbone deep learning framework for automated tomato ripeness detection in greenhouse environments. Scientia Horticulturae, 361, 114855. [[paper](https://www.sciencedirect.com/science/article/pii/S0304423826002487)]
 
 
 
