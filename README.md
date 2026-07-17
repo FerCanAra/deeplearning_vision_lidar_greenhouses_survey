@@ -120,10 +120,30 @@ The foundational articles underpinning the most significant advances in vision t
 
   2. Sajid, S., Li, P., Zhang, L., Jie, C., Ali, A., & Ullah, F. (2025). Leveraging VGG-19 for automated fruit classification in smart agriculture. PeerJ Computer Science, 11, e3391. [[paper](https://peerj.com/articles/cs-3391/)]
 
+  3. Xiang, J., Ge, J., Fu, C., Huang, J., Lu, M., Zhang, Z., ... & Yan, S. (2026). An environment-guided visual–temporal deep learning framework for early disease detection in greenhouse horticultural crops. Frontiers in Plant Science, 17, 1796407.[[paper](https://link.springer.com/article/10.1186/s13007-025-01456-8)]
+
+  4. Ram, B. G., Howatt, K., Mettler, J., & Sun, X. (2025). Addressing computation resource exhaustion associated with deep learning training of three-dimensional hyperspectral images using multiclass weed classification. Artificial Intelligence in Agriculture, 15(2), 131-146. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721725000248)]
+
+  5. Siva, V., & Ponnusamy, V. (2025, September). Tomato Ripeness Evaluation Through Cutting-Edge Deep Learning Models. In World Conference on Information Systems for Business Management (pp. 413-423). Cham: Springer Nature Switzerland. [[paper](https://link.springer.com/chapter/10.1007/978-3-032-13006-8_40)]
+
+  6. Xiang, J., Ge, J., Fu, C., Huang, J., Lu, M., Zhang, Z., Song, Y., & Yan, S. (2026). An environment-guided visual–temporal deep learning framework for early disease detection in greenhouse horticultural crops. Frontiers in Plant Science, 17, 1796407. [[paper](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1796407/full)]
+
+  7. Swapna, B., Kameswaran, S., & Ramakrishna, M. (2026). Deep Learning in Plant Pest Control. In Plant Genomic Prediction: AI-Enhanced Models for Plant Genomics and Crop Improvement (pp. 335-351). GB: CABI. [[paper](https://www.cabidigitallibrary.org/doi/full/10.1079/9781836991328.0017)]
+
+  8. Islam, M. S., Rahman, N., Mahmud, M. T., Naidu, A., Toha, M. A., Yasar, S., ... & Jamil, S. U. (2026, April). An Automated Approach for Classifying The Severity of Cucumber Diseases Using Deep Learning and Transfer Learning. In 2026 IEEE 5th International Conference on Computing and Machine Intelligence (ICMI) (pp. 1-5). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/11539878)]
+
+  9. Duan, S., Huang, X., Wu, P., Zhang, C., Zhao, S., & Fan, J. (2026). Multimodal deep learning for identifying onshore natural gas facilities from GaoFen-2 imagery. International Journal of Digital Earth, 19(1), 2662059. [[paper](https://www.tandfonline.com/doi/full/10.1080/17538947.2026.2662059)]
+
+  10. Sundaravadivel, P., Reyes-Ramirez, R., Sethurani, P. M., Brown, C., Borah, S. S., & Kousik, S. (2026). AI-Enabled Reconfigurable Edge Device for Plant Health Assessment in Greenhouse Environment. In The First International Workshop on AI in Agriculture. [[paper](https://openreview.net/forum?id=7GDdzjv6EZ)]
+
+
+
 <!-- -----------------EfficientNet -------------------- -->
 
 
   1. Ray, R. K., Chakravarty, S., Dash, S., Ghosh, A., Mohanty, S. N., Chirra, V. R. R., ... & Khan, M. I. (2025). Precision pest management in agriculture using Inception V3 and EfficientNet B4: A deep learning approach for crop protection. Information Processing in Agriculture. [[link](https://pdf.sciencedirectassets.com/287278/1-s2.0-S2214317326X20017/1-s2.0-S2214317325000484/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEHoaCXVzLWVhc3QtMSJHMEUCIQDFNdaJIpMO8un2YREl7ZzcR%2Bqjy%2B64kSGwm7iKWvblCgIgTGxpVQRcxrsvVie1HRFhAaCOUxQWMd4wGsiRe%2BKB35AqsgUIQxAFGgwwNTkwMDM1NDY4NjUiDFEQNIwycl46KUiUjSqPBVXT4m3h9No4L6wVf3jWMgu5FI0PtsfwSTOrwkg3rNX8cTRZu435trwyQZOYerFMyZgDIwKumHZaJcv28ZM6Uz4mZWViw%2FpVxBsDjwpJGg%2FRS9D40ZMCEBXEOSrNi3hKn4BTmnzn5FeDhklkAZ9skAqXTO792oRz6OWckq1n3v%2F6%2F8t7Qg20H0r94o3P6DQO7IgU3hldKCCsWLEyRUCpAmcukvT87AF2XDoSbQfYKg6YNFqplAOufLWDwUN6yhGkXTTW5uiiqUpnRY03vJry7gkjwbJotBr9fL4nz6tZQy5u3XAXM4x1qyTbB4%2F4Dllv%2BjlQxDN27y4v1GJX3NYHJBv9enzw10D8eAXWfXVmToSxmIF6HnQnpeAsQCHubo69djXmmFAR6A0O8b%2B9PmCeXhH6SovYblgUu1oAlgT1ACuh4nXoiVjR21KwTN2k92d2EBDKa%2BR4BmgB0GY7ylbzt335QUTNZWYb0D%2B1ILQHuRx3Ci6fq2g6OlAVHDkA4gW1nmocuW3pz3y%2BOijdRSDWtAf1jPZ%2FR9YIQdzm2weeLLLG%2FW1oTsLfog2WcoHviwt3LZMx%2BarqPGN2zkMKLpO44fPQ1%2BgUq2KGdYj5YI1zCM8lt5QXn6yC%2FUJpaWUwMSh9%2Fm3aNX8viJGvLrJOWfXGRxGgEX2lnSTH32ekW8zDhKP8VDuZ8%2F1iqV%2FurDQWEGqxCo5HZod0qMUNPcMXAXhbzRlKwqRiMbEalwjwZ24dMwqFiXo%2FEMgM4aMVJRH%2BT%2B%2B7B0sd6UG6nlPpwi0dVLE4tYgbLp7h0dSSauq6BxM4tE6A04j0ymVQT2DHE4hvjhSEp%2F%2BdYyJI9cWsR6piODig6d2gTEKNbqn0xd5NwrCYCswwxtXi0gY6sQGe3ujjAKuegZHQRSUk7Vi1w%2FpZHgYPTlv62tVRXgM%2Fok8HX4zCxeKMHKPEUl6QODA924ByIH%2FDAONQdG30N4d7tVn2MZkz6V6kOf5CP6XA%2FqI%2F7V0u%2Btolph7GJI6l0Dig9mYwaYafmreYGtncwnfimJRZbkWvZ5rP5kuvk4MpBsfu%2BXa03Ngt9JsuePBTkKg91%2F1j9PVAwI6ZIi8dJMe1rM1a0x2w%2FfZhPeIlqUqESJA%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260716T111024Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYTJI5SB7Z%2F20260716%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=873107445461b4ec7101384730bf87aebb64af29f4c69fe54d4edc04ca5d21c1&hash=ea9054ff413afe71d651615dee9f6078a7247775a319130cb7d6a9ed6eceb81c&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S2214317325000484&tid=spdf-2d7597f6-9625-4fc0-a375-c6f88d9438a2&sid=cb3a75e7265cf54a489aeda19b8c87ea2832gxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=0313045602515d01550d&rr=a1c08f6c28ddd665&cc=es)]
+
+  2. Ni, L., Ye, F., Cui, X., Peng, X., Song, S., & Luo, W. (2026). Comparative Study of Lightweight Deep Learning Models for Greenhouse Tomato Leaf Disease Classification Using the Public TLID Dataset. Digital Intelligence in Agriculture, 2(1), 45-53. [[paper](https://www.icck.org/article/abs/dia.2026.103152)]
 
 
 
@@ -184,6 +204,12 @@ The foundational articles underpinning the most significant advances in vision t
 1. Zhang, J., Guo, J., Zhao, C., Li, W., & Yuan, T. (2026). LeafRemoval-YOLO-K: A hybrid visual recognition network for stem-petiole segmentation and cutting point localization in tomato plants. Computers and Electronics in Agriculture, 246, 111485. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169926000803)]
 
 2. Ali, A. S., Narayan, J., Shukla, A., & Shree, R. (2026). Enhancing precision farming with YOLO models for real-time growth detection of basil plants. Environmental Sustainability, 1-11. [[paper](https://link.springer.com/article/10.1007/s42398-026-00454-3)]
+
+3. Jia, W., Lin, S., Wei, Z., Tian, B., Meng, X., & Zhang, Y. (2026). Research on Intelligent Identification Method for Nitrogen Content in Greenhouse Cucumber Leaves Integrating YOLOv11n Segmentation and Machine Learning. Agriculture, 16(13), 1376. [[paper](https://www.mdpi.com/2077-0472/16/13/1376)]
+
+4. Singh, R., Kaur, M., Alirezaee, S., & Hussain, I. (2026). YOLO26-RipeLoc Lite: A lightweight architecture for tomato ripeness detection and picking point localization in greenhouse robotic harvesting. arXiv preprint arXiv:2605.27129. [[paper](https://arxiv.org/abs/2605.27129)]
+
+5. Moni, M. A., Chaitee, A. S., Tanvir, K. M., Rahman, M. A., Banik, S., & Habib, M. T. (2026, January). Machine vision-based pepper breed classification Using yolov10 and transfer learning models. In 2026 6th International Conference on Image Processing and Capsule Networks (ICIPCN) (pp. 544-549). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/11438307)]
 
 
 
