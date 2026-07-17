@@ -145,6 +145,17 @@ The foundational articles underpinning the most significant advances in vision t
 
   2. Ni, L., Ye, F., Cui, X., Peng, X., Song, S., & Luo, W. (2026). Comparative Study of Lightweight Deep Learning Models for Greenhouse Tomato Leaf Disease Classification Using the Public TLID Dataset. Digital Intelligence in Agriculture, 2(1), 45-53. [[paper](https://www.icck.org/article/abs/dia.2026.103152)]
 
+  3. Subhan, M., Rana, N., Qamar, F., Jeribi, F., Alhazmi, A. H., Tahir, A., & Shahzadi, R. (2026). Crop disease detection using EfficientNetB0 deep learning approach for precision agriculture. Discover Computing, 29(1), 25. [[paper](https://link.springer.com/article/10.1007/s10791-025-09881-y)]
+
+  4. Sahu, S., & Verma, P. (2026). UAV-based real-time detection of corn earworm using EfficientNet and machine learning. Journal of Environmental Science and Health, Part B, 1-14. [[paper](https://www.tandfonline.com/doi/full/10.1080/03601234.2026.2660035?scroll=top&needAccess=true)]
+
+  5. Yang, Q., Lao, D., Wu, Y., Liu, C., Zhang, Z., Li, Z., ... & Li, F. (2026). Leaf thermal infrared imaging and lightweight deep learning enable early detection of water stress in watermelon for precision irrigation. Agricultural Water Management, 329, 110344. [[paper](https://www.sciencedirect.com/science/article/pii/S0378377426002258)]
+
+  6. Shanthini, S., & Dheeran, S. (2025, February). EfficientNet-Based Feature Extraction and Ensemble Learning for Tomato Quality Classification. In 2025 3rd International Conference on Intelligent Systems, Advanced Computing and Communication (ISACC) (pp. 589-595). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/10969232)]
+
+  7. Kavitha, K. (2025, October). Deep Learning-Driven Computer Vision Techniques for Advancing Smart Greenhouse Agriculture. In 2025 International Conference on Sustainable Communication Networks and Application (ICSCN) (pp. 24-30). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/11308643)]
+
+
 
 
 
@@ -209,7 +220,9 @@ The foundational articles underpinning the most significant advances in vision t
 
 4. Singh, R., Kaur, M., Alirezaee, S., & Hussain, I. (2026). YOLO26-RipeLoc Lite: A lightweight architecture for tomato ripeness detection and picking point localization in greenhouse robotic harvesting. arXiv preprint arXiv:2605.27129. [[paper](https://arxiv.org/abs/2605.27129)]
 
-5. Moni, M. A., Chaitee, A. S., Tanvir, K. M., Rahman, M. A., Banik, S., & Habib, M. T. (2026, January). Machine vision-based pepper breed classification Using yolov10 and transfer learning models. In 2026 6th International Conference on Image Processing and Capsule Networks (ICIPCN) (pp. 544-549). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/11438307)]
+5. Moni, M. A., Chaitee, A. S., Tanvir, K. M., Rahman, M. A., Banik, S., & Habib, M. T. (2026, January). Machine vision-based pepper breed classification Using yolov10 and transfer learning models. In 2026 6th International Conference on Image Processing and Capsule Networks (ICIPCN) (pp. 544-549). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/11438307)] 
+
+6. Liu, Y., Wang, H., Wu, H., Xu, M., Yuan, G., Yan, R., & Zou, J. A Hybrid YOLO–EfficientNet Architecture for Multi-Task Recognition of Pests and Diseases in Greenhouse Crops. Available at SSRN 5939218. [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5939218)]
 
 
 
