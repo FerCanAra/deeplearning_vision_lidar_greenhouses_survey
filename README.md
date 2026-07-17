@@ -419,11 +419,6 @@ The foundational articles underpinning the most significant advances in vision t
 
   167. Wang, X., Burusa, A. K., Rapado-Rincón, D., Versmissen, T. A., van Henten, E. J., & Kootstra, G. (2025). Multiple object tracking with multi-view active vision to effectively find plant nodes in a cluttered tomato greenhouse. Computers and Electronics in Agriculture, 234, 110266. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169925003722)]
 
-
-</details>
-</details>
-
-
 <!-- ----------------- Revista de envio "Artificial Intelligence in Agriculture" -------------------- -->
 
   168. Gao, L., Li, Y., Wu, J., Feng, Q., Chen, L., Shen, C., ... & Zhao, C. (2026). YOLO-GPP: End-to-end prediction of the grasp position and pose on tomato peduncle for robotic harvesting. Artificial Intelligence in Agriculture. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721726000206)]
@@ -431,6 +426,9 @@ The foundational articles underpinning the most significant advances in vision t
   169. Gao, R., Cao, W., Zhang, Z., Cheng, X., Ji, Z., Kong, Q., & Su, Z. (2026). YOLOSc-SAM: An acceptable extraction method for farmland regions in remote sensing images using SAM. Artificial Intelligence in Agriculture. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721726000176)]
 
  200. Afzaal, H., Farooque, A. A., Randhawa, G. S., Schumann, A. W., Krouglicof, N., Gill, Y. S., & Zaman, Q. U. (2026). Zero-shot crop segmentation via 3D depth-aware vision pipeline using unsupervised clustering. Artificial Intelligence in Agriculture. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721726000462)]
+
+</details>
+</details>
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------- -->
 <!-- ------------------------------------------------- Segmentation ------------------------------------------------------------- -->
