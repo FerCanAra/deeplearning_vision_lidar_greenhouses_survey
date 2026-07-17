@@ -21,8 +21,9 @@ The foundational articles underpinning the most significant advances in vision t
   <img width="500" height="423" alt="image" src="https://github.com/user-attachments/assets/f28ec83f-27d0-4b56-ac4e-cbc57965b4b6" />
 </div>
 
-<!-- -------------------------------------Clasificación --------------------------------------- -->
-
+<!-- ---------------------------------------------------------------------------------------------------------------------------- -->
+<!-- ---------------------------------------------------------- Clasification --------------------------------------------------- -->
+<!-- ---------------------------------------------------------------------------------------------------------------------------- -->
 
 <details>
 <summary><strong>Classification</strong></summary>
@@ -194,7 +195,6 @@ The foundational articles underpinning the most significant advances in vision t
 
   76. Zhang, Q., Zhao, J., Cai, Y. L., Liu, K., & Li, Y. (2026). Toward smart agriculture: a hybrid mamba-transformer vision framework for plant disease detection. Frontiers in Plant Science, 17, 1846242. [[paper](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1846242/full)]
 
-
 <!-- ----------------- ConvNet -------------------- -->
 
   81. Mashamba, M. M., Telukdarie, A., Munien, I., Onkonkwo, U., & Vermeulen, A. (2024). _Detection of bacterial spot disease on tomato leaves using a Convolutional Neural Network (CNN)_. Procedia Computer Science, 237, 602-609. [[link](https://www.sciencedirect.com/science/article/pii/S187705092401161X)]
@@ -216,16 +216,30 @@ The foundational articles underpinning the most significant advances in vision t
   89. Amir, A., Giri, S., Giri, S., & Butt, M. (2025). An advanced approach to tomato apex head thickness measurement using lightweight YOLO variants, faster RCNN, and RGB-depth sensor. Smart Agricultural Technology, 101214. [[paper](https://www.sciencedirect.com/science/article/pii/S2772375525004459)]
 
   90. Guo, J., Zhang, B., Zhou, P., Xu, Y., Luo, S., Ji, J., Zhuo, Y., Xu, X., & Lin, L. (2026). A Digital Framework for Smart Greenhouse Tomato Cultivation. Smart Agricultural Technology, 101879. [[paper](https://www.sciencedirect.com/science/article/pii/S2772375526001036)]
+
+<!-- ----------------- Revista de envio "Artificial Intelligence in Agriculture" -------------------- -->
+
+  91. Das, A., Pathan, F., Jim, J. R., Kabir, M. M., & Mridha, M. F. (2025). Deep learning-based classification, detection, and segmentation of tomato leaf diseases: A state-of-the-art review. Artificial Intelligence in Agriculture, 15(2), 192-220. [[paper](https://www.sciencedirect.com/science/article/pii/S258972172500025X)]
+
+  92. Cheng, T., Zhang, D., Zhang, G., Wang, T., Ren, W., Yuan, F., ... & Zhao, C. (2025). High-throughput phenotyping techniques for forage: Status, bottleneck, and challenges. Artificial Intelligence in Agriculture, 15(1), 98-115. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721725000029)]
+
+  93. Gomez-Zamanillo, L., Bereciartua-Perez, A., Picon, A., Parra, L., Oldenbuerger, M., Navarra-Mestre, R., Kiukas, C., Eggers, T., & Echazarra, J. (2025). Digitalizing greenhouse trials: An automated approach for efficient and objective assessment of plant damage using deep learning. Artificial Intelligence in Agriculture, 15(2), 280-295. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721725000285)]
+
+  94. Ram, B. G., Howatt, K., Mettler, J., & Sun, X. (2025). Addressing computation resource exhaustion associated with deep learning training of three-dimensional hyperspectral images using multiclass weed classification. Artificial Intelligence in Agriculture, 15(2), 131-146. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721725000248)]
+
+  95. Yang, Y., Chen, L., Diao, Z., Gao, P., Zhang, B., & Zhao, C. (2026). Recent advances in crop pest detection, forecasting and early warning: A review. Artificial Intelligence in Agriculture. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721726000279)]
+
+  96. Wiafe, E. K., Betitame, K., Ram, B. G., & Sun, X. (2025). Technical study on the efficiency and models of weed control methods using unmanned ground vehicles: A review. Artificial Intelligence in Agriculture, 15(4), 622-641. [[paper](https://www.sciencedirect.com/science/article/pii/S258972172500056X)]
+
+  97. Ram, B. G., Howatt, K., Mettler, J., & Sun, X. (2025). Addressing computation resource exhaustion associated with deep learning training of three-dimensional hyperspectral images using multiclass weed classification. Artificial Intelligence in Agriculture, 15(2), 131-146. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721725000248)]
+
   
   </details>
 </details>
 
-
-
-<!-- -------------------------------------Detección --------------------------------------- -->
-
-
-
+<!-- ---------------------------------------------------------------------------------------------------------------------------- -->
+<!-- ----------------------------------------------------------Detección -------------------------------------------------------- -->
+<!-- ---------------------------------------------------------------------------------------------------------------------------- -->
 
 </details>
 <details>
@@ -297,9 +311,17 @@ a mAP of 53.3%.
 </details>
 
 
+<!-- ----------------- Revista de envio "Artificial Intelligence in Agriculture" -------------------- -->
 
+1. Gao, L., Li, Y., Wu, J., Feng, Q., Chen, L., Shen, C., ... & Zhao, C. (2026). YOLO-GPP: End-to-end prediction of the grasp position and pose on tomato peduncle for robotic harvesting. Artificial Intelligence in Agriculture. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721726000206)]
 
+2. Gao, R., Cao, W., Zhang, Z., Cheng, X., Ji, Z., Kong, Q., & Su, Z. (2026). YOLOSc-SAM: An acceptable extraction method for farmland regions in remote sensing images using SAM. Artificial Intelligence in Agriculture. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721726000176)]
 
+3. Afzaal, H., Farooque, A. A., Randhawa, G. S., Schumann, A. W., Krouglicof, N., Gill, Y. S., & Zaman, Q. U. (2026). Zero-shot crop segmentation via 3D depth-aware vision pipeline using unsupervised clustering. Artificial Intelligence in Agriculture. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721726000462)]
+
+<!-- ---------------------------------------------------------------------------------------------------------------------------- -->
+<!-- ------------------------------------------------- Segmentation ------------------------------------------------------------- -->
+<!-- ---------------------------------------------------------------------------------------------------------------------------- -->
 
 <details>
 <summary><strong>Segmentation</strong></summary>
@@ -341,6 +363,11 @@ a mAP of 53.3%.
 
 </details>
 </details>
+
+<!-- ---------------------------------------------------------------------------------------------------------------------------- -->
+<!-- ------------------------------------------------- Generative ------------------------------------------------------------- -->
+<!-- ---------------------------------------------------------------------------------------------------------------------------- -->
+
 <details>
 <summary><strong>Generative</strong>strong></summary>
 
