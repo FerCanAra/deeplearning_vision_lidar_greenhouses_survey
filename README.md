@@ -585,15 +585,15 @@ The foundational articles underpinning the most significant advances in vision t
 <details>
   <summary><strong>1. Articles on mathematical foundations</strong></summary>
 
-  1. Karras, T., Laine, S., & Aila, T. (2019). _A style-based generator architecture for generative adversarial networks (StyleGAN)_. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 4401-4410). [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.html)].
+  22. Karras, T., Laine, S., & Aila, T. (2019). _A style-based generator architecture for generative adversarial networks (StyleGAN)_. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 4401-4410). [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.html)].
   
-  2. Zhu, J. Y., Park, T., Isola, P., & Efros, A. A. (2017). _Unpaired image-to-image translation using cycle-consistent adversarial networks (CycleGAN)_. In Proceedings of the IEEE international conference on computer vision (pp. 2223-2232). [[paper](https://openaccess.thecvf.com/content_iccv_2017/html/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.html)].
+  23. Zhu, J. Y., Park, T., Isola, P., & Efros, A. A. (2017). _Unpaired image-to-image translation using cycle-consistent adversarial networks (CycleGAN)_. In Proceedings of the IEEE international conference on computer vision (pp. 2223-2232). [[paper](https://openaccess.thecvf.com/content_iccv_2017/html/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.html)].
 
-  3. Rombach, R., Blattmann, A., Lorenz, D., Esser, P., & Ommer, B. (2022). _High-resolution image synthesis with latent diffusion models (Stable Diffusion)_. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 10684-10695). [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html?utm_source=rns.dwaiai.de)].
+  24. Rombach, R., Blattmann, A., Lorenz, D., Esser, P., & Ommer, B. (2022). _High-resolution image synthesis with latent diffusion models (Stable Diffusion)_. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 10684-10695). [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html?utm_source=rns.dwaiai.de)].
 
-  4. Ramesh, A., Pavlov, M., Goh, G., Gray, S., Voss, C., Radford, A., Chen, M., & Sutskever, I. (2021). _Zero-shot text-to-image generation (DALL-E)_. In International conference on machine learning (pp. 8821-8831). Pmlr. [[paper](https://proceedings.mlr.press/v139/ramesh21a.html?ref=journey)] 
+  25. Ramesh, A., Pavlov, M., Goh, G., Gray, S., Voss, C., Radford, A., Chen, M., & Sutskever, I. (2021). _Zero-shot text-to-image generation (DALL-E)_. In International conference on machine learning (pp. 8821-8831). Pmlr. [[paper](https://proceedings.mlr.press/v139/ramesh21a.html?ref=journey)] 
 
-  5. Radford, A., Metz, L., & Chintala, S. (2015). _Unsupervised representation learning with deep convolutional generative adversarial networks (DCGAN)_. arXiv preprint arXiv:1511.06434. [[paper](https://arxiv.org/abs/1511.06434)].
+  26. Radford, A., Metz, L., & Chintala, S. (2015). _Unsupervised representation learning with deep convolutional generative adversarial networks (DCGAN)_. arXiv preprint arXiv:1511.06434. [[paper](https://arxiv.org/abs/1511.06434)].
 
 
 </details>
@@ -602,19 +602,54 @@ The foundational articles underpinning the most significant advances in vision t
 <details>
   <summary><strong>2. Articles on greenhouse farming</strong></summary>
 
-  1. Rajakannu, A., Vishnupriyan, S., & Abubacker, K. M. (2026). CNN-Assisted Growth Monitoring and Stress Management of Cucumber in Semi-Transparent PV Greenhouses for Agrivoltaics. [[paper](https://www.sciencedirect.com/science/article/pii/S016816992500688X)]
+<!-- ----------------- StyleGAN -------------------- -->
 
+  261. Rajakannu, A., Vishnupriyan, S., & Abubacker, K. M. (2026). CNN-Assisted Growth Monitoring and Stress Management of Cucumber in Semi-Transparent PV Greenhouses for Agrivoltaics. [[paper](https://www.sciencedirect.com/science/article/pii/S016816992500688X)]
+
+  262. Min, X., Ye, Y., Xiong, S., & Chen, X. (2025). Computer vision meets generative models in agriculture: Technological advances, challenges and opportunities. Applied Sciences, 15(14), 7663. [[paper](https://www.mdpi.com/2076-3417/15/14/7663)]
+
+  263. Ullah, S., Narisetti, N., Neumann, K., Altmann, T., Hejatko, J., & Gladilin, E. (2025). Automated generation of ground truth images of greenhouse-grown plant shoots using a GAN approach. Plant Methods, 21(1), 126. [[aper](https://link.springer.com/article/10.1186/s13007-025-01441-1)]
+
+  264. Raju, R., & Thasleema, T. M. (2025). Advancements in automated plant disease detection: a comprehensive review of imaging technologies and deep learning applications. Journal of Crop Health, 77(6), 185. [[paper](https://link.springer.com/article/10.1007/s10343-025-01247-0)]
+
+  265. Feng, Y., Pallerla, C., Lin, X., Suresh, A., Sohrabipour Sr, P., Crandall, P., Shou, W., She, Y., & Wang, D. (2025). Synthetic data augmentation for enhanced chicken carcass instance segmentation. IEEE Transactions on AgriFood Electronics. [[paper](https://ieeexplore.ieee.org/abstract/document/11319168/authors#authors)]
+
+ <!-- ----------------- CycleGAN -------------------- -->
+
+  266. Yang, H., Xu, P., Zhang, S., Kim, H., & Shin, I. (2025). Construction of an intelligent analysis system for crop health status based on drone remote sensing data and CNN. IEEE Access. [[paper](https://ieeexplore.ieee.org/abstract/document/10878988)]
+
+  267. Awate, P., & Nagne, A. D. (2025). Case studies on generative adversarial networks in precision farming: Gan for precision agriculture. In Generative Adversarial Networks for Remote Sensing (pp. 291-320). IGI Global Scientific Publishing. [[paper](https://www.igi-global.com/chapter/case-studies-on-generative-adversarial-networks-in-precision-farming/377878)]
+
+
+ <!-- ----------------- Stable Diffusion -------------------- -->
+
+  268. Zangana, H. M., Li, S., & Wani, S. (2025). Diffusion Models for Agricultural Imaging: A Systematic Review of Methods, Applications and Future Prospects. Impact in Agriculture, 1(1). [[paper](https://www.impaxon.com/agriculture/1/3)]
+
+  269. Furlanetto, R. H., Buzanini, A. C., Schumann, A. W., & Boyd, N. S. (2025). Enhancing Weed Detection in Strawberry Plasticulture: Evaluating Stable Diffusion Models for Synthetic Image Generation of Geranium carolinianum. Smart Agricultural Technology, 101773. [[paper](https://www.sciencedirect.com/science/article/pii/S2772375525010044)]
+
+
+ <!-- ----------------- DALL-E -------------------- -->
+
+  270. Li, L., Li, J., Chen, D., Pu, L., Yao, H., & Huang, Y. (2025). Vllfl: A vision-language model based lightweight federated learning framework for smart agriculture. arXiv preprint arXiv:2504.13365. [[paper](https://arxiv.org/abs/2504.13365)]
+
+  271. Liu, S., Du, Z., Wang, G., Zhang, P., Xu, W., Yu, J., & Li, D. (2026). From Traditional Machine Learning Models to Multimodal Large Models: A Review of Aquaculture. Reviews in Aquaculture, 18(1), e70111. [[paper](https://onlinelibrary.wiley.com/doi/full/10.1111/raq.70111)]
+
+  272. Duan, S., Feng, H., Tian, Y., Zhang, X., Tang, Y., Feng, G., & Zhang, P. (2026). Review of Vector Vortex Light Field Manipulation Technology Based on Metasurfaces: G. Feng. Journal of Electronic Materials, 55(2), 1354-1397. [[paper](https://link.springer.com/article/10.1007/s11664-025-12577-0)]
+
+ <!-- ----------------- DCGAN -------------------- -->
+
+  273. Cao, Z., Sun, S., & Bao, X. (2025). A review of computer vision and deep learning applications in crop growth management. Applied Sciences, 15(15), 8438. [[paper](https://www.mdpi.com/2076-3417/15/15/8438)]
+
+  274. Huo, Y., Liu, Y., He, P., Hu, L., Gao, W., & Gu, L. (2025). Identifying Tomato Growth Stages in Protected Agriculture with StyleGAN3–Synthetic Images and Vision Transformer. Agriculture, 15(2), 120. [[paper](https://iopscience.iop.org/article/10.1088/2631-8695/ae086a/meta)]
+
+  275. Kumar, K., Revathi, A., Lavanya, D., & Sabeena, J. (2025). Transforming Agriculture: Utilizing Artificial Intelligence Methods to Quantify Crop Disease Levels. In AI Integration for Business Sustainability: For a Resilient Future (pp. 163-177). Singapore: Springer Nature Singapore. [[paper](https://link.springer.com/chapter/10.1007/978-981-96-3464-4_9)]
 
 </details>
 
 </details>
 
 
-
-
-
-
-
+<!-- ----------------- LiDAR Deep Learning -------------------- -->
 
 
 ## LiDAR algorithms for robotics
