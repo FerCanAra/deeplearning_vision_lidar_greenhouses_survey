@@ -671,15 +671,13 @@ The foundational articles underpinning the most significant advances in vision t
 
   2. Qi, C. R., Yi, L., Su, H., & Guibas, L. J. (2017). Pointnet++: Deep hierarchical feature learning on point sets in a metric space. Advances in neural information processing systems, 30. [[paper](https://proceedings.neurips.cc/paper/2017/hash/d8bf84be3800d12f74d8b05e9b89836f-Abstract.html)]
 
-  3. Wang, Y., Sun, Y., Liu, Z., Sarma, S. E., Bronstein, M. M., & Solomon, J. M. (2019). Dynamic graph cnn for learning on point clouds. ACM Transactions on Graphics (tog), 38(5), 1-12. [[paper](https://dl.acm.org/doi/abs/10.1145/3326362)]
+  3. Maturana, D., & Scherer, S. (2015, September). Voxnet: A 3d convolutional neural network for real-time object recognition. In 2015 IEEE/RSJ international conference on intelligent robots and systems (IROS) (pp. 922-928). Ieee. [[paper](https://ieeexplore.ieee.org/document/7353481)]
 
-  4. Thomas, H., Qi, C. R., Deschaud, J. E., Marcotegui, B., Goulette, F., & Guibas, L. J. (2019). Kpconv: Flexible and deformable convolution for point clouds. In Proceedings of the IEEE/CVF international conference on computer vision (pp. 6411-6420). [[paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Thomas_KPConv_Flexible_and_Deformable_Convolution_for_Point_Clouds_ICCV_2019_paper.html)]
+  4. Zhao, H., Jiang, L., Jia, J., Torr, P. H., & Koltun, V. (2021). Point transformer. In Proceedings of the IEEE/CVF international conference on computer vision (pp. 16259-16268). [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zhao_Point_Transformer_ICCV_2021_paper.html?ref=;)]
 
-  5. Zhao, H., Jiang, L., Jia, J., Torr, P. H., & Koltun, V. (2021). Point transformer. In Proceedings of the IEEE/CVF international conference on computer vision (pp. 16259-16268). [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zhao_Point_Transformer_ICCV_2021_paper.html?ref=;)]
+  5. Ma, X., Qin, C., You, H., Ran, H., & Fu, Y. (2022). Rethinking network design and local geometry in point cloud: A simple residual MLP framework. arXiv preprint arXiv:2202.07123. [[paper](https://arxiv.org/abs/2202.07123)]
 
-  6. Ma, X., Qin, C., You, H., Ran, H., & Fu, Y. (2022). Rethinking network design and local geometry in point cloud: A simple residual MLP framework. arXiv preprint arXiv:2202.07123. [[paper](https://arxiv.org/abs/2202.07123)]
-
-  7. Qian, G., Li, Y., Peng, H., Mai, J., Hammoud, H., Elhoseiny, M., & Ghanem, B. (2022). Pointnext: Revisiting pointnet++ with improved training and scaling strategies. Advances in neural information processing systems, 35, 23192-23204. [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9318763d049edf9a1f2779b2a59911d3-Abstract-Conference.html)]
+  6. Qian, G., Li, Y., Peng, H., Mai, J., Hammoud, H., Elhoseiny, M., & Ghanem, B. (2022). Pointnext: Revisiting pointnet++ with improved training and scaling strategies. Advances in neural information processing systems, 35, 23192-23204. [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9318763d049edf9a1f2779b2a59911d3-Abstract-Conference.html)]
 
 </details>
 <details>
@@ -742,35 +740,45 @@ The foundational articles underpinning the most significant advances in vision t
 
   25. Ma, S., Lu, X., & Zhang, L. (2025). TSINet: A Semantic and Instance Segmentation Network for 3D Tomato Plant Point Clouds. Applied Sciences, 15(15), 8406. [[aper](https://www.mdpi.com/2076-3417/15/15/8406)]
 
-  26. Yang, X., Shang, Z., Huang, H., Liu, C., Xu, T., & Miao, T. (2026). SMFCA-Net: Sparse Multi-Frequency Cross-Attention Network for Single-Plant Point Cloud Classification and Segmentation. IEEE Transactions on Geoscience and Remote Sensing. [[paper](https://ieeexplore.ieee.org/abstract/document/11381999)]
+  29. Yang, X., Shang, Z., Huang, H., Liu, C., Xu, T., & Miao, T. (2026). SMFCA-Net: Sparse Multi-Frequency Cross-Attention Network for Single-Plant Point Cloud Classification and Segmentation. IEEE Transactions on Geoscience and Remote Sensing. [[paper](https://ieeexplore.ieee.org/abstract/document/11381999)]
 
-  27. Zhao, W., Chen, Z., Liu, D., Yang, H., & Zhao, J. (2026, March). HTMNet: A Hybrid Transformer and Mamba Network for 3D Segmentation of Brassica rapa. In 2026 9th International Conference on Advanced Electronic Technology, Computers and Software Engineering (AETCSE) (pp. 859-863). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/11504061)]
+  30. Zhao, W., Chen, Z., Liu, D., Yang, H., & Zhao, J. (2026, March). HTMNet: A Hybrid Transformer and Mamba Network for 3D Segmentation of Brassica rapa. In 2026 9th International Conference on Advanced Electronic Technology, Computers and Software Engineering (AETCSE) (pp. 859-863). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/11504061)]
 
 
  <!-- ----------------- KPCpnv -------------------- -->
 
-28. Seo, B. H., Lee, S., Lee, J. H., Seo, Y., Kim, D., Jo, Y., Lee, J., & Choi, W. (2026). Semantic segmentation of plastic greenhouse frames and its application to finite element model reconstruction for structural response assessment. Computers and Electronics in Agriculture, 240, 111184. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169925012906)]
+31. Seo, B. H., Lee, S., Lee, J. H., Seo, Y., Kim, D., Jo, Y., Lee, J., & Choi, W. (2026). Semantic segmentation of plastic greenhouse frames and its application to finite element model reconstruction for structural response assessment. Computers and Electronics in Agriculture, 240, 111184. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169925012906)]
 
-29. Du, R., Zhai, G., Qiu, T., & Jiang, Y. (2025). Towards scalable organ level 3D plant segmentation: Bridging the data algorithm computing gap. arXiv preprint arXiv:2509.06329. [[paper](https://arxiv.org/abs/2509.06329)]
+32. Du, R., Zhai, G., Qiu, T., & Jiang, Y. (2025). Towards scalable organ level 3D plant segmentation: Bridging the data algorithm computing gap. arXiv preprint arXiv:2509.06329. [[paper](https://arxiv.org/abs/2509.06329)]
 
  <!-- ----------------- Point Tranformers -------------------- -->
 
-30. Xu, J., Liu, H., & Shen, Y. (2025). Image and Point Cloud-Based Neural Network Models and Applications in Agricultural Nursery Plant Protection Tasks. Agronomy, 15(9), 2147. [[paper](https://scholar.google.es/scholar?hl=es&as_sdt=0%2C5&as_ylo=2025&authuser=2&q=Point+Tranformers+CNN+LiDAR+greenhouse+agriculture&btnG=)]
+33. Xu, J., Liu, H., & Shen, Y. (2025). Image and Point Cloud-Based Neural Network Models and Applications in Agricultural Nursery Plant Protection Tasks. Agronomy, 15(9), 2147. [[paper](https://scholar.google.es/scholar?hl=es&as_sdt=0%2C5&as_ylo=2025&authuser=2&q=Point+Tranformers+CNN+LiDAR+greenhouse+agriculture&btnG=)]
 
-31. Saki, M., Keshavarz, R., Franklin, D., Abolhasan, M., Lipman, J., & Shariati, N. (2025). A Data-Driven review of remote Sensing-Based data fusion in precision agriculture from foundational to Transformer-Based techniques. IEEE Access. [[paper](https://ieeexplore.ieee.org/abstract/document/11165307)]
+34. Saki, M., Keshavarz, R., Franklin, D., Abolhasan, M., Lipman, J., & Shariati, N. (2025). A Data-Driven review of remote Sensing-Based data fusion in precision agriculture from foundational to Transformer-Based techniques. IEEE Access. [[paper](https://ieeexplore.ieee.org/abstract/document/11165307)]
 
-32. Manoj, M., Balaji, E., Lokesh, A., Bharathi, V., Devi, T. N., Manikandan, R., ... & Anand, A. V. (2026). Deep Learning for Real-Time Plant Monitoring Systems. In Deep Learning in Plant Science and Agricultural Biotechnology (pp. 239-269). GB: CABI. [[paper](https://www.cabidigitallibrary.org/doi/full/10.1079/9781836991120.0013)]
+35. Manoj, M., Balaji, E., Lokesh, A., Bharathi, V., Devi, T. N., Manikandan, R., ... & Anand, A. V. (2026). Deep Learning for Real-Time Plant Monitoring Systems. In Deep Learning in Plant Science and Agricultural Biotechnology (pp. 239-269). GB: CABI. [[paper](https://www.cabidigitallibrary.org/doi/full/10.1079/9781836991120.0013)]
 
-33. Gao, Y., Zhu, B., & Song, K. (2026). An Overview of Remote Sensing of Agricultural Greenhouses: Advances and Perspectives. Chinese Geographical Science, 36(2), 171-190. [[paper](https://link.springer.com/article/10.1007/s11769-026-1607-9)]
+36. Gao, Y., Zhu, B., & Song, K. (2026). An Overview of Remote Sensing of Agricultural Greenhouses: Advances and Perspectives. Chinese Geographical Science, 36(2), 171-190. [[paper](https://link.springer.com/article/10.1007/s11769-026-1607-9)]
 
 
- <!-- ----------------- Pointnext -------------------- -->
+ <!-- ----------------- PointNet 2º round -------------------- -->
 
-  34. Li, Z., Wang, R., & Ding, R. (2025). A review of crop attribute monitoring technologies for general agricultural scenarios. AgriEngineering, 7(11), 365. [[paper](https://www.mdpi.com/2624-7402/7/11/365)]
+  37. Li, Z., Wang, R., & Ding, R. (2025). A review of crop attribute monitoring technologies for general agricultural scenarios. AgriEngineering, 7(11), 365. [[paper](https://www.mdpi.com/2624-7402/7/11/365)]
 
-  35. Qiao, G., Zhang, Z., Niu, B., Han, S., & Yang, E. (2025). segmentation and phenotypic parameter extraction using. Advanced Methods, Equipment and Platforms in Precision Field Crops Protection, volume II. [[paper](https://books.google.es/books?hl=es&lr=&id=yAGVEQAAQBAJ&oi=fnd&pg=PA146&dq=Pointnext+CNN+LiDAR+greenhouse+agriculture&ots=sdBkOEL2EB&sig=XnBYGZ8VDXe-RL092tAZSFc0E6U#v=onepage&q&f=false)]
+  38. Qiao, G., Zhang, Z., Niu, B., Han, S., & Yang, E. (2025). segmentation and phenotypic parameter extraction using. Advanced Methods, Equipment and Platforms in Precision Field Crops Protection, volume II. [[paper](https://books.google.es/books?hl=es&lr=&id=yAGVEQAAQBAJ&oi=fnd&pg=PA146&dq=Pointnext+CNN+LiDAR+greenhouse+agriculture&ots=sdBkOEL2EB&sig=XnBYGZ8VDXe-RL092tAZSFc0E6U#v=onepage&q&f=false)]
 
-  36. Chu, P., Han, B., Guo, Q., Wan, Y., & Zhang, J. (2025). A three-dimensional phenotype extraction method based on point cloud segmentation for all-period cotton multiple organs. Plants, 14(11), 1578. [[paper](https://www.mdpi.com/2223-7747/14/11/1578)]
+  39. Chu, P., Han, B., Guo, Q., Wan, Y., & Zhang, J. (2025). A three-dimensional phenotype extraction method based on point cloud segmentation for all-period cotton multiple organs. Plants, 14(11), 1578. [[paper](https://www.mdpi.com/2223-7747/14/11/1578)]
+
+  40. Sánchez-Molina, J. A., Rodríguez, F., Moreno, J. C., Sánchez-Hermosilla, J., & Giménez, A. (2024). Robotics in greenhouses. Scoping review. Computers and Electronics in Agriculture, 219, 108750. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169924001418)]
+  
+  41. Xu, J., Gu, B., & Tian, G. (2022). Review of agricultural IoT technology. Artificial Intelligence in Agriculture, 6, 10-22. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721722000010)]
+     
+  42. Hossain, M. E., Kabir, M. A., Zheng, L., Swain, D. L., McGrath, S., & Medway, J. (2022). A systematic review of machine learning techniques for cattle identification: Datasets, methods and future directions. Artificial Intelligence in Agriculture, 6, 138-155. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721722000125)]
+
+  43. Wang, F., Zhu, T., Huang, L., Feng, C., Lu, X., Min, W., ... & Nie, Y. (2026). VGDS-PointNet++ for organ segmentation and phenotypic trait estimation in greenhouse tomato seedlings. Frontiers in Plant Science, 17, 1753706. [[paper](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1753706/full)]
+
+  44. Zhong, B., Yang, L., Lu, J., & Xu, S. (2026). 3D Point Cloud Segmentation Algorithm Based on Deep Learning and Its Application in Phenotype Detection. IET Image Processing, 20(1), e70405. [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.70405)]
 
 </details>
 </details>
@@ -785,44 +793,72 @@ The foundational articles underpinning the most significant advances in vision t
 <details>
   <summary><strong>1. Articles on mathematical foundations</strong></summary>
 
-  8. Maturana, D., & Scherer, S. (2015, September). Voxnet: A 3d convolutional neural network for real-time object recognition. In 2015 IEEE/RSJ international conference on intelligent robots and systems (IROS) (pp. 922-928). Ieee. [[paper](https://ieeexplore.ieee.org/document/7353481)]
+  7. Yan, Y., Mao, Y., & Li, B. (2018). Second: Sparsely embedded convolutional detection. Sensors, 18(10), 3337. [[paper](https://www.mdpi.com/1424-8220/18/10/3337)]
 
-  9. Yan, Y., Mao, Y., & Li, B. (2018). Second: Sparsely embedded convolutional detection. Sensors, 18(10), 3337. [[paper](https://www.mdpi.com/1424-8220/18/10/3337)]
+  8. Shi, S., Wang, X., & Li, H. (2019). Pointrcnn: 3d object proposal generation and detection from point cloud. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 770-779). [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_PointRCNN_3D_Object_Proposal_Generation_and_Detection_From_Point_Cloud_CVPR_2019_paper.pdf)]
 
-  10. Shi, S., Wang, X., & Li, H. (2019). Pointrcnn: 3d object proposal generation and detection from point cloud. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 770-779). [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_PointRCNN_3D_Object_Proposal_Generation_and_Detection_From_Point_Cloud_CVPR_2019_paper.pdf)]
+  9. Lang, A. H., Vora, S., Caesar, H., Zhou, L., Yang, J., & Beijbom, O. (2019). Pointpillars: Fast encoders for object detection from point clouds. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 12697-12705). [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Lang_PointPillars_Fast_Encoders_for_Object_Detection_From_Point_Clouds_CVPR_2019_paper.html)]
 
-  11. Lang, A. H., Vora, S., Caesar, H., Zhou, L., Yang, J., & Beijbom, O. (2019). Pointpillars: Fast encoders for object detection from point clouds. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 12697-12705). [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Lang_PointPillars_Fast_Encoders_for_Object_Detection_From_Point_Clouds_CVPR_2019_paper.html)]
+  10. Shi, S., Guo, C., Jiang, L., Wang, Z., Shi, J., Wang, X., & Li, H. (2020). Pv-rcnn: Point-voxel feature set abstraction for 3d object detection. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 10529-10538). [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Shi_PV-RCNN_Point-Voxel_Feature_Set_Abstraction_for_3D_Object_Detection_CVPR_2020_paper.html)]
 
-  12. Shi, S., Guo, C., Jiang, L., Wang, Z., Shi, J., Wang, X., & Li, H. (2020). Pv-rcnn: Point-voxel feature set abstraction for 3d object detection. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 10529-10538). [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Shi_PV-RCNN_Point-Voxel_Feature_Set_Abstraction_for_3D_Object_Detection_CVPR_2020_paper.html)]
+  11. Yin, T., Zhou, X., & Krahenbuhl, P. (2021). Center-based 3d object detection and tracking. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 11784-11793). [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Yin_Center-Based_3D_Object_Detection_and_Tracking_CVPR_2021_paper.html)]
 
-  13. Yin, T., Zhou, X., & Krahenbuhl, P. (2021). Center-based 3d object detection and tracking. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 11784-11793). [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Yin_Center-Based_3D_Object_Detection_and_Tracking_CVPR_2021_paper.html)]
-
-  14. Wang, Y., Guizilini, V. C., Zhang, T., Wang, Y., Zhao, H., & Solomon, J. (2022, January). Detr3d: 3d object detection from multi-view images via 3d-to-2d queries. In Conference on robot learning (pp. 180-191). PMLR. [[paper](https://proceedings.mlr.press/v164/wang22b.html?ref=https://githubhelp.com)]
+  12. Wang, Y., Guizilini, V. C., Zhang, T., Wang, Y., Zhao, H., & Solomon, J. (2022, January). Detr3d: 3d object detection from multi-view images via 3d-to-2d queries. In Conference on robot learning (pp. 180-191). PMLR. [[paper](https://proceedings.mlr.press/v164/wang22b.html?ref=https://githubhelp.com)]
 
 </details>
 
 <details>
   <summary><strong>2. Articles on greenhouse farming</strong></summary>
 
- <!-- ----------------- VoxeNet -------------------- -->
-
-34. Khan, Z., Shen, Y., & Liu, H. (2025). Objectdetection in agriculture: A comprehensive review of methods, applications, challenges, and future directions. Agriculture, 15(13), 1351. [[paper](https://www.mdpi.com/2077-0472/15/13/1351)]
+  43. Khan, Z., Shen, Y., & Liu, H. (2025). Objectdetection in agriculture: A comprehensive review of methods, applications, challenges, and future directions. Agriculture, 15(13), 1351. [[paper](https://www.mdpi.com/2077-0472/15/13/1351)]
 
  <!-- ----------------- SECOND -------------------- -->
 
+  44. Sadovnikov, S. A., Yakovlev, S. V., Kravtsova, N. S., Romanovskii, O. A., & Tuzhilkin, D. A. (2025). Dual-channel infrared OPO lidar optical system for remote sensing of greenhouse gases in the atmosphere: Design and characteristics. Sensors International, 6, 100307. [[paper](https://www.sciencedirect.com/science/article/pii/S2666351124000299)]
+
+  45. Huang, Z., Yang, N., Cao, R., Li, Z., He, Y., & Feng, X. (2025). Autonomous navigation system in various greenhouse scenarios based on improved FAST-LIO2. Computers and Electronics in Agriculture, 234, 110279. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169925003850)]
+
+  46. Tan, H., Zhao, X., Fu, H., Yang, M., & Zhai, C. (2025). A novel fusion positioning navigation system for greenhouse strawberry spraying robot using LiDAR and ultrasonic tags. Agriculture Communications, 3(2), 100087. [[paper](https://www.sciencedirect.com/science/article/pii/S2949798125000171)]
+
  <!-- ----------------- POINTRCNN -------------------- -->
 
+  47. Ma, H., Wen, W., Gou, W., Lu, X., Fan, J., Zhang, M., Liang, Y., Gu, S., & Guo, X. (2025). 3D time-series phenotyping of lettuce in greenhouses. Biosystems Engineering, 250, 250-269. [[paper](https://www.sciencedirect.com/science/article/pii/S1537511025000042)]
+
+  48. Zhao, H., Chen, S., Yang, S., Tang, H., Xu, Z., Zheng, Y., & Kang, F. (2026). Point-cloud segmentation for overlapping fruit-tree canopies using LiDAR to improve individual-tree data quality in precision orchards. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. [[paper](https://ieeexplore.ieee.org/abstract/document/11399749)]
+
+  49. Lin, F., Liu, Z., Meng, T., Lu, L., Xue, Q., & Ren, K. (2026). Physical Adversarial Example Attacks towards LiDAR Perception via Electromagnetic Injection. IEEE Transactions on Mobile Computing. [[paper](https://ieeexplore.ieee.org/abstract/document/11603440)]
+
+  50. Tu, J., Ren, D., Shi, F., Jia, Z., Ren, Y., Qin, J., & He, F. (2025). Minkowski-MambaNet: A Point Cloud Framework with Selective State Space Models for Forest Biomass Quantification. arXiv preprint arXiv:2510.09367. [[paper](https://arxiv.org/abs/2510.09367)]
+
+  51. Li, Y., Wei, M., Nie, J., Zhao, J., Khan, M. A., Fang, K., & Gadekallu, T. R. (2025). AIoT-enhanced outlier-resilient slam for smart warehousing in dynamic environments. IEEE Internet of Things Journal. [[paper](https://ieeexplore.ieee.org/abstract/document/11062522)]
 
  <!-- ----------------- PointPillars -------------------- -->
 
+  52. Ton, B., & Akster, R. (2025). Large Scale Asset Detection Within Railway Scene Point Cloud Data From Mobile Laser Scanning. IEEE Access. [[paper](https://ieeexplore.ieee.org/abstract/document/11086595)]
 
- <!-- ----------------- PPV-RCNN -------------------- -->
+  53. Guaragnella, G., Cardellicchio, A., Patruno, C., Nitti, M., Pedrocchi, N., & Renò, V. (2026). Artificial Intelligence in Autonomous Mobile Robot Navigation: From Classical Approaches to Intelligent Adaptation. Advanced Intelligent Systems, 8(5), e202501376. [[paper](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aisy.202501376)]
 
+  54. Valverde, M., Moutinho, A., & Zacchi, J. V. (2025). A Survey of Deep Learning-Based 3D Object Detection Methods for Autonomous Driving Across Different Sensor Modalities. Sensors (Basel, Switzerland), 25(17), 5264. [[paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC12431044/)]
+
+ <!-- ----------------- PV-RCNN -------------------- -->
+
+  55. Werner, H., Delea, C., Zantopp, N., Au, C. N., & Tiedemann, T. (2025, October). Advancing Maritime Perception: PV-RCNN for 3D LiDAR Object Detection. In Journal of Physics: Conference Series (Vol. 3123, No. 1, p. 012026). IOP Publishing. [[paper](https://iopscience.iop.org/article/10.1088/1742-6596/3123/1/012026/meta)]
+
+  56. Jang, S. H., Cho, H. R., Hong, H. G., Kwon, T. H., Cho, Y. J., Yun, H. Y., Lee, Y.J., Ahn, W.J., & Lim, M. T. (2026). FruitTrackDB: a multi-sensor dataset for intelligent navigation in real orchard environments. Intelligent Service Robotics, 19(3), 50. [[paper](https://link.springer.com/article/10.1007/s11370-026-00702-9)]
+
+  57. Lielamurs, E., Sayed, I., Cvetkovs, A., Novickis, R., Zencovs, A., Celitans, M., Bizums, A., Dimitrakopoulos, G., Kaszzescha, J., & Ozols, K. (2025). A distributed time-of-flight sensor system for autonomous vehicles: architecture, sensor fusion, and spiking neural network perception. Electronics, 14(7), 1375. [[paper](https://www.mdpi.com/2079-9292/14/7/1375)]
 
  <!-- ----------------- CenterPoint -------------------- -->
 
+  58. Xie, P., Fang, L., He, Y., & Cen, H. (2025). Temporal semantic multispectral point cloud generation and feature fusion pipeline for comprehensive trait estimation in greenhouse tomatoes. Computers and Electronics in Agriculture, 237, 110748. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169925008543)]
+
+  59. Fang, W., Bi, C., Zhou, J., Yu, H., & Zhao, M. (2025). 3D LiDAR-based crop row detection for soybean at maturity under different planting densities. Computers and Electronics in Agriculture, 239, 111046. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169925011524)]
+
  <!-- ----------------- DETR3D -------------------- -->
 
+  60. Zhang, D., Gajardo, J., Medic, T., Katircioglu, I., Boss, M., Kirchgessner, N., Walter, A., & Roth, L. (2025). Wheat3dgs: In-field 3d reconstruction, instance segmentation and phenotyping of wheat heads with gaussian splatting. In Proceedings of the Computer Vision and Pattern Recognition Conference (pp. 5360-5370). [[paper](https://openaccess.thecvf.com/content/CVPR2025W/V4A/html/Zhang_Wheat3DGS_In-field_3D_Reconstruction_Instance_Segmentation_and_Phenotyping_of_Wheat_CVPRW_2025_paper.html)]
+
+  61. González-Muñoz, A., Wu, D. J., Perera-Rodríguez, A. B., Rekik, M., Giancola, S., Wulff, B. B., & Gardener, C. (2025). A high-throughput pipeline for phenotyping, object detection and quantification of leaf trichomes. Theoretical and Applied Genetics, 138(8), 188. [[paper](https://link.springer.com/article/10.1007/s00122-025-04967-z)]
 
 </details>
 </details>
@@ -837,17 +873,19 @@ The foundational articles underpinning the most significant advances in vision t
 <details>
   <summary><strong>1. Articles on mathematical foundations</strong></summary>
 
-  15. Vitagliano, G., Gühne, O., & Tóth, G. (2025). $ su (d) $-squeezing and many-body entanglement geometry in finite-dimensional systems. Quantum, 9, 1844. [[paper](https://quantum-journal.org/papers/q-2025-09-03-1844/)]
+  13. Vitagliano, G., Gühne, O., & Tóth, G. (2025). squeezingV3 and many-body entanglement geometry in finite-dimensional systems. Quantum, 9, 1844. [[paper](https://quantum-journal.org/papers/q-2025-09-03-1844/)]
 
-  16. Cheng, B., Chen, L. C., Wei, Y., Zhu, Y., Huang, Z., Xiong, J., Huang, T.S., Hwu, W.H. & Shi, H. (2019). Spgnet: Semantic prediction guidance for scene parsing. In Proceedings of the IEEE/CVF international conference on computer vision (pp. 5218-5228). [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Cheng_SPGNet_Semantic_Prediction_Guidance_for_Scene_Parsing_ICCV_2019_paper.pdf)]
+  14. Cheng, B., Chen, L. C., Wei, Y., Zhu, Y., Huang, Z., Xiong, J., Huang, T.S., Hwu, W.H. & Shi, H. (2019). Spgnet: Semantic prediction guidance for scene parsing. In Proceedings of the IEEE/CVF international conference on computer vision (pp. 5218-5228). [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Cheng_SPGNet_Semantic_Prediction_Guidance_for_Scene_Parsing_ICCV_2019_paper.pdf)]
 
-  17. Kong, L., Liu, Y., Chen, R., Ma, Y., Zhu, X., Li, Y., ... & Liu, Z. (2023). Rethinking range view representation for lidar segmentation. In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 228-240). [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Kong_Rethinking_Range_View_Representation_for_LiDAR_Segmentation_ICCV_2023_paper.html)]
+  15. Thomas, H., Qi, C. R., Deschaud, J. E., Marcotegui, B., Goulette, F., & Guibas, L. J. (2019). Kpconv: Flexible and deformable convolution for point clouds. In Proceedings of the IEEE/CVF international conference on computer vision (pp. 6411-6420). [[paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Thomas_KPConv_Flexible_and_Deformable_Convolution_for_Point_Clouds_ICCV_2019_paper.html)]
 
-  18. Hu, Q., Yang, B., Xie, L., Rosa, S., Guo, Y., Wang, Z., Trigon, N., & Markham, A. (2020). Randla-net: Efficient semantic segmentation of large-scale point clouds. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 11108-11117). [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Hu_RandLA-Net_Efficient_Semantic_Segmentation_of_Large-Scale_Point_Clouds_CVPR_2020_paper.html)]
+  16. Hu, Q., Yang, B., Xie, L., Rosa, S., Guo, Y., Wang, Z., Trigon, N., & Markham, A. (2020). Randla-net: Efficient semantic segmentation of large-scale point clouds. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 11108-11117). [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Hu_RandLA-Net_Efficient_Semantic_Segmentation_of_Large-Scale_Point_Clouds_CVPR_2020_paper.html)]
 
-  19. Zhou, H., Zhu, X., Song, X., Ma, Y., Wang, Z., Li, H., & Lin, D. (2020). Cylinder3d: An effective 3d framework for driving-scene lidar semantic segmentation. arXiv preprint arXiv:2008.01550. [[paper](https://arxiv.org/abs/2008.01550)]
+  17. Zhou, H., Zhu, X., Song, X., Ma, Y., Wang, Z., Li, H., & Lin, D. (2020). Cylinder3d: An effective 3d framework for driving-scene lidar semantic segmentation. arXiv preprint arXiv:2008.01550. [[paper](https://arxiv.org/abs/2008.01550)]
 
-  20. Cortinhal, T., Tzelepis, G., & Erdal Aksoy, E. (2020, October). Salsanext: Fast, uncertainty-aware semantic segmentation of lidar point clouds. In International Symposium on Visual Computing (pp. 207-222). Cham: Springer International Publishing. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-64559-5_16)]
+  18. Cortinhal, T., Tzelepis, G., & Erdal Aksoy, E. (2020, October). Salsanext: Fast, uncertainty-aware semantic segmentation of lidar point clouds. In International Symposium on Visual Computing (pp. 207-222). Cham: Springer International Publishing. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-64559-5_16)]
+
+  19. Wang, Y., Sun, Y., Liu, Z., Sarma, S. E., Bronstein, M. M., & Solomon, J. M. (2019). Dynamic graph cnn for learning on point clouds. ACM Transactions on Graphics (tog), 38(5), 1-12. [[paper](https://dl.acm.org/doi/abs/10.1145/3326362)]
 
 </details>
 
@@ -856,14 +894,16 @@ The foundational articles underpinning the most significant advances in vision t
 
  <!-- ----------------- SquezeeSegV3 -------------------- -->
 
-  1. Cañadas-Aránega, F., Moreno, J. C., & Blanco-Claraco, J. L. (2026). GreenSeg: Ground Segmentation Algorithm for Agricultural Robots in Mediterranean Greenhouses using RGB-D Point Clouds. arXiv preprint arXiv:2605.25279. [[paper](https://arxiv.org/abs/2605.25279)]
+  62. Cañadas-Aránega, F., Moreno, J. C., & Blanco-Claraco, J. L. (2026). GreenSeg: Ground Segmentation Algorithm for Agricultural Robots in Mediterranean Greenhouses using RGB-D Point Clouds. arXiv preprint arXiv:2605.25279. [[paper](https://arxiv.org/abs/2605.25279)]
 
-  2. Gilson, A., Meyer, L., Scholz, O., & Schmid, U. (2025). OmniPlantSeg: Species Agnostic 3D Point Cloud Organ Segmentation for High-Resolution Plant Phenotyping Across Modalities. arXiv preprint arXiv:2509.21038. [[paper](https://arxiv.org/abs/2509.21038)]
+  63. Gilson, A., Meyer, L., Scholz, O., & Schmid, U. (2025). OmniPlantSeg: Species Agnostic 3D Point Cloud Organ Segmentation for High-Resolution Plant Phenotyping Across Modalities. arXiv preprint arXiv:2509.21038. [[paper](https://arxiv.org/abs/2509.21038)]
+     
+  64. Cañadas-Aránega, F., Blanco-Claraco, J. L., Moreno, J. C., & Rodriguez-Diaz, F. (2024). Multimodal mobile robotic dataset for a typical mediterranean greenhouse: The greenbot dataset. Sensors, 24(6), 1874. [[paper](https://www.mdpi.com/1424-8220/24/6/1874)]
 
 
  <!-- ----------------- SPGNet -------------------- -->
 
- <!-- ----------------- RangeSeg -------------------- -->
+ <!-- ----------------- RangeNet++ -------------------- -->
 
 
  <!-- ----------------- RardLA-Net -------------------- -->
@@ -906,50 +946,24 @@ The foundational articles underpinning the most significant advances in vision t
 <details>
   <summary><strong>2. Articles on greenhouse farming</strong></summary>
 
- <!-- ----------------- rGAN -------------------- -->
+ <!-- ----------------- rGAN (Generación) -------------------- -->
 
- <!-- ----------------- PCN -------------------- -->
+ <!-- ----------------- PCN (Completado de puntos) -------------------- -->
 
+ <!-- ----------------- PoinTr (Completado) -------------------- -->
 
- <!-- ----------------- PVD -------------------- -->
-
-
- <!-- ----------------- PoinTr -------------------- -->
+ <!-- ----------------- PVD (probabilistic generative modeling of 3D shapes) -------------------- -->
 
 
- <!-- ----------------- LiDARGen -------------------- -->
+
+
+
+ <!-- ----------------- LiDARGen (generación de datos LiDAR sintéticos) -------------------- -->
 
 
 
 </details>
 </details>
-
-
-1. Sánchez-Molina, J. A., Rodríguez, F., Moreno, J. C., Sánchez-Hermosilla, J., & Giménez, A. (2024). Robotics in greenhouses. Scoping review. Computers and Electronics in Agriculture, 219, 108750. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169924001418)]
-
-2. Xu, J., Gu, B., & Tian, G. (2022). Review of agricultural IoT technology. Artificial Intelligence in Agriculture, 6, 10-22. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721722000010)]
-
-3. Hossain, M. E., Kabir, M. A., Zheng, L., Swain, D. L., McGrath, S., & Medway, J. (2022). A systematic review of machine learning techniques for cattle identification: Datasets, methods and future directions. Artificial Intelligence in Agriculture, 6, 138-155. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721722000125)]
-
-
-
-5. Cañadas-Aránega, F., Blanco-Claraco, J. L., Moreno, J. C., & Rodriguez-Diaz, F. (2024). Multimodal mobile robotic dataset for a typical mediterranean greenhouse: The greenbot dataset. Sensors, 24(6), 1874. [[paper](https://www.mdpi.com/1424-8220/24/6/1874)]
-
-<details>
-<summary>Vision algorithms for robotics</summary>
-
-
-1. Ground Segmentation ROS 2 Node (GSeg3D) [[paper](https://github.com/dfki-ric/ground_segmentation_ros2?tab=readme-ov-file)]: This package implements a ROS 2 node that wraps the GSeg3D ground segmentation algorithm and exposes it as a real-time perception component for robotic systems. The node subscribes to LiDAR point clouds (optionally synchronized with IMU data), performs two-phase grid-based ground segmentation, and publishes ground and obstacle point clouds for downstream navigation and perception modules. INCLUDE A NAV2 IMPLEMENTATION.
-<div align="center">
-  <img width="450" height="180" alt="image" src="https://github.com/user-attachments/assets/15d83492-40ba-4883-9db4-e655abbc550f" />
-</div>
-
-
-VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION
-</details>
-</details>
-
-
 
 
 ## Robotics tools
