@@ -579,7 +579,7 @@ The foundational articles underpinning the most significant advances in vision t
 <!-- ---------------------------------------------------------------------------------------------------------------------------- -->
 
 <details>
-<summary><strong>Generative</strong>strong></summary>
+<summary><strong>Generative</strong></summary>
 
 
 <details>
@@ -595,9 +595,7 @@ The foundational articles underpinning the most significant advances in vision t
 
   26. Radford, A., Metz, L., & Chintala, S. (2015). _Unsupervised representation learning with deep convolutional generative adversarial networks (DCGAN)_. arXiv preprint arXiv:1511.06434. [[paper](https://arxiv.org/abs/1511.06434)].
 
-
 </details>
-
 
 <details>
   <summary><strong>2. Articles on greenhouse farming</strong></summary>
@@ -648,9 +646,12 @@ The foundational articles underpinning the most significant advances in vision t
 
 </details>
 
-
-<!-- ----------------- LiDAR Deep Learning -------------------- -->
-
+<!-- ---------------------------------------------------------------------------------------------------------------------------- -->
+<!-- ----------------------------------------------------------- LIDAR ---------------------------------------------------------- -->
+<!-- ---------------------------------------------------------------------------------------------------------------------------- -->
+<!-- ---------------------------------------------------------------------------------------------------------------------------- -->
+<!-- ---------------------------------------------------------- Algorim --------------------------------------------------------- -->
+<!-- ---------------------------------------------------------------------------------------------------------------------------- -->
 
 ## LiDAR algorithms for robotics
 <div align="center">
