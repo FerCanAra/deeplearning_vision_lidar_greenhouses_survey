@@ -658,6 +658,202 @@ The foundational articles underpinning the most significant advances in vision t
   <img width="500" height="432" alt="image" src="https://github.com/user-attachments/assets/55cb1db4-f464-4f9b-a0f3-fdebc508851b" />
 </div>
 
+<!-- ---------------------------------------------------------------------------------------------------------------------------- -->
+<!-- ------------------------------------------------- Clasification ------------------------------------------------------------- -->
+<!-- ---------------------------------------------------------------------------------------------------------------------------- -->
+<details>
+<summary><strong>Classification</strong></summary>
+  
+<details>
+  <summary><strong>1. Articles on mathematical foundations</strong></summary>
+
+  1. Qi, C. R., Su, H., Mo, K., & Guibas, L. J. (2017). Pointnet: Deep learning on point sets for 3d classification and segmentation. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 652-660). [[paper](https://openaccess.thecvf.com/content_cvpr_2017/html/Qi_PointNet_Deep_Learning_CVPR_2017_paper.html)]
+
+  2. Qi, C. R., Yi, L., Su, H., & Guibas, L. J. (2017). Pointnet++: Deep hierarchical feature learning on point sets in a metric space. Advances in neural information processing systems, 30. [[paper](https://proceedings.neurips.cc/paper/2017/hash/d8bf84be3800d12f74d8b05e9b89836f-Abstract.html)]
+
+  3. Wang, Y., Sun, Y., Liu, Z., Sarma, S. E., Bronstein, M. M., & Solomon, J. M. (2019). Dynamic graph cnn for learning on point clouds. ACM Transactions on Graphics (tog), 38(5), 1-12. [[paper](https://dl.acm.org/doi/abs/10.1145/3326362)]
+
+  4. Thomas, H., Qi, C. R., Deschaud, J. E., Marcotegui, B., Goulette, F., & Guibas, L. J. (2019). Kpconv: Flexible and deformable convolution for point clouds. In Proceedings of the IEEE/CVF international conference on computer vision (pp. 6411-6420). [[paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Thomas_KPConv_Flexible_and_Deformable_Convolution_for_Point_Clouds_ICCV_2019_paper.html)]
+
+  5. Zhao, H., Jiang, L., Jia, J., Torr, P. H., & Koltun, V. (2021). Point transformer. In Proceedings of the IEEE/CVF international conference on computer vision (pp. 16259-16268). [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zhao_Point_Transformer_ICCV_2021_paper.html?ref=;)]
+
+  6. Ma, X., Qin, C., You, H., Ran, H., & Fu, Y. (2022). Rethinking network design and local geometry in point cloud: A simple residual MLP framework. arXiv preprint arXiv:2202.07123. [[paper](https://arxiv.org/abs/2202.07123)]
+
+  7. Qian, G., Li, Y., Peng, H., Mai, J., Hammoud, H., Elhoseiny, M., & Ghanem, B. (2022). Pointnext: Revisiting pointnet++ with improved training and scaling strategies. Advances in neural information processing systems, 35, 23192-23204. [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9318763d049edf9a1f2779b2a59911d3-Abstract-Conference.html)]
+
+</details>
+<details>
+  <summary><strong>2. Articles on greenhouse farming</strong></summary>
+
+ <!-- ----------------- PointNet -------------------- -->
+
+ <!-- ----------------- PointNet++ -------------------- -->
+
+ <!-- ----------------- DGCNN -------------------- -->
+
+
+ <!-- ----------------- KPCpnv -------------------- -->
+
+
+ <!-- ----------------- Point Tranformers -------------------- -->
+
+
+ <!-- ----------------- PointMLP -------------------- -->
+
+
+
+
+
+</details>
+
+<!-- ---------------------------------------------------------------------------------------------------------------------------- -->
+<!-- ------------------------------------------------- Detection ------------------------------------------------------------- -->
+<!-- ---------------------------------------------------------------------------------------------------------------------------- -->
+
+<details>
+<summary><strong>Objetc detection</strong></summary>
+  
+<details>
+  <summary><strong>1. Articles on mathematical foundations</strong></summary>
+
+  8. Maturana, D., & Scherer, S. (2015, September). Voxnet: A 3d convolutional neural network for real-time object recognition. In 2015 IEEE/RSJ international conference on intelligent robots and systems (IROS) (pp. 922-928). Ieee. [[paper](https://ieeexplore.ieee.org/document/7353481)]
+
+  9. Yan, Y., Mao, Y., & Li, B. (2018). Second: Sparsely embedded convolutional detection. Sensors, 18(10), 3337. [[paper](https://www.mdpi.com/1424-8220/18/10/3337)]
+
+  10. Shi, S., Wang, X., & Li, H. (2019). Pointrcnn: 3d object proposal generation and detection from point cloud. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 770-779). [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_PointRCNN_3D_Object_Proposal_Generation_and_Detection_From_Point_Cloud_CVPR_2019_paper.pdf)]
+
+  11. Lang, A. H., Vora, S., Caesar, H., Zhou, L., Yang, J., & Beijbom, O. (2019). Pointpillars: Fast encoders for object detection from point clouds. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 12697-12705). [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Lang_PointPillars_Fast_Encoders_for_Object_Detection_From_Point_Clouds_CVPR_2019_paper.html)]
+
+  12. Shi, S., Guo, C., Jiang, L., Wang, Z., Shi, J., Wang, X., & Li, H. (2020). Pv-rcnn: Point-voxel feature set abstraction for 3d object detection. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 10529-10538). [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Shi_PV-RCNN_Point-Voxel_Feature_Set_Abstraction_for_3D_Object_Detection_CVPR_2020_paper.html)]
+
+  13. Yin, T., Zhou, X., & Krahenbuhl, P. (2021). Center-based 3d object detection and tracking. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 11784-11793). [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Yin_Center-Based_3D_Object_Detection_and_Tracking_CVPR_2021_paper.html)]
+
+  14. Wang, Y., Guizilini, V. C., Zhang, T., Wang, Y., Zhao, H., & Solomon, J. (2022, January). Detr3d: 3d object detection from multi-view images via 3d-to-2d queries. In Conference on robot learning (pp. 180-191). PMLR. [[paper](https://proceedings.mlr.press/v164/wang22b.html?ref=https://githubhelp.com)]
+
+
+</details>
+
+
+
+<details>
+  <summary><strong>2. Articles on greenhouse farming</strong></summary>
+
+ <!-- ----------------- VoxeNet -------------------- -->
+
+ <!-- ----------------- SECOND -------------------- -->
+
+ <!-- ----------------- POINTRCNN -------------------- -->
+
+
+ <!-- ----------------- PointPillars -------------------- -->
+
+
+ <!-- ----------------- PPV-RCNN -------------------- -->
+
+
+ <!-- ----------------- CenterPoint -------------------- -->
+
+ <!-- ----------------- DETR3D -------------------- -->
+
+
+</details>
+
+<!-- ---------------------------------------------------------------------------------------------------------------------------- -->
+<!-- ------------------------------------------------- Segmentaction ------------------------------------------------------------- -->
+<!-- ---------------------------------------------------------------------------------------------------------------------------- -->
+
+<details>
+<summary><strong>Segmentation</strong></summary>
+  
+<details>
+  <summary><strong>1. Articles on mathematical foundations</strong></summary>
+
+  15. Vitagliano, G., Gühne, O., & Tóth, G. (2025). $ su (d) $-squeezing and many-body entanglement geometry in finite-dimensional systems. Quantum, 9, 1844. [[paper](https://quantum-journal.org/papers/q-2025-09-03-1844/)]
+
+  16. Cheng, B., Chen, L. C., Wei, Y., Zhu, Y., Huang, Z., Xiong, J., Huang, T.S., Hwu, W.H. & Shi, H. (2019). Spgnet: Semantic prediction guidance for scene parsing. In Proceedings of the IEEE/CVF international conference on computer vision (pp. 5218-5228). [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Cheng_SPGNet_Semantic_Prediction_Guidance_for_Scene_Parsing_ICCV_2019_paper.pdf)]
+
+  17. Kong, L., Liu, Y., Chen, R., Ma, Y., Zhu, X., Li, Y., ... & Liu, Z. (2023). Rethinking range view representation for lidar segmentation. In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 228-240). [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Kong_Rethinking_Range_View_Representation_for_LiDAR_Segmentation_ICCV_2023_paper.html)]
+
+  18. Hu, Q., Yang, B., Xie, L., Rosa, S., Guo, Y., Wang, Z., Trigon, N., & Markham, A. (2020). Randla-net: Efficient semantic segmentation of large-scale point clouds. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 11108-11117). [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Hu_RandLA-Net_Efficient_Semantic_Segmentation_of_Large-Scale_Point_Clouds_CVPR_2020_paper.html)]
+
+  19. Zhou, H., Zhu, X., Song, X., Ma, Y., Wang, Z., Li, H., & Lin, D. (2020). Cylinder3d: An effective 3d framework for driving-scene lidar semantic segmentation. arXiv preprint arXiv:2008.01550. [[paper](https://arxiv.org/abs/2008.01550)]
+
+  20. Cortinhal, T., Tzelepis, G., & Erdal Aksoy, E. (2020, October). Salsanext: Fast, uncertainty-aware semantic segmentation of lidar point clouds. In International Symposium on Visual Computing (pp. 207-222). Cham: Springer International Publishing. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-64559-5_16)]
+
+</details>
+
+
+
+<details>
+  <summary><strong>2. Articles on greenhouse farming</strong></summary>
+
+ <!-- ----------------- SquezeeSegV3 -------------------- -->
+
+ <!-- ----------------- SPGNet -------------------- -->
+
+ <!-- ----------------- RangeSeg -------------------- -->
+
+
+ <!-- ----------------- RardLA-Net -------------------- -->
+
+
+ <!-- ----------------- Cylinder3D -------------------- -->
+
+
+ <!-- ----------------- SalsaNext -------------------- -->
+
+
+
+</details>
+ 
+
+<!-- ---------------------------------------------------------------------------------------------------------------------------- -->
+<!-- ------------------------------------------------- Generative ------------------------------------------------------------- -->
+<!-- ---------------------------------------------------------------------------------------------------------------------------- -->
+
+<details>
+<summary><strong>Generative</strong></summary>
+  
+<details>
+  <summary><strong>1. Articles on mathematical foundations</strong></summary>
+
+  21. Sarraf, A., & Nie, Y. (2021). RGAN: Rényi generative adversarial network. SN Computer Science, 2(1), 17. [[paper](https://link.springer.com/article/10.1007/s42979-020-00403-9)]
+
+  22. Yuan, W., Khot, T., Held, D., Mertz, C., & Hebert, M. (2018, September). Pcn: Point completion network. In 2018 international conference on 3D vision (3DV) (pp. 728-737). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/8491026)]
+
+  23. Zhou, L., Du, Y., & Wu, J. (2021). 3d shape generation and completion through point-voxel diffusion. In Proceedings of the IEEE/CVF international conference on computer vision (pp. 5826-5835). [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zhou_3D_Shape_Generation_and_Completion_Through_Point-Voxel_Diffusion_ICCV_2021_paper.html?ref=https://githubhelp.com)]
+
+  24. Yu, X., Rao, Y., Wang, Z., Liu, Z., Lu, J., & Zhou, J. (2021). Pointr: Diverse point cloud completion with geometry-aware transformers. In Proceedings of the IEEE/CVF international conference on computer vision (pp. 12498-12507). [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Yu_PoinTr_Diverse_Point_Cloud_Completion_With_Geometry-Aware_Transformers_ICCV_2021_paper.html)]
+
+  25. Zyrianov, V., Zhu, X., & Wang, S. (2022, October). Learning to generate realistic lidar point clouds. In European Conference on Computer Vision (pp. 17-35). Cham: Springer Nature Switzerland. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-20050-2_2)]
+
+</details>
+
+
+
+<details>
+  <summary><strong>2. Articles on greenhouse farming</strong></summary>
+
+ <!-- ----------------- rGAN -------------------- -->
+
+ <!-- ----------------- PCN -------------------- -->
+
+
+ <!-- ----------------- PVD -------------------- -->
+
+
+ <!-- ----------------- PoinTr -------------------- -->
+
+
+ <!-- ----------------- LiDARGen -------------------- -->
+
+
+
+</details>
+
+
+
+
 1. Sánchez-Molina, J. A., Rodríguez, F., Moreno, J. C., Sánchez-Hermosilla, J., & Giménez, A. (2024). Robotics in greenhouses. Scoping review. Computers and Electronics in Agriculture, 219, 108750. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169924001418)]
 
 2. Xu, J., Gu, B., & Tian, G. (2022). Review of agricultural IoT technology. Artificial Intelligence in Agriculture, 6, 10-22. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721722000010)]
