@@ -18,8 +18,10 @@ A repository providing a state-of-the-art overview of the most important algorit
 The foundational articles underpinning the most significant advances in vision technology are available for subsequent application in agriculture, specifically in greenhouses.
 
 <div align="center">
-  <img width="500" height="423" alt="image" src="https://github.com/user-attachments/assets/f28ec83f-27d0-4b56-ac4e-cbc57965b4b6" />
+  <!-- <img width="500" height="423" alt="image" src="https://github.com/user-attachments/assets/f28ec83f-27d0-4b56-ac4e-cbc57965b4b6" />-->
+  <img width="512" height="423" alt="image" src="https://github.com/user-attachments/assets/8c5e7ad9-0e0f-4507-bfa6-fdd10f069252" />
 </div>
+
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------- -->
 <!-- ---------------------------------------------------------- Clasification --------------------------------------------------- -->
