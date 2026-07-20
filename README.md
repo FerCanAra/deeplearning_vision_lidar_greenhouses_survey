@@ -440,39 +440,136 @@ The foundational articles underpinning the most significant advances in vision t
 <details>
   <summary><strong>1. Articles on mathematical foundations</strong></summary>
 
-  1. Long, J., Shelhamer, E., & Darrell, T. (2015). _Fully convolutional networks for semantic segmentation (FCN)_. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 3431-3440). [[paper](https://openaccess.thecvf.com/content_cvpr_2015/html/Long_Fully_Convolutional_Networks_2015_CVPR_paper.html)].
+  16. Long, J., Shelhamer, E., & Darrell, T. (2015). _Fully convolutional networks for semantic segmentation (FCN)_. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 3431-3440). [[paper](https://openaccess.thecvf.com/content_cvpr_2015/html/Long_Fully_Convolutional_Networks_2015_CVPR_paper.html)].
   
-  2. Ronneberger, O., Fischer, P., & Brox, T. (2015). _U-net: Convolutional networks for biomedical image segmentation_. In International Conference on Medical image computing and computer-assisted intervention (pp. 234-241). Cham: Springer international publishing. [[paper](https://link.springer.com/chapter/10.1007/978-3-319-24574-4_28)].
+  17. Ronneberger, O., Fischer, P., & Brox, T. (2015). _U-net: Convolutional networks for biomedical image segmentation_. In International Conference on Medical image computing and computer-assisted intervention (pp. 234-241). Cham: Springer international publishing. [[paper](https://link.springer.com/chapter/10.1007/978-3-319-24574-4_28)].
 
-  3. Chen, L. C., Papandreou, G., Kokkinos, I., Murphy, K., & Yuille, A. L. (2017). _Deeplab: Semantic image segmentation with deep convolutional nets, atrous convolution, and fully connected crfs_. IEEE transactions on pattern analysis and machine intelligence, 40(4), 834-848. [[paper](https://ieeexplore.ieee.org/abstract/document/7913730)].
+  18. Chen, L. C., Papandreou, G., Kokkinos, I., Murphy, K., & Yuille, A. L. (2017). _Deeplab: Semantic image segmentation with deep convolutional nets, atrous convolution, and fully connected crfs_. IEEE transactions on pattern analysis and machine intelligence, 40(4), 834-848. [[paper](https://ieeexplore.ieee.org/abstract/document/7913730)].
 
-  4. Zhao, H., Shi, J., Qi, X., Wang, X., & Jia, J. (2017). _Pyramid scene parsing network (PSPNet)_. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 2881-2890). [[paper](https://openaccess.thecvf.com/content_cvpr_2017/html/Zhao_Pyramid_Scene_Parsing_CVPR_2017_paper.html)] 
+  19. Zhao, H., Shi, J., Qi, X., Wang, X., & Jia, J. (2017). _Pyramid scene parsing network (PSPNet)_. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 2881-2890). [[paper](https://openaccess.thecvf.com/content_cvpr_2017/html/Zhao_Pyramid_Scene_Parsing_CVPR_2017_paper.html)] 
 
-  5. Xie, E., Wang, W., Yu, Z., Anandkumar, A., Alvarez, J. M., & Luo, P. (2021). _SegFormer: Simple and efficient design for semantic segmentation with transformers_. Advances in neural information processing systems, 34, 12077-12090. [[paper](https://proceedings.neurips.cc/paper/2021/hash/64f1f27bf1b4ec22924fd0acb550c235-Abstract.html)].
+  20. Xie, E., Wang, W., Yu, Z., Anandkumar, A., Alvarez, J. M., & Luo, P. (2021). _SegFormer: Simple and efficient design for semantic segmentation with transformers_. Advances in neural information processing systems, 34, 12077-12090. [[paper](https://proceedings.neurips.cc/paper/2021/hash/64f1f27bf1b4ec22924fd0acb550c235-Abstract.html)].
 
- 6. Kirillov, A., Mintun, E., Ravi, N., Mao, H., Rolland, C., Gustafson, L., Tete, X., Spencer, W., Alexander, B., Wan-Yen, L., Piotr, D., & Girshick, R. (2023). _Segment anything (SAM)_. In Proceedings of the IEEE/CVF international conference on computer vision (pp. 4015-4026). [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Kirillov_Segment_Anything_ICCV_2023_paper.html)].
-
- 7. Cañadas-Aránega, F., Moreno, J. C., & Blanco-Claraco, J. L. (2026). GreenSeg: Ground Segmentation Algorithm for Agricultural Robots in Mediterranean Greenhouses using RGB-D Point Clouds. arXiv preprint arXiv:2605.25279. [[paper](https://arxiv.org/abs/2605.25279)]
+  21. Kirillov, A., Mintun, E., Ravi, N., Mao, H., Rolland, C., Gustafson, L., Tete, X., Spencer, W., Alexander, B., Wan-Yen, L., Piotr, D., & Girshick, R. (2023). _Segment anything (SAM)_. In Proceedings of the IEEE/CVF international conference on computer vision (pp. 4015-4026). [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Kirillov_Segment_Anything_ICCV_2023_paper.html)].
 
 </details>
 
 <details>
   <summary><strong>2. Articles on greenhouse farming</strong></summary>
 
+ <!-- ----------------- FCN -------------------- -->
+
+  201. Gonzale, P. & Solarte, J. (2026). Semantic Segmentation Layer: A Nav2 Costmap Plugin for RGBD Semantic Segmentation. Available online: [link](https://github.com/kiwicampus/semantic_segmentation_layer) (accessed on 20/07/26)
+
+  202. Balaji, J. (2026). Efficient Groundfloor Segmentation for 3D Pointclouds. Available online: [link](https://github.com/open-edge-platform/edge-ai-suites/tree/main/robotics-ai-suite/components/groundfloor) (accessed on 20/07/26)
+
+  203. Cañadas-Aránega, F., Moreno, J. C., & Blanco-Claraco, J. L. (2026). GreenSeg: Ground Segmentation Algorithm for Agricultural Robots in Mediterranean Greenhouses using RGB-D Point Clouds. arXiv preprint arXiv:2605.25279. [[paper](https://arxiv.org/abs/2605.25279)]
+
+  204. Zhang, K., Gao, R., Shen, A., Wang, Y., Pang, G., Yang, L., ... & Sun, J. (2026). NJ-Unet: A novel Unet-based greenhouse tomato leaf segmentation neural network and its application. Information Processing in Agriculture. [[paper](https://www.sciencedirect.com/science/article/pii/S2214317326000077)]
+
+  205. Wang, J., & Sun, W. (2025). Cluster segmentation and stereo vision-based apple localization algorithm for robotic harvesting. Frontiers in Plant Science, 16, 1598414. [[paper](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1598414/full)]
+
+  206. Duhan, S., Gulia, P., Gill, N. S., & Gupta, C. (2026). A Comprehensive Review of Image Segmentation Techniques for Plant Disease Detection in Precision Agriculture: Models, Trends, and Challenges. Archives of Computational Methods in Engineering, 1-36. [[paper](https://link.springer.com/article/10.1007/s11831-026-10582-y)]
+
+  207. Sahlaoui, H., & Agoujil, S. (2025, December). Optimizing Tomato Object Detection in Smart Agriculture with Attention-Augmented AI Vision Systems. In 2025 4th International Conference on Embedded Systems and Artificial Intelligence (ESAI) (pp. 1-8). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/11438635)]
+
+  208. Natho, P., Boonying, S., Bonguleaum, P., Tantidontanet, N., & Chamuthai, L. (2025). An enhanced machine vision system for smart poultry farms using deep learning. Smart Agricultural Technology, 12, 101083. [[paper](https://www.sciencedirect.com/science/article/pii/S2772375525003168)]
+
+  209. ZHU, Y., LIU, Z., WU, Z., LIU, Y., ZHANG, H., & SONG, R. (2025). Semantic segmentation model for agricultural greenhouses in high-resolution remote sensing images using an improved U-Net. Transactions of the Chinese Society of Agricultural Engineering, 41(21), 155-164. [[paper](https://www.sciopen.com/article/10.11975/j.issn.1002-6819.202503132)]
+
+  210. Agrawal, K., & Kumar, N. (2025). Computer Vision in Agriculture: Object Detection, Recognition, and Image Segmentation Techniques and Advanced Image Analysis. Computational Intelligence and Image Processing in Agriculture: Applications and Innovations, 31-54. [[paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394320905.ch03)]
+
+  211. Jia, W., Wang, Z., Zhao, R., Ji, Z., Yin, X., & Liu, G. (2025). FBSM: Foveabox-based boundary-aware segmentation method for green apples in natural orchards. Expert Systems with Applications, 260, 125426. [[paper](https://www.sciencedirect.com/science/article/pii/S0957417424022930)]
+
+<!-- ----------------- U-net -------------------- -->
+
+  212. Chen, G., Luan, H., & Zhang, X. (2025, May). A Multi-Scale Attention U-Net for Extracting Agricultural Greenhouses from Very High Resolution Imagery. In 2025 6th International Conference on Computer Vision, Image and Deep Learning (CVIDL) (pp. 01-06). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/11085484)]
+
+  213. Singh, G., Al‐Huqail, A. A., Almogren, A., Kaur, S., Joshi, K., Singh, A., Bharany, S., Hussen, S., & Rehman, A. U. (2025). Enhanced Leaf Disease Segmentation Using U‐Net Architecture for Precision Agriculture: A Deep Learning Approach. Food Science & Nutrition, 13(7), e70594. [[paper](https://onlinelibrary.wiley.com/doi/full/10.1002/fsn3.70594)]
+
+  214. Beloualid, S., Bajit, A., Elfourchi, A., Zahid, Y., Semako, E., Essamri, H., & Sahl, S. (2025, September). Autonomous Mobile Node for Plant Imagery and Health Monitor in Agricultural Greenhouse. In World Conference on Information Systems for Business Management (pp. 161-171). Cham: Springer Nature Switzerland. [[paper](https://link.springer.com/chapter/10.1007/978-3-032-13003-7_16)]
+
+  215. Li, Z., Karimzadeh, S., Chavanapanit, A., Moghimi, A., & Ahamed, M. S. (2025). Detection of calcium deficiency in indoor-grown lettuce under LED lighting using computer vision. Smart Agricultural Technology, 12, 101144. [[paper](https://www.sciencedirect.com/science/article/pii/S2772375525003764)]
+
+  216. Narisetti, N., Neumann, K., Altmann, T., Stolzenburg, F., Von Wiren, N., Giehl, R. F., & Gladilin, E. (2026). A multi-class deep learning segmentation approach for automated analysis of axial and lateral roots in barley plants. Computers and Electronics in Agriculture, 240, 111157. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169925012633)]
+
+  217. Sunil, G. C., Paul, N., Khan, A., Hatterman-Valenti, H., Anderson, J. V., Kandel, J. S., Horvath, D., & Sun, X. (2025). Quantifying Freeze Damage in Strawberry Plants Using Deep Learning-Based Semantic Segmentation. Journal of Agriculture and Food Research, 102560. [[paper](https://www.sciencedirect.com/science/article/pii/S2666154325009317)]
+
+  218. Bhavani, V., Pradeepini, G., & Kavya, K. C. S. (2026). An attention U-Net–enabled precision agriculture pipeline for turmeric disease detection and mapping. International Journal of System Assurance Engineering and Management, 1-16. [[paper](https://link.springer.com/article/10.1007/s13198-026-03168-1)]
+
+  219. Dubey, P., & Dubey, P. (2026). ViT-U-Net fusion model for accurate localization and recognition of plant leaf diseases. Discover Artificial Intelligence, 6(1), 221. [[paper](https://link.springer.com/article/10.1007/s44163-026-01006-8)]
+
+  220. Sivamurugan, J., Naveen, G., & Rajalakshmi, D. (2025, February). A Hybrid U-Net with Active Contours for Plant Leaf Disease Segmentation and Classification. In 2025 International Conference on Electronics and Renewable Systems (ICEARS) (pp. 1799-1804). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/10940206)]
 
 
+<!-- ----------------- Deeplab -------------------- -->
+
+  221. Stephen, V., Renjini, A., Nandu, B., Pratheep, G., & Hanumanthu, Y. (2025, October). Cotton leaf net: DeepLabv3+ powered semantic segmentation framework for precise cotton plant leaf disease detection in smart agriculture. In International Conference on Advancing Technology in Engineering and Science (ICATES 2025) (Vol. 2025, pp. 111-117). IET. [[paper](https://ieeexplore.ieee.org/abstract/document/11514402)]
+
+  222. Zhao, Y., Li, T., Wen, W., Lu, X., Yang, S., Fan, J., Guo, X., & Chen, L. (2025). YOMASK: An instance segmentation method for high-throughput phenotypic platform lettuce images. Computers and Electronics in Agriculture, 230, 109868. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169924012596)]
+
+  223. Li, J., Guo, Z., Ye, L., & Lai, Z. (2025). Visual navigation path recognition method for tea plantation based on improved DeeplabV3+. Smart Agricultural Technology, 101555. [[paper](https://www.sciencedirect.com/science/article/pii/S2772375525007865)]
+
+  224. Pisharody, S. N., Duraisamy, P., Rangarajan, A. K., Whetton, R. L., & Herrero-Langreo, A. (2025). Precise tomato ripeness estimation and yield prediction using transformer based segmentation-SegLoRA. Computers and Electronics in Agriculture, 233, 110172. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169925002789)]
+
+  225. Sun, T., Xiao, L., Ata-Ul-Karim, S. T., Ma, Y., & Zhang, W. (2025). Leveraging phenotyping and crop modeling in smart agriculture. Frontiers in Plant Science, 16, 1626622. [[paper](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1626622/full)]
+
+  226. Florea, C., Florea, L., & Ivanovici, M. (2025). Adaptive Select Loss Strategy for Semantic Segmentation of Agricultural Crop Images. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. [[paper](https://ieeexplore.ieee.org/abstract/document/11081431)]
+
+  227. Han, Z., Qiao, C., Qin, Y., Chen, F., Li, Y., Zhang, L., & Zhang, Y. (2026). Quantitative characterization of lesion features and analysis of coupled stress effects of mixed infection by downy mildew and powdery mildew pathogens in cucumbers based on instance segmentation. Computers and Electronics in Agriculture, 242, 111286. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169925013924)]
+
+  228. Pathan, R. K., Lim, W. L., Khandaker, M. U., Ho, C. C., & Lau, S. L. (2026). The evolution of deep learning models for instance segmentation: a critical review and analysis of future trajectories. International Journal of Multimedia Information Retrieval, 15(3), 21. [[paper](https://link.springer.com/article/10.1007/s13735-026-00407-w)]
+
+<!-- ----------------- SegFormer -------------------- -->
+
+  229. Dong, M., Cao, H., Zhao, T., & Zhao, X. (2025). SegFormer-based nectar source segmentation in remote sensing imagery. Frontiers in Plant Science, 16, 1666619. [[paper](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1666619/full)]
+
+  240. Xiang, P., Pan, F., Liu, T., Zhao, X., Hu, M., He, D., & Zhang, B. (2025). MixSegNext: A CNN-Transformer hybrid model for semantic segmentation and picking point localization algorithm of Sichuan pepper in natural environments. Computers and Electronics in Agriculture, 237, 110564. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169925006702)]
+
+  241. Dorokhov, A., Smirnov, I., & Kutyrev, A. (2025, June). Autonomous Navigation of Robotic Platforms in Orchards: Semantic Segmentation and Path Planning. In International Conference on Agriculture Digitalization and Organic Production (pp. 1-13). Cham: Springer Nature Switzerland. [[paper](https://link.springer.com/chapter/10.1007/978-3-032-07171-2_1)]
+
+  242. Sarker, T. T., Embaby, M., Islam, T., AbuGhazaleh, A., & Ahmed, K. (2025). GasTwinFormer: A Hybrid Vision Transformer for Livestock Methane Emission Segmentation and Dietary Classification in Optical Gas Imaging. In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 2787-2796). [[paper](https://openaccess.thecvf.com/content/ICCV2025W/SEA/html/Sarker_GasTwinFormer_A_Hybrid_Vision_Transformer_for_Livestock_Methane_Emission_Segmentation_ICCVW_2025_paper.html)]
+
+  243. Xu, D., Wang, C., Li, M., Ge, X., Zhang, J., Wang, W., & Lv, C. (2025). Improving passion fruit yield estimation with multi-scale feature fusion and density-attention mechanisms in smart agriculture. Computers and Electronics in Agriculture, 239, 110958. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169925010646)]
+
+  244. Cao, L., Li, S., Jiang, D., Sun, M., & Liu, X. (2025). EGF-Former: An efficient network for structural segmentation and phenotype extraction of sweet peppers in complex environments. Industrial Crops and Products, 227, 120850. [[paper](https://www.sciencedirect.com/science/article/pii/S0926669025003966)]
+
+  245. Ding, M., Peng, X., Ji, X., Chen, S., Li, Q., Zou, H., Fan, Z., & Wang, S. (2026). Leveraging generative adversarial networks and SE-UNet for high-precision tobacco leaf image segmentation and blend uniformity detection. Scientific Reports. [[paper](https://www.nature.com/articles/s41598-026-57964-7)]
+
+  246. Cui, J., Zhang, L., Gao, L., Bai, C., & Yang, L. (2025). Cherry-Net: real-time segmentation algorithm of cherry maturity based on improved PIDNet. Frontiers in Plant Science, 16, 1607205. [[paper](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1607205/full)]
+
+  247. Dong, L., Zhu, L., Zhao, B., Wang, R., Ni, J., Liu, S., Chen, K., Cui, X., & Zhou, L. (2025). Semantic segmentation-based observation pose estimation method for tomato harvesting robots. Computers and Electronics in Agriculture, 230, 109895. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169925000018)]
+
+  248. Joy, J., Kelvin, B., Howatt, K., Aderholdt, W., Khan, M., Peters, T., & Sun, X. (2025). Edge-deployable Segmentation and Prescription Mapping of Post-emergence Weeds in Sugar Beet Crops for UAV-based Precision Spraying. Journal of Agriculture and Food Research, 102422. [[paper](https://www.sciencedirect.com/science/article/pii/S2666154325007938)]
+
+<!-- ----------------- SAM -------------------- -->
+
+  249. Gyale, S., Singh, U., Tekavade, Y., & Jadhav, P. (2025, September). Transforming Precision Agriculture through Deep Learning: CNN Encoder-Decoders and a Hybrid YOLOv8-SAM Solution for Advanced Grape Cluster Segmentation. In 2025 International Conference on Sustainable Technologies for Humanity and Smart World (HSWTech) (pp. 1-6). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/11278142)]
+
+  250. Vashisht, A., Tekade, I., Shah, J., Sawarn, A., Yadav, D. S., Sontakke, P., & Patil, R. (2025, January). Effective Segmentation of Grape Leaves Using Segment Anything Model 2. In International Conference on Smart Trends for Information Technology and Computer Communications (pp. 375-386). Singapore: Springer Nature Singapore. [[paper](https://link.springer.com/chapter/10.1007/978-981-96-7517-3_32)]
+
+  251. Huang, Z., Lee, W. S., Yang, P., Ampatzidis, Y., Shinsuke, A., & Peres, N. A. (2025). Advanced canopy size estimation in strawberry production: a machine learning approach using YOLOv11 and SAM. Computers and Electronics in Agriculture, 236, 110501. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169925006076)]
+
+  252. Oehme, L. H., Boysen, J., Wu, Z., Stein, A., & Müller, J. (2026). Orchestrating segment anything models to accelerate segmentation annotation on agricultural image datasets. Frontiers in Artificial Intelligence, 8, 1748468. [[paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC12872900/)]
+
+  253. Qiu, X., Zhu, F., Huang, P., Chen, H., Li, Y., Pu, C., Li, Z., Zhong, D., Xoang, C.,Chen, J., & Wang, S. (2025). Quantifying high-temperature-induced reproductive growth imbalance in citrus at anthesis: Insights from the CF-ASPM model. Computers and Electronics in Agriculture, 236, 110421. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169925005277)]
+
+  254. Owais, M., Shafay, M., Zubair, M., Mohammed, S., Seneviratne, L., & Hussain, I. (2025). AgriVision: A Benchmark Dataset for Advancing Real-World Robotic Vision in Densely Fruited Blueberry Crop. Scientific data. [[paper](https://www.nature.com/articles/s41597-025-06263-3)]
+
+  255. Wu, J., Rao, Y., Zeng, S., & Zhang, B. (2025). Pre‐trained SAM as data augmentation for image segmentation. CAAI Transactions on Intelligence Technology, 10(1), 268-282. [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cit2.12381)]
+
+  256. Liu, F., Hu, Y., Zhou, Q., & Zou, H. (2026). ReLeaf-SAM: reliability-guided detail compensation for SAM-based plant disease segmentation. Frontiers in Plant Science, 17, 1865649. [[paper](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1865649/full)]
 
 
-2. Semantic Segmentation Layer [[paper](https://github.com/kiwicampus/semantic_segmentation_layer)]: A custom nav2 costmap layer plugin inspired on stvl, that integrates semantic segmentation data into the navigation costmap. INCLUDE A NAV2 IMPLEMENTATION.
-<div align="center">
-  <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/11f2e4c5-60df-4b37-9eda-10eb8547b120" />
-</div>
+<!-- ----------------- Revista de envio "Artificial Intelligence in Agriculture" -------------------- -->
 
-3. Pointclouds GroundSegmentation Intel RealSense [[paper](https://github.com/open-edge-platform/edge-ai-suites/tree/main/robotics-ai-suite/components/groundfloor/pointcloud_groundfloor_segmentation)]: This repository contains a realization of an efficient groundfloor segmentation approach for 3D pointclouds. The application comes with three default use cases: standalone use with RealSense camera (or other depth cameras), integration with the Wandering demo on Aaeon robot, and direct use with 3D pointcloud input.
-<div align="center">
-  <img width="470" height="270" alt="image" src="https://github.com/user-attachments/assets/07c7ba4f-6241-48e4-b74d-a2368ee5c689" />
-</div>
+  257. Afzaal, H., Farooque, A. A., Randhawa, G. S., Schumann, A. W., Krouglicof, N., Gill, Y. S., & Zaman, Q. U. (2026). Zero-shot crop segmentation via 3D depth-aware vision pipeline using unsupervised clustering. Artificial Intelligence in Agriculture. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721726000462)]
 
+  258. An, Q., He, X., Deng, X., Xing, G., Liu, Y., Zhou, H., ... & Zhao, B. (2026). Rethinking spot spraying perception frameworks: A real-time segmentation approach integrating crop contours and the weed index. Artificial Intelligence in Agriculture. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721726000656)]
+
+  259. Li, D., Huang, J., Zhao, B., & Wen, W. (2025). Organ3DNet: A deep network for segmenting organ semantics and instances from dense plant point clouds. Artificial Intelligence in Agriculture. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721725000911)]
+
+  260. Gao, G., Fang, L., Zhang, Z., & Li, J. (2025). Advancing lightweight and efficient detection of tomato main stems for edge device deployment. Artificial Intelligence in Agriculture. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721725000972)]
 
 </details>
 </details>
