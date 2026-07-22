@@ -135,8 +135,6 @@ The foundational articles underpinning the most significant advances in vision t
 
   48. Islam, M. S., Rahman, N., Mahmud, M. T., Naidu, A., Toha, M. A., Yasar, S., ... & Jamil, S. U. (2026, April). An Automated Approach for Classifying The Severity of Cucumber Diseases Using Deep Learning and Transfer Learning. In 2026 IEEE 5th International Conference on Computing and Machine Intelligence (ICMI) (pp. 1-5). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/11539878)]
 
-  49. Duan, S., Huang, X., Wu, P., Zhang, C., Zhao, S., & Fan, J. (2026). Multimodal deep learning for identifying onshore natural gas facilities from GaoFen-2 imagery. International Journal of Digital Earth, 19(1), 2662059. [[paper](https://www.tandfonline.com/doi/full/10.1080/17538947.2026.2662059)]
-
   50. Sundaravadivel, P., Reyes-Ramirez, R., Sethurani, P. M., Brown, C., Borah, S. S., & Kousik, S. (2026). AI-Enabled Reconfigurable Edge Device for Plant Health Assessment in Greenhouse Environment. In The First International Workshop on AI in Agriculture. [[paper](https://openreview.net/forum?id=7GDdzjv6EZ)]
 
 <!-- -----------------EfficientNet -------------------- -->
@@ -530,8 +528,6 @@ The foundational articles underpinning the most significant advances in vision t
 
   241. Dorokhov, A., Smirnov, I., & Kutyrev, A. (2025, June). Autonomous Navigation of Robotic Platforms in Orchards: Semantic Segmentation and Path Planning. In International Conference on Agriculture Digitalization and Organic Production (pp. 1-13). Cham: Springer Nature Switzerland. [[paper](https://link.springer.com/chapter/10.1007/978-3-032-07171-2_1)]
 
-  242. Sarker, T. T., Embaby, M., Islam, T., AbuGhazaleh, A., & Ahmed, K. (2025). GasTwinFormer: A Hybrid Vision Transformer for Livestock Methane Emission Segmentation and Dietary Classification in Optical Gas Imaging. In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 2787-2796). [[paper](https://openaccess.thecvf.com/content/ICCV2025W/SEA/html/Sarker_GasTwinFormer_A_Hybrid_Vision_Transformer_for_Livestock_Methane_Emission_Segmentation_ICCVW_2025_paper.html)]
-
   243. Xu, D., Wang, C., Li, M., Ge, X., Zhang, J., Wang, W., & Lv, C. (2025). Improving passion fruit yield estimation with multi-scale feature fusion and density-attention mechanisms in smart agriculture. Computers and Electronics in Agriculture, 239, 110958. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169925010646)]
 
   244. Cao, L., Li, S., Jiang, D., Sun, M., & Liu, X. (2025). EGF-Former: An efficient network for structural segmentation and phenotype extraction of sweet peppers in complex environments. Industrial Crops and Products, 227, 120850. [[paper](https://www.sciencedirect.com/science/article/pii/S0926669025003966)]
@@ -611,8 +607,6 @@ The foundational articles underpinning the most significant advances in vision t
   263. Ullah, S., Narisetti, N., Neumann, K., Altmann, T., Hejatko, J., & Gladilin, E. (2025). Automated generation of ground truth images of greenhouse-grown plant shoots using a GAN approach. Plant Methods, 21(1), 126. [[aper](https://link.springer.com/article/10.1186/s13007-025-01441-1)]
 
   264. Raju, R., & Thasleema, T. M. (2025). Advancements in automated plant disease detection: a comprehensive review of imaging technologies and deep learning applications. Journal of Crop Health, 77(6), 185. [[paper](https://link.springer.com/article/10.1007/s10343-025-01247-0)]
-
-  265. Feng, Y., Pallerla, C., Lin, X., Suresh, A., Sohrabipour Sr, P., Crandall, P., Shou, W., She, Y., & Wang, D. (2025). Synthetic data augmentation for enhanced chicken carcass instance segmentation. IEEE Transactions on AgriFood Electronics. [[paper](https://ieeexplore.ieee.org/abstract/document/11319168/authors#authors)]
 
  <!-- ----------------- CycleGAN -------------------- -->
 
@@ -775,8 +769,6 @@ The foundational articles underpinning the most significant advances in vision t
   40. Sánchez-Molina, J. A., Rodríguez, F., Moreno, J. C., Sánchez-Hermosilla, J., & Giménez, A. (2024). Robotics in greenhouses. Scoping review. Computers and Electronics in Agriculture, 219, 108750. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169924001418)]
   
   41. Xu, J., Gu, B., & Tian, G. (2022). Review of agricultural IoT technology. Artificial Intelligence in Agriculture, 6, 10-22. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721722000010)]
-     
-  42. Hossain, M. E., Kabir, M. A., Zheng, L., Swain, D. L., McGrath, S., & Medway, J. (2022). A systematic review of machine learning techniques for cattle identification: Datasets, methods and future directions. Artificial Intelligence in Agriculture, 6, 138-155. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721722000125)]
 
   43. Wang, F., Zhu, T., Huang, L., Feng, C., Lu, X., Min, W., ... & Nie, Y. (2026). VGDS-PointNet++ for organ segmentation and phenotypic trait estimation in greenhouse tomato seedlings. Frontiers in Plant Science, 17, 1753706. [[paper](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1753706/full)]
 
@@ -816,8 +808,6 @@ The foundational articles underpinning the most significant advances in vision t
 
  <!-- ----------------- SECOND -------------------- -->
 
-  44. Sadovnikov, S. A., Yakovlev, S. V., Kravtsova, N. S., Romanovskii, O. A., & Tuzhilkin, D. A. (2025). Dual-channel infrared OPO lidar optical system for remote sensing of greenhouse gases in the atmosphere: Design and characteristics. Sensors International, 6, 100307. [[paper](https://www.sciencedirect.com/science/article/pii/S2666351124000299)]
-
   45. Huang, Z., Yang, N., Cao, R., Li, Z., He, Y., & Feng, X. (2025). Autonomous navigation system in various greenhouse scenarios based on improved FAST-LIO2. Computers and Electronics in Agriculture, 234, 110279. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169925003850)]
 
   46. Tan, H., Zhao, X., Fu, H., Yang, M., & Zhai, C. (2025). A novel fusion positioning navigation system for greenhouse strawberry spraying robot using LiDAR and ultrasonic tags. Agriculture Communications, 3(2), 100087. [[paper](https://www.sciencedirect.com/science/article/pii/S2949798125000171)]
@@ -832,11 +822,7 @@ The foundational articles underpinning the most significant advances in vision t
 
   50. Tu, J., Ren, D., Shi, F., Jia, Z., Ren, Y., Qin, J., & He, F. (2025). Minkowski-MambaNet: A Point Cloud Framework with Selective State Space Models for Forest Biomass Quantification. arXiv preprint arXiv:2510.09367. [[paper](https://arxiv.org/abs/2510.09367)]
 
-  51. Li, Y., Wei, M., Nie, J., Zhao, J., Khan, M. A., Fang, K., & Gadekallu, T. R. (2025). AIoT-enhanced outlier-resilient slam for smart warehousing in dynamic environments. IEEE Internet of Things Journal. [[paper](https://ieeexplore.ieee.org/abstract/document/11062522)]
-
  <!-- ----------------- PointPillars -------------------- -->
-
-  52. Ton, B., & Akster, R. (2025). Large Scale Asset Detection Within Railway Scene Point Cloud Data From Mobile Laser Scanning. IEEE Access. [[paper](https://ieeexplore.ieee.org/abstract/document/11086595)]
 
   53. Guaragnella, G., Cardellicchio, A., Patruno, C., Nitti, M., Pedrocchi, N., & Renò, V. (2026). Artificial Intelligence in Autonomous Mobile Robot Navigation: From Classical Approaches to Intelligent Adaptation. Advanced Intelligent Systems, 8(5), e202501376. [[paper](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aisy.202501376)]
 
