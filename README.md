@@ -23,6 +23,59 @@ The foundational articles underpinning the most significant advances in vision t
 </div>
 
 
+| Ref. | Acronym | Application | Domain | Hardware |
+| --- | --- | --- | --- | --- |
+| Krizhevsky2012AlexNet | AlexNet | Classification | Vision | Monocular |
+| Girshick2014RCNN | R-CNN | Detection | Vision | Mono/Stereo |
+| Girshick2015FastRCNN | Fast R-CNN | Detection | Vision | Mono/Stereo |
+| Ren2015FasterRCNN | Faster R-CNN | Detection | Vision | Mono/Stereo |
+| Long2015FCN | FCN | Segmentation | Vision | Monocular |
+| Ronneberger2015UNet | U-Net | Segmentation | Vision | Mono/Stereo |
+| Radford2015DCGAN | DCGAN | Generation | Vision | Monocular |
+| Maturana2015VoxNet | VoxNet | Classification | LiDAR | Mecha/Solid |
+| He2016ResNet | ResNet | Classification | Vision | Mono/Stereo |
+| Redmon2016YOLO | YOLO | Detection | Vision | Mono/Stereo |
+| Liu2016SSD | SSD | Detection | Vision | Monocular |
+| Huang2017DenseNet | DenseNet | Classification | Vision | Monocular |
+| Lin2017RetinaNet | RetinaNet | Detection | Vision | Monocular |
+| He2017MaskRCNN | Mask R-CNN | Detection | Vision | Mono/Stereo |
+| Chen2017DeepLab | DeepLab | Segmentation | Vision | Mono/Stereo |
+| Zhao2017PSPNet | PSPNet | Segmentation | Vision | Monocular |
+| Zhu2017CycleGAN | CycleGAN | Generation | Vision | Monocular |
+| Qi2017PointNet | PointNet | Classification | LiDAR | Mecha/Solid |
+| Qi2017PointNetpp | PointNet++ | Classification | LiDAR | Mecha/Solid |
+| Yan2018SECOND | SECOND | Detection | LiDAR | Mechanical |
+| Yuan2018PCN | PCN | Generation | LiDAR | Mecha/Solid |
+| Tan2019EfficientNet | EfficientNet | Classification | Vision | Mono/Stereo |
+| Karras2019StyleGAN | StyleGAN | Generation | Vision | Monocular |
+| Shi2019PointRCNN | PointRCNN | Detection | LiDAR | Mechanical |
+| Lang2019PointPillars | PointPillars | Detection | LiDAR | Mechanical |
+| Wang2019DGCNN | DGCNN | Segmentation | LiDAR | Mecha/Solid |
+| Thomas2019KPConv | KPConv | Segmentation | LiDAR | Mecha/Solid |
+| Cheng2019SPGNet | SPGNet | Segmentation | LiDAR | Mechanical |
+| Dosovitskiy2020ViT | ViT | Classification | Vision | Mono/Stereo |
+| Carion2020DETR | DETR | Detection | Vision | Mono/Stereo |
+| Shi2020PVRCNN | PV-RCNN | Detection | LiDAR | Mechanical |
+| Hu2020RandLANet | RandLA-Net | Segmentation | LiDAR | Mecha/Solid |
+| Zhou2020Cylinder3D | Cylinder3D | Segmentation | LiDAR | Mechanical |
+| Cortinhal2020SalsaNext | SalsaNext | Segmentation | LiDAR | Mechanical |
+| Liu2021SwinTransformer | Swin Transf. | Classification | Vision | Mono/Stereo |
+| Xie2021SegFormer | SegFormer | Segmentation | Vision | Mono/Stereo |
+| Ramesh2021DALLE | DALL-E | Generation | Vision | Monocular |
+| Zhao2021PointTransformer | Point Transf. | Classification | LiDAR | Mecha/Solid |
+| Yin2021CenterPoint | CenterPoint | Detection | LiDAR | Mechanical |
+| Sarraf2021RGAN | rGAN | Generation | LiDAR | Mechanical |
+| Zhou2021PVD | PVD | Generation | LiDAR | Mecha/Solid |
+| Yu2021PoinTr | PoinTr | Generation | LiDAR | Mecha/Solid |
+| Liu2022ConvNeXt | ConvNeXt | Classification | Vision | Mono/Stereo |
+| Rombach2022StableDiffusion | Stable Diffusion | Generation | Vision | Monocular |
+| Ma2022PointMLP | PointMLP | Classification | LiDAR | Mecha/Solid |
+| Qian2022PointNext | PointNeXt | Classification | LiDAR | Mecha/Solid |
+| Wang2022DETR3D | DETR3D | Detection | LiDAR | Mechanical |
+| Zyrianov2022LiDARGen | LiDARGen | Generation | LiDAR | Mecha/Solid |
+| Kirillov2023SAM | SAM | Segmentation | Vision | Mono/Stereo |
+
+
 <!-- ---------------------------------------------------------------------------------------------------------------------------- -->
 <!-- ---------------------------------------------------------- Clasification --------------------------------------------------- -->
 <!-- ---------------------------------------------------------------------------------------------------------------------------- -->
