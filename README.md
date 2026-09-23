@@ -26,37 +26,8 @@ If you use this repository or the associated review, please cite:
 ```bibtex
 Soon!
 ```
-
-## Table of Contents
-
-- [Vision](#vision)
-  - [Classification](#vclasification)
-    - Base ML algotihm
-    - Agriculture paper
-  - [Detection](#vdetection)
-    - Base ML algotihm
-    - Agriculture paper
-  - [Segmentaction](#vsegmentation)
-    - Base ML algotihm
-    - Agriculture paper
-  - [Generative](#vgeneartive)
-    - Base ML algotihm
-    - Agriculture paper
-- [LiDAR](#LiDAR)
-  - [Classification](#lclasification)
-    - Base ML algotihm
-    - Agriculture paper
-  - [Detection](#ldetection)
-    - Base ML algotihm
-    - Agriculture paper
-  - [Segmentaction](#lsegmentation)
-    - Base ML algotihm
-    - Agriculture paper
-  - [Generative](#lgeneartive)
-    - Base ML algotihm
-    - Agriculture paper
-    - 
-## [[Vision algorithms for robotics](#vision)]
+ 
+## Vision algorithms for robotics
 
 The foundational articles underpinning the most significant advances in vision technology are available for subsequent application in agriculture, specifically in greenhouses.
 
@@ -692,7 +663,7 @@ The foundational articles underpinning the most significant advances in vision t
 
 ## LiDAR algorithms for robotics
 <div align="center">
-  <img width="500" height="432" alt="image" src="https://github.com/user-attachments/assets/55cb1db4-f464-4f9b-a0f3-fdebc508851b" />
+  <img width="530" height="333" alt="image" src="https://github.com/user-attachments/assets/ed305d7f-17d5-4640-8c06-c4f566e52b6f" />
 </div>
 
 | Ref. | Acronym | Application | Domain | Hardware |
