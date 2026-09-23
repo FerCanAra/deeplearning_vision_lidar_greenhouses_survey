@@ -1,4 +1,4 @@
-# Artificial Intelligence for Greenhouse Robotics: A Systematic Review of Vision- and LiDAR-Based Machine Learning 🌱 🤖
+# Machine Learning in Precision Agriculture Robotics: A Systematic Review of Vision and LiDAR Perception in Greenhouses 🌱 🤖
 
 [![arXiv](https://img.shields.io/badge/arXiv-preprint-b31b1b.svg)](https://arxiv.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -15,6 +15,28 @@ A curated, actively maintained repository accompanying our systematic review on 
 📧 fernando.ca@ual.es · 🔗 [linktr.ee/FerCanAra](https://linktr.ee/FerCanAra)
 
 <!-- Algoritmo de visión que utilizan -->
+
+## Citation
+
+If you use this repository or the associated review, please cite:
+
+```bibtex
+Soon!
+```
+
+## Table of Contents
+
+- [Base ML/DL Algorithms](#base-mldl-algorithms)
+  - [Vision-based algorithms](#vision-algorithms-for-robotics)
+  - [LiDAR-based algorithms](#lidar-algorithms-for-robotics)
+- [Reviewed Literature by Scope](#reviewed-literature-by-scope)
+  - [Classification](#classification)
+  - [Object Detection](#object-detection)
+  - [Segmentation](#segmentation)
+  - [Generation & Reconstruction](#generative)
+- [Robotics Tools](#robotics-tools)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Vision algorithms for robotics
 
