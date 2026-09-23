@@ -29,19 +29,34 @@ Soon!
 
 ## Table of Contents
 
-- [Base ML/DL Algorithms](#base-mldl-algorithms)
-  - [Vision-based algorithms](#vision-algorithms-for-robotics)
-  - [LiDAR-based algorithms](#lidar-algorithms-for-robotics)
-- [Reviewed Literature by Scope](#reviewed-literature-by-scope)
-  - [Classification](#classification)
-  - [Object Detection](#object-detection)
-  - [Segmentation](#segmentation)
-  - [Generation & Reconstruction](#generative)
-- [Robotics Tools](#robotics-tools)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Vision algorithms for robotics
+- [Vision](#vision)
+  - [Classification](#vclasification)
+    - Base ML algotihm
+    - Agriculture paper
+  - [Detection](#vdetection)
+    - Base ML algotihm
+    - Agriculture paper
+  - [Segmentaction](#vsegmentation)
+    - Base ML algotihm
+    - Agriculture paper
+  - [Generative](#vgeneartive)
+    - Base ML algotihm
+    - Agriculture paper
+- [LiDAR](#LiDAR)
+  - [Classification](#lclasification)
+    - Base ML algotihm
+    - Agriculture paper
+  - [Detection](#ldetection)
+    - Base ML algotihm
+    - Agriculture paper
+  - [Segmentaction](#lsegmentation)
+    - Base ML algotihm
+    - Agriculture paper
+  - [Generative](#lgeneartive)
+    - Base ML algotihm
+    - Agriculture paper
+    - 
+## [[Vision algorithms for robotics](#vision)]
 
 The foundational articles underpinning the most significant advances in vision technology are available for subsequent application in agriculture, specifically in greenhouses.
 
