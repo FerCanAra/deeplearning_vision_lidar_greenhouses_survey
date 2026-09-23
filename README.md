@@ -8,11 +8,14 @@
 A curated, actively maintained repository accompanying our systematic review on machine learning algorithms for vision and LiDAR perception in greenhouse mobile robotics, submitted to *IEEE Transactions on Robotics*. It provides a structured, browsable overview of the foundational algorithms and the 208 primary studies analyzed, organized around four scopes — **classification, detection, segmentation, and generation/reconstruction** — for both **2D vision** and **3D LiDAR** modalities.
 
 <div align="center"> 
-  <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/fb4ad2c5-85ff-45f7-a888-cdcfb2e47ac8" />
+  <img width="1247" height="964" alt="Algoritm_base (1)" src="https://github.com/user-attachments/assets/81e0f3c8-dd83-43cb-9a2a-43c1680717a7" />
 </div>
 
 *Author: Fernando Cañadas Aránega, PhD student in Agricultural Robotics at the University of Almería, Spain.*
-📧 fernando.ca@ual.es · 🔗 [linktr.ee/FerCanAra](https://linktr.ee/FerCanAra)
+
+*Gmail: fernando.ca@ual.es*
+
+*Website: https://linktr.ee/FerCanAra*
 
 <!-- Algoritmo de visión que utilizan -->
 
