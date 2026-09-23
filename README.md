@@ -64,9 +64,23 @@ The foundational articles underpinning the most significant advances in vision t
 <details>
   <summary><strong>2. Articles on greenhouse farming</strong></summary>
 
-<!-- -----------------AlexNet -------------------- -->
+  81. Mashamba, M. M., Telukdarie, A., Munien, I., Onkonkwo, U., & Vermeulen, A. (2024). _Detection of bacterial spot disease on tomato leaves using a Convolutional Neural Network (CNN)_. Procedia Computer Science, 237, 602-609. [[link](https://www.sciencedirect.com/science/article/pii/S187705092401161X)]
 
   1. Tang, R., Aridas, N. K., Talip, M. S. A., Yang, J., & Tang, J. (2025). _High-precision pest and disease detection in greenhouses using the novel IM-AlexNet framework_. npj Science of Food, 9(1), 68. [[paper](https://www.nature.com/articles/s41538-025-00426-7)]].
+
+  5. Rao, S. T., Dulla, T. C., Kolla, V. K., Kurakula, G. S., Suneetha, M., Moturi, S., & Reddy, D. V. (2025, March). _Deeplearning-based tomato leaf disease identification: Enhancing classification with alexnet_. In 2025 IEEE International Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI) (Vol. 3, pp. 1-6). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/10984969)]
+
+  13. Jiang, N. (2025, November). Crop disease detection for greenhouses: a lightweight solution combining ResNet and Inception. In International Conference on Advanced Algorithms and Image Processing Technologies (IC-AAIP 2025) (Vol. 13933, pp. 50-56). SPIE. [[paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13933/1393309/Crop-disease-detection-for-greenhouses--a-lightweight-solution-combining/10.1117/12.3090705.short)]
+
+  18. Wang, L., Li, Y., Lin, H., Tong, J., Sun, L., Wang, X., & Jiang, J. (2025). RTR-CNN: Rotated tray region selection and young seedling health status detection by CNN in greenhouse seedbed. Computers and Electronics in Agriculture, 229, 109723. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169924011141)]
+
+
+
+
+
+<!-- -----------------AlexNet -------------------- -->
+
+
 
   2. Ragavee, U., Oviya, R., & KR, N. (2025). _Renewable Energy-Driven IoT System for Automated Greenhouse Monitoring_. In 2025 International Conference On Emerging Computation and Information Technologies (ICECIT) (pp. 1-6). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/11450958)]
 
@@ -74,7 +88,6 @@ The foundational articles underpinning the most significant advances in vision t
 
   4. Bhaskar, C. G., Krishnan, C. A., & Manimekala, B. (2026). _Automated tomato leaf disease diagnosis with improved Alex Net model_. In AIP Conference Proceedings (Vol. 3427, No. 1, p. 020015). AIP Publishing LLC. [[paper](https://pubs.aip.org/aip/acp/article-abstract/3427/1/020015/3392439/Automated-tomato-leaf-disease-diagnosis-with)]
 
-  5. Rao, S. T., Dulla, T. C., Kolla, V. K., Kurakula, G. S., Suneetha, M., Moturi, S., & Reddy, D. V. (2025, March). _Deeplearning-based tomato leaf disease identification: Enhancing classification with alexnet_. In 2025 IEEE International Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI) (Vol. 3, pp. 1-6). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/10984969)]
 
   6. Parvez, S., Uddin, M. A., Islam, M. M., Bharman, P., & Talukder, M. A. (2025). _Tomato leaf disease detection using convolutional neural network_. In Applied Intelligence for Healthcare Informatics (pp. 42-55). CRC Press. [[paper](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003583363-4/tomato-leaf-disease-detection-using-convolutional-neural-network-shamima-parvez-md-ashraf-uddin-md-manowarul-islam-pallab-bharman-md-alamin-talukder)]
 
@@ -92,7 +105,7 @@ The foundational articles underpinning the most significant advances in vision t
      
   12. Jain, E., Kukreja, V., Kaushik, P., Ahuja, V., & Bansal, A. (2025). Hybrid ViT-ResNet: A High-Accuracy AI Model for Automated Strawberry Ripeness Classification in Precision Agriculture. Applied Fruit Science, 67(5), 368. [[paper](https://link.springer.com/article/10.1007/s10341-025-01576-4)]
      
-  13. Jiang, N. (2025, November). Crop disease detection for greenhouses: a lightweight solution combining ResNet and Inception. In International Conference on Advanced Algorithms and Image Processing Technologies (IC-AAIP 2025) (Vol. 13933, pp. 50-56). SPIE. [[paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13933/1393309/Crop-disease-detection-for-greenhouses--a-lightweight-solution-combining/10.1117/12.3090705.short)]
+
      
   14. Muthaiah, U., Reddy, Y. N., & Roy, R. V. (2026, January). RESNET Based Crop Disease Detection Models Using Convolutional Neural Networks. In Operations Research and Data Analytics: Current Trends and Future Perspectives: Selected Papers from International Conference on Industrial Engineering and Analytics (ICONIEA) 2024 (pp. 365-386). Singapore: Springer Nature Singapore. [[paper](https://link.springer.com/chapter/10.1007/978-981-96-8327-7_20)]
 
@@ -102,7 +115,7 @@ The foundational articles underpinning the most significant advances in vision t
 
   17. Xue, X., Thakur, V., Dhumras, H., Jhaveri, R. H., & Gadekallu, T. R. (2025). Real-Time Pest Detection Using ResNet-50 and Vision Transformer: An IoT-Enabled Mobile Application for Smart Agriculture. IEEE Transactions on Consumer Electronics. [[paper](https://ieeexplore.ieee.org/abstract/document/11127220)]
 
-  18. Wang, L., Li, Y., Lin, H., Tong, J., Sun, L., Wang, X., & Jiang, J. (2025). RTR-CNN: Rotated tray region selection and young seedling health status detection by CNN in greenhouse seedbed. Computers and Electronics in Agriculture, 229, 109723. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169924011141)]
+
 
   19. Zhang, L., Li, X., Yang, Z., Yang, B., Yu, S., Zhao, S., ... & Yang, M. (2025). Tomato seedling stem and leaf segmentation method based on an improved ResNet architecture. Frontiers in Plant Science, 16, 1571445. [paper](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1571445/full)]
 
@@ -210,7 +223,7 @@ The foundational articles underpinning the most significant advances in vision t
 
 <!-- ----------------- ConvNet -------------------- -->
 
-  81. Mashamba, M. M., Telukdarie, A., Munien, I., Onkonkwo, U., & Vermeulen, A. (2024). _Detection of bacterial spot disease on tomato leaves using a Convolutional Neural Network (CNN)_. Procedia Computer Science, 237, 602-609. [[link](https://www.sciencedirect.com/science/article/pii/S187705092401161X)]
+
 
   82. Wu, Y., Dai, J., Zhu, Y., & Zhang, T. (2025). _Intelligent Agricultural Greenhouse Extraction Method Based on Multifeature Modeling: Fusion of Geometric, Spatial, and Spectral Characteristics_. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 18, 5568-5581. [[link](https://ieeexplore.ieee.org/abstract/document/10858674)]].
 
