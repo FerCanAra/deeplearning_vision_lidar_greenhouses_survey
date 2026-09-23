@@ -5,10 +5,10 @@
 [![Last Updated](https://img.shields.io/badge/last%20updated-2026--09-blue)](.)
 [![Papers Reviewed](https://img.shields.io/badge/papers%20reviewed-208-success)](.)
  
-A curated, actively maintained repository accompanying our systematic review on machine learning algorithms for vision and LiDAR perception in greenhouse mobile robotics, submitted to *IEEE Transactions on Robotics*. It provides a structured, browsable overview of the foundational algorithms and the 208 primary studies analyzed, organized around four scopes — **classification, detection, segmentation, and generation/reconstruction** — for both **2D vision** and **3D LiDAR** modalities.
+A curated, actively maintained repository accompanying our systematic review on machine learning algorithms for vision and LiDAR perception in greenhouse mobile robotics. It provides a structured, browsable overview of the foundational algorithms and the 208 primary studies analyzed, organized around four scopes — **classification, detection, segmentation, and generation/reconstruction** — for both **vision** and **3D LiDAR** modalities.
 
 <div align="center"> 
-  <img width="600" height="460" alt="Algoritm_base (1)" src="https://github.com/user-attachments/assets/81e0f3c8-dd83-43cb-9a2a-43c1680717a7" />
+  <img width="707" height="515" alt="image" src="https://github.com/user-attachments/assets/df75a052-c2bd-43d0-badb-564b9c739569" />
 </div>
 
 *Author: Fernando Cañadas Aránega, PhD student in Agricultural Robotics at the University of Almería, Spain.*
