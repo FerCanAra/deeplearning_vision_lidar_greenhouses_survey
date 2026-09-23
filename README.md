@@ -666,32 +666,6 @@ The foundational articles underpinning the most significant advances in vision t
   <img width="530" height="333" alt="image" src="https://github.com/user-attachments/assets/ed305d7f-17d5-4640-8c06-c4f566e52b6f" />
 </div>
 
-| Ref. | Acronym | Application | Domain | Hardware |
-| --- | --- | --- | --- | --- |
-| Maturana2015VoxNet | VoxNet | Classification | LiDAR | Mecha/Solid |
-| Qi2017PointNet | PointNet | Classification | LiDAR | Mecha/Solid |
-| Qi2017PointNetpp | PointNet++ | Classification | LiDAR | Mecha/Solid |
-| Yan2018SECOND | SECOND | Detection | LiDAR | Mechanical |
-| Yuan2018PCN | PCN | Generation | LiDAR | Mecha/Solid |
-| Shi2019PointRCNN | PointRCNN | Detection | LiDAR | Mechanical |
-| Lang2019PointPillars | PointPillars | Detection | LiDAR | Mechanical |
-| Wang2019DGCNN | DGCNN | Segmentation | LiDAR | Mecha/Solid |
-| Thomas2019KPConv | KPConv | Segmentation | LiDAR | Mecha/Solid |
-| Cheng2019SPGNet | SPGNet | Segmentation | LiDAR | Mechanical |
-| Shi2020PVRCNN | PV-RCNN | Detection | LiDAR | Mechanical |
-| Hu2020RandLANet | RandLA-Net | Segmentation | LiDAR | Mecha/Solid |
-| Zhou2020Cylinder3D | Cylinder3D | Segmentation | LiDAR | Mechanical |
-| Cortinhal2020SalsaNext | SalsaNext | Segmentation | LiDAR | Mechanical |
-| Zhao2021PointTransformer | Point Transf. | Classification | LiDAR | Mecha/Solid |
-| Yin2021CenterPoint | CenterPoint | Detection | LiDAR | Mechanical |
-| Sarraf2021RGAN | rGAN | Generation | LiDAR | Mechanical |
-| Zhou2021PVD | PVD | Generation | LiDAR | Mecha/Solid |
-| Yu2021PoinTr | PoinTr | Generation | LiDAR | Mecha/Solid |
-| Ma2022PointMLP | PointMLP | Classification | LiDAR | Mecha/Solid |
-| Qian2022PointNext | PointNeXt | Classification | LiDAR | Mecha/Solid |
-| Wang2022DETR3D | DETR3D | Detection | LiDAR | Mechanical |
-| Zyrianov2022LiDARGen | LiDARGen | Generation | LiDAR | Mecha/Solid |
-
 <!-- ---------------------------------------------------------------------------------------------------------------------------- -->
 <!-- ------------------------------------------------- Clasification ------------------------------------------------------------- -->
 <!-- ---------------------------------------------------------------------------------------------------------------------------- -->
