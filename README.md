@@ -1,15 +1,18 @@
-# Vision and LiDAR-Based Machine Learning in Greenhouse Mobile Robotics: A systematic review 🌱 🤖
-A repository providing a state-of-the-art overview of the most important algorithms as a basis for their use in greenhouse agriculture. It focuses on computer vision algorithms using cameras and LiDARs, amongst other sensors.
+# Artificial Intelligence for Greenhouse Robotics: A Systematic Review of Vision- and LiDAR-Based Machine Learning 🌱 🤖
+
+[![arXiv](https://img.shields.io/badge/arXiv-preprint-b31b1b.svg)](https://arxiv.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Last Updated](https://img.shields.io/badge/last%20updated-2026--09-blue)](.)
+[![Papers Reviewed](https://img.shields.io/badge/papers%20reviewed-208-success)](.)
+ 
+A curated, actively maintained repository accompanying our systematic review on machine learning algorithms for vision and LiDAR perception in greenhouse mobile robotics, submitted to *IEEE Transactions on Robotics*. It provides a structured, browsable overview of the foundational algorithms and the 208 primary studies analyzed, organized around four scopes — **classification, detection, segmentation, and generation/reconstruction** — for both **2D vision** and **3D LiDAR** modalities.
 
 <div align="center"> 
   <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/fb4ad2c5-85ff-45f7-a888-cdcfb2e47ac8" />
 </div>
 
 *Author: Fernando Cañadas Aránega, PhD student in Agricultural Robotics at the University of Almería, Spain.*
-
-*Gmail: fernando.ca@ual.es*
-
-*Website: https://linktr.ee/FerCanAra*
+📧 fernando.ca@ual.es · 🔗 [linktr.ee/FerCanAra](https://linktr.ee/FerCanAra)
 
 <!-- Algoritmo de visión que utilizan -->
 
