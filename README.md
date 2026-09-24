@@ -46,221 +46,186 @@ The foundational articles underpinning the most significant advances in vision t
 <details>
   <summary><strong>1. Articles on mathematical foundations</strong></summary>
 
-  1. Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). _Imagenet classification with deep convolutional neural networks (AlexNet)_. Advances in neural information processing systems, 25. [[paper](https://dl.acm.org/doi/abs/10.1145/3065386)].
-  
-  2. He, K., Zhang, X., Ren, S., & Sun, J. (2016). _Deep residual learning for image recognition (ResNet)_. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 770-778). [[paper](https://arxiv.org/pdf/1512.03385)].
-
-  3. Huang, G., Liu, Z., Van Der Maaten, L., & Weinberger, K. Q. (2017). _Densely connected convolutional networks (DenseNet)_. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 4700-4708). [[paper](https://arxiv.org/abs/1608.06993)].
-
-  4. Tan, M., & Le, Q. (2019). _Efficientnet: Rethinking model scaling for convolutional neural networks_. In International conference on machine learning (pp. 6105-6114). PMLR. [[paper](https://arxiv.org/abs/1608.06993)]. 
-
-  5. Dosovitskiy, A., Beyer, L., Kolesnikov, A., Weissenborn, D., Zhai, X., Unterthiner, T., Mostafa, D., Mattias, M., Georg, H., Sylvain, G., Jakob, U., & Houlsby, N. (2020). _An image is worth 16x16 words: Transformers for image recognition at scale (ViT)_. arXiv preprint arXiv:2010.11929. [[paper](https://arxiv.org/pdf/2010.11929/100)].
-
- 6. Liu, Z., Lin, Y., Cao, Y., Hu, H., Wei, Y., Zhang, Z., Stephen, L., & Guo, B. (2021). _Swin transformer: Hierarchical vision transformer using shifted windows_. In Proceedings of the IEEE/CVF international conference on computer vision (pp. 10012-10022). [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper)].
-
-  7. Liu, Z., Mao, H., Wu, C. Y., Feichtenhofer, C., Darrell, T., & Xie, S. (2022). A convnet for the 2020s. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 11976-11986). [[paper](https://arxiv.org/pdf/2201.03545)].
+   1. Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). _Imagenet classification with deep convolutional neural networks (AlexNet)_. Advances in neural information processing systems, 25. [[paper](https://dl.acm.org/doi/abs/10.1145/3065386)].
+   
+   2. He, K., Zhang, X., Ren, S., & Sun, J. (2016). _Deep residual learning for image recognition (ResNet)_. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 770-778). [[paper](https://arxiv.org/pdf/1512.03385)].
+ 
+   3. Huang, G., Liu, Z., Van Der Maaten, L., & Weinberger, K. Q. (2017). _Densely connected convolutional networks (DenseNet)_. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 4700-4708). [[paper](https://arxiv.org/abs/1608.06993)].
+ 
+   4. Tan, M., & Le, Q. (2019). _Efficientnet: Rethinking model scaling for convolutional neural networks_. In International conference on machine learning (pp. 6105-6114). PMLR. [[paper](https://arxiv.org/abs/1608.06993)]. 
+ 
+   5. Dosovitskiy, A., Beyer, L., Kolesnikov, A., Weissenborn, D., Zhai, X., Unterthiner, T., Mostafa, D., Mattias, M., Georg, H., Sylvain, G., Jakob, U., & Houlsby, N. (2020). _An image is worth 16x16 words: Transformers for image recognition at scale (ViT)_. arXiv preprint arXiv:2010.11929. [[paper](https://arxiv.org/pdf/2010.11929/100)].
+ 
+  6. Liu, Z., Lin, Y., Cao, Y., Hu, H., Wei, Y., Zhang, Z., Stephen, L., & Guo, B. (2021). _Swin transformer: Hierarchical vision transformer using shifted windows_. In Proceedings of the IEEE/CVF international conference on computer vision (pp. 10012-10022). [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper)].
+ 
+   7. Liu, Z., Mao, H., Wu, C. Y., Feichtenhofer, C., Darrell, T., & Xie, S. (2022). A convnet for the 2020s. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 11976-11986). [[paper](https://arxiv.org/pdf/2201.03545)].
 
 </details>
+
 <details>
-  <summary><strong>2. Articles on greenhouse farming</strong></summary>
-
-  81. Mashamba, M. M., Telukdarie, A., Munien, I., Onkonkwo, U., & Vermeulen, A. (2024). _Detection of bacterial spot disease on tomato leaves using a Convolutional Neural Network (CNN)_. Procedia Computer Science, 237, 602-609. [[link](https://www.sciencedirect.com/science/article/pii/S187705092401161X)]
-
-  1. Tang, R., Aridas, N. K., Talip, M. S. A., Yang, J., & Tang, J. (2025). _High-precision pest and disease detection in greenhouses using the novel IM-AlexNet framework_. npj Science of Food, 9(1), 68. [[paper](https://www.nature.com/articles/s41538-025-00426-7)]].
-
-  5. Rao, S. T., Dulla, T. C., Kolla, V. K., Kurakula, G. S., Suneetha, M., Moturi, S., & Reddy, D. V. (2025, March). _Deeplearning-based tomato leaf disease identification: Enhancing classification with alexnet_. In 2025 IEEE International Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI) (Vol. 3, pp. 1-6). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/10984969)]
-
-  13. Jiang, N. (2025, November). Crop disease detection for greenhouses: a lightweight solution combining ResNet and Inception. In International Conference on Advanced Algorithms and Image Processing Technologies (IC-AAIP 2025) (Vol. 13933, pp. 50-56). SPIE. [[paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13933/1393309/Crop-disease-detection-for-greenhouses--a-lightweight-solution-combining/10.1117/12.3090705.short)]
-
-  18. Wang, L., Li, Y., Lin, H., Tong, J., Sun, L., Wang, X., & Jiang, J. (2025). RTR-CNN: Rotated tray region selection and young seedling health status detection by CNN in greenhouse seedbed. Computers and Electronics in Agriculture, 229, 109723. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169924011141)]
-
-
-
-
-
-<!-- -----------------AlexNet -------------------- -->
-
-
-
-  2. Ragavee, U., Oviya, R., & KR, N. (2025). _Renewable Energy-Driven IoT System for Automated Greenhouse Monitoring_. In 2025 International Conference On Emerging Computation and Information Technologies (ICECIT) (pp. 1-6). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/11450958)]
-
-  3. Zimmermann, G. B., Pellenz, M. E., Costa, Y. M., & Britto Jr, A. D. S. (2025). _Enhancing Disease and Pest Detection in Greenhouse Tomato Cultivation Using Advanced Machine Learning on New Dataset of Images_. Journal of the Brazilian Computer Society, 31(1). [[paper](https://openurl.ebsco.com/EPDB%3Agcd%3A16%3A20183152/detailv2?sid=ebsco%3Aplink%3Ascholar-a&id=ebsco%3Agcd%3A184589193&crl=c&jrnl=01046500&id_token_hint=eyJraWQiOiIxNzY5MTEwMjQ0MDQ3IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiJzNTYwMjQ3OC5tYWluIiwiZGV2aWNlX2lkIjoiMzc2MDRkNWQtNmI2OS00N2NkLTkxMWQtNTlmZTMzM2Q4MzVkIiwiYW1yIjpbImlwIl0sImlzcyI6Imh0dHBzOi8vYXV0aC5lYnNjby56b25lL2FwaS9kaXNwYXRjaGVyIiwiY2xpZW50X2lkIjoiYXdneWNJeDU3TXJ3bkRRNWg0VWU2eUNWRVAwcjVNdDkiLCJhdWQiOlsiaHR0cHM6Ly9hdXRoLmVic2NvLnpvbmUvYXBpL2Rpc3BhdGNoZXIiLCJodHRwOi8vYXV0aC1jeHQtbWdyLmVob3N0LWxpdmUuZWtzLmVob3N0LWxpdmUuZWlzbHouY29tIiwiaHR0cDovL3hmZi1wcm9jZXNzb3ItamF2YS5laG9zdC1kZXYuZWtzLmVob3N0LWRldnFhLmVpc2x6LmNvbS9zd2FnZ2VyLXVpL2luZGV4Lmh0bWwiLCJodHRwczovL2FjY2Vzcy1hcGkuZWJzY28uY29tIiwiYXdneWNJeDU3TXJ3bkRRNWg0VWU2eUNWRVAwcjVNdDkiXSwiYXpwIjoiYXdneWNJeDU3TXJ3bkRRNWg0VWU2eUNWRVAwcjVNdDkiLCJpZHQiOiJpbnN0aXR1dGlvbmFsIiwiZXhwIjoxNzg0MjAzMzEzLCJpYXQiOjE3ODQxOTk3MTMsImNsaWVudF9uYW1lIjoiV2ViYXV0aCAtIE5ldyBFRFMgaWRfdG9rZW4iLCJqdGkiOiI5YWRlNmY3Yy03ZTU2LTQ2MmUtYTg5Mi05NGJkOGRjYjIwNmIiLCJ1c2VybmFtZSI6Ikluc3RpdHV0aW9uYWxVc2VyIn0.Mybbsd6X8tswrXUO3Z3Pn5vsFqaTCu3Tfm86nwa6H6D6WbqS5QxxObyWJLXZfy6F2Zj4Po2cVisazLGBywtHGOFxGnREa5jsfWvWoCbr4qoxb1F17eMXu_wQjBF-rRkvzZHHyPnAjIJ6CKaY1We8yImKti2li3g_B0L1GeGLa8oT031X6R6PQjULKgWoD-K_xJsSYl4ol3A211GlVLE16bx07MNni3T3jLgKmNHRw_IDKTP_0JXCblq21oc1hX1LfBjYenLWrKc5U6HgA3xEHUK5kwcYyqs-jf_mtoRxyd7MZ0llVRXvsNHZ5Ah2E8NhMdUJIajUmAT2Q-qfDWuxgQ&link_origin=scholar.google.es)]
-
-  4. Bhaskar, C. G., Krishnan, C. A., & Manimekala, B. (2026). _Automated tomato leaf disease diagnosis with improved Alex Net model_. In AIP Conference Proceedings (Vol. 3427, No. 1, p. 020015). AIP Publishing LLC. [[paper](https://pubs.aip.org/aip/acp/article-abstract/3427/1/020015/3392439/Automated-tomato-leaf-disease-diagnosis-with)]
-
-
-  6. Parvez, S., Uddin, M. A., Islam, M. M., Bharman, P., & Talukder, M. A. (2025). _Tomato leaf disease detection using convolutional neural network_. In Applied Intelligence for Healthcare Informatics (pp. 42-55). CRC Press. [[paper](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003583363-4/tomato-leaf-disease-detection-using-convolutional-neural-network-shamima-parvez-md-ashraf-uddin-md-manowarul-islam-pallab-bharman-md-alamin-talukder)]
-
-  7. Kiran, K., Gopal, L., Agarwal, V., Bansal, V., & Gupta, R. (2026, April). CNN-Based Tomato Leaf Disease Detection for Sustainable Agriculture. In 2026 13th International Conference on Computing for Sustainable Global Development (INDIACom) (pp. 1-6). IEEE. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11526549)]
-
-  8. Xiang, J., Ge, J., Fu, C., Huang, J., Lu, M., Zhang, Z., Yihong, S., & Yan, S. (2026). An environment-guided visual–temporal deep learning framework for early disease detection in greenhouse horticultural crops. Frontiers in Plant Science, 17, 1796407. [[paper](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1796407/full)]].
-     
-  9. Antony, A. J., & Murugan, R. (2026, April). Transforming Agriculture with AI: Insights into Computer Vision Applications for Sustainable Farming. In 2026 International Conference on AI-Driven Innovations & Applications (IC-AIDA) (pp. 1-12). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/11564160)]
-      
-  10. Upadhyay, A., Chandel, N. S., Singh, K. P., Chakraborty, S. K., Nandede, B. M., Kumar, M., Subbesh, A., Upendar, K., Salem, A., & Elbeltagi, A. (2025). _Deep learning and computer vision in plant disease detection: a comprehensive review of techniques, models, and trends in precision agriculture._ Artificial Intelligence Review, 58(3), 92. [[paper](https://link.springer.com/article/10.1007/s10462-024-11100-x)]
-
-<!-- -----------------ResNet -------------------- -->
-
-  11. Swamy, L. N., Parande, P. V., Kumar, H. M., Rakshitha, V., Thimmaraju, S. N., & Yogesha, T. (2026). Convolutional Neural Network Architectures for Enhanced Tomato Leaf Disease Classification using ResNet-152 and VGGNet Model. Indian Journal of Agricultural Research, 60(1), 130-134. [[paper](https://indianjournals.com/article/ijar2-60-1-019)]
-     
-  12. Jain, E., Kukreja, V., Kaushik, P., Ahuja, V., & Bansal, A. (2025). Hybrid ViT-ResNet: A High-Accuracy AI Model for Automated Strawberry Ripeness Classification in Precision Agriculture. Applied Fruit Science, 67(5), 368. [[paper](https://link.springer.com/article/10.1007/s10341-025-01576-4)]
-     
-
-     
-  14. Muthaiah, U., Reddy, Y. N., & Roy, R. V. (2026, January). RESNET Based Crop Disease Detection Models Using Convolutional Neural Networks. In Operations Research and Data Analytics: Current Trends and Future Perspectives: Selected Papers from International Conference on Industrial Engineering and Analytics (ICONIEA) 2024 (pp. 365-386). Singapore: Springer Nature Singapore. [[paper](https://link.springer.com/chapter/10.1007/978-981-96-8327-7_20)]
-
-  15. Zhang, K., Chai, Q., Gao, R., Shen, A., Liu, X., Yang, L., Pang, G., Wang, Y., Liu, X., & Sun, J. (2026). Deep learning-powered diagnosis of greenhouse tomato growth using time-series RGB images. Computers and Electronics in Agriculture, 245, 111566. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169926001614)]
-
-  16. Yusof, M. I., Yasin, F. N. M., Risangtuni, A. G., Putra, N. K., Samseh, S. H., Zainal, A., & Sani, M. A. A. (2026). Enhancing Greenhouse Pollination with CNN-Based Micro-UAV for Real-Time Flower Detection. [[paper](https://www.preprints.org/manuscript/202602.2026)]
-
-  17. Xue, X., Thakur, V., Dhumras, H., Jhaveri, R. H., & Gadekallu, T. R. (2025). Real-Time Pest Detection Using ResNet-50 and Vision Transformer: An IoT-Enabled Mobile Application for Smart Agriculture. IEEE Transactions on Consumer Electronics. [[paper](https://ieeexplore.ieee.org/abstract/document/11127220)]
-
-
-
-  19. Zhang, L., Li, X., Yang, Z., Yang, B., Yu, S., Zhao, S., ... & Yang, M. (2025). Tomato seedling stem and leaf segmentation method based on an improved ResNet architecture. Frontiers in Plant Science, 16, 1571445. [paper](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1571445/full)]
-
-  20. Cohen, A., Muriki, H., Sun, Y., Qin, Z., Gan, L., & Chen, Y. (2025). A Proof-of-Concept for Non-Destructive Lettuce Nutrient Assessment Using Vision Transformers and Residual Networks on Raw Hyperspectral Imagery. Smart Agricultural Technology, 101501.[[paper](https://www.sciencedirect.com/science/article/pii/S2772375525007324)]
-      
-<!-- -----------------DenseNet -------------------- -->
-
-  21. Jain, S., & Rajpoot, R. (2025). Real-Time Monitoring and Disease Detection in Greenhouses Using IoT and Deep Learning. In Computational Intelligence Techniques for 5G Enabled IoT Networks (pp. 213-235). Cham: Springer Nature Switzerland. [paper](https://link.springer.com/chapter/10.1007/978-3-031-82733-4_14)]
-
-  22. Jain, S., & Rajpoot, R. (2025). Real-Time Monitoring and Disease Detection in Greenhouses Using IoT and Deep Learning. In Computational Intelligence Techniques for 5G Enabled IoT Networks (pp. 213-235). Cham: Springer Nature Switzerland. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-82733-4_14)]].
-
-  23. Kavitha, K. (2025, October). Deep Learning-Driven Computer Vision Techniques for Advancing Smart Greenhouse Agriculture. In 2025 International Conference on Sustainable Communication Networks and Application (ICSCN) (pp. 24-30). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/11308643)]
-
-  24. Liang, L., Chen, J., Tian, Y., Wang, H., Cai, Y., Zhong, F., Wang, A., Hou, M., & Lu, J. (2026). DenseNet-BiFPN-ECA Fusion Network: An Enhanced Transfer Learning Approach for Tomato Leaf Disease Recognition. Horticulturae, 12(4), 423. [paper](https://www.mdpi.com/2311-7524/12/4/423)]
-
-  25. Pounambal, M., & Vellingiri, J. (2025). Advancing agricultural sustainability with gradient weighted Densenet-201 model for accurate detection of plant leaf diseases. Environment, Development and Sustainability, 1-27. [[paper](https://link.springer.com/article/10.1007/s10668-025-06314-0)]
-
-  26. Alam, M. S., Ali, M. R., & Rahman, A. (2025). Detection and Localization of Ripe Tomato in Greenhouse Environment Using Keras-Based Deep Learning Models. Journal of Agriculture and Food Research, 102182. [[paper](https://www.sciencedirect.com/science/article/pii/S2666154325005538)]
-
-  27. Santoso, H. A., Fandhi Safsalta, B., Febrianto, N., Wilujeng Saraswati, G., & Haw, S. C. (2026). Comparative analysis of convolutional neural network and DenseNet121 transfer learning in agriculture focusing on crop leaf disease identification. Applied Computing and Informatics, 22(3-4), 316-328. [[paper](https://www.emerald.com/aci/article/22/3-4/316/1248414)]
-
-  28. Shi, D., Liang, L., Chen, X., Yang, X., Li, M., & Diao, M. (2025). DTM-Unet: A Deep Learning Framework Incorporating DenseNet and Transformer for Precise Identification and Quantitative Segmentation of Cucumber Leaf Disease. Smart Agricultural Technology, 101659. [[paper](https://www.sciencedirect.com/science/article/pii/S2772375525008901)]
-
-  29. Huang, Y., Huang, T., Du, J., Qiu, J., Liu, C., Wan, F., ... & Wang, L. (2026). DenseNet-CSL: An Enhanced Network for Multi-Class Recognition of Agricultural Pests, Weeds, and Crop Diseases. Agriculture, 16(4), 394. [[paper](https://www.mdpi.com/2077-0472/16/4/394)]
-
-  40. Saxena, A., Agarwal, A., Nagrath, B., Jayavanth, C. S., Thulasidoss, S., Maheswari, S., & Sasikumar, P. (2025). Deep learning-driven IoT solution for smart tomato farming. Scientific Reports, 15(1), 31092. [[paper](https://www.nature.com/articles/s41598-025-15615-)]
-
-<!-- ----------------- VGG -------------------- -->
-
-  41. Paymode, A. S., & Malode, V. B. (2022). _Transfer learning for multi-crop leaf disease image classification using convolutional neural network VGG_. Artificial Intelligence in Agriculture, 6, 23-33. [[link](https://www.sciencedirect.com/science/article/pii/S2589721721000416)]].
-
-  42. Sajid, S., Li, P., Zhang, L., Jie, C., Ali, A., & Ullah, F. (2025). Leveraging VGG-19 for automated fruit classification in smart agriculture. PeerJ Computer Science, 11, e3391. [[paper](https://peerj.com/articles/cs-3391/)]
-
-  43. Xiang, J., Ge, J., Fu, C., Huang, J., Lu, M., Zhang, Z., ... & Yan, S. (2026). An environment-guided visual–temporal deep learning framework for early disease detection in greenhouse horticultural crops. Frontiers in Plant Science, 17, 1796407.[[paper](https://link.springer.com/article/10.1186/s13007-025-01456-8)]
-
-  44. Ram, B. G., Howatt, K., Mettler, J., & Sun, X. (2025). Addressing computation resource exhaustion associated with deep learning training of three-dimensional hyperspectral images using multiclass weed classification. Artificial Intelligence in Agriculture, 15(2), 131-146. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721725000248)]
-
-  45. Siva, V., & Ponnusamy, V. (2025, September). Tomato Ripeness Evaluation Through Cutting-Edge Deep Learning Models. In World Conference on Information Systems for Business Management (pp. 413-423). Cham: Springer Nature Switzerland. [[paper](https://link.springer.com/chapter/10.1007/978-3-032-13006-8_40)]
-
-  46. Xiang, J., Ge, J., Fu, C., Huang, J., Lu, M., Zhang, Z., Song, Y., & Yan, S. (2026). An environment-guided visual–temporal deep learning framework for early disease detection in greenhouse horticultural crops. Frontiers in Plant Science, 17, 1796407. [[paper](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1796407/full)]
-
-  47. Swapna, B., Kameswaran, S., & Ramakrishna, M. (2026). Deep Learning in Plant Pest Control. In Plant Genomic Prediction: AI-Enhanced Models for Plant Genomics and Crop Improvement (pp. 335-351). GB: CABI. [[paper](https://www.cabidigitallibrary.org/doi/full/10.1079/9781836991328.0017)]
-
-  48. Islam, M. S., Rahman, N., Mahmud, M. T., Naidu, A., Toha, M. A., Yasar, S., ... & Jamil, S. U. (2026, April). An Automated Approach for Classifying The Severity of Cucumber Diseases Using Deep Learning and Transfer Learning. In 2026 IEEE 5th International Conference on Computing and Machine Intelligence (ICMI) (pp. 1-5). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/11539878)]
-
-  50. Sundaravadivel, P., Reyes-Ramirez, R., Sethurani, P. M., Brown, C., Borah, S. S., & Kousik, S. (2026). AI-Enabled Reconfigurable Edge Device for Plant Health Assessment in Greenhouse Environment. In The First International Workshop on AI in Agriculture. [[paper](https://openreview.net/forum?id=7GDdzjv6EZ)]
-
-<!-- -----------------EfficientNet -------------------- -->
-
-  51. Ray, R. K., Chakravarty, S., Dash, S., Ghosh, A., Mohanty, S. N., Chirra, V. R. R., ... & Khan, M. I. (2025). Precision pest management in agriculture using Inception V3 and EfficientNet B4: A deep learning approach for crop protection. Information Processing in Agriculture. [[link](https://pdf.sciencedirectassets.com/287278/1-s2.0-S2214317326X20017/1-s2.0-S2214317325000484/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEHoaCXVzLWVhc3QtMSJHMEUCIQDFNdaJIpMO8un2YREl7ZzcR%2Bqjy%2B64kSGwm7iKWvblCgIgTGxpVQRcxrsvVie1HRFhAaCOUxQWMd4wGsiRe%2BKB35AqsgUIQxAFGgwwNTkwMDM1NDY4NjUiDFEQNIwycl46KUiUjSqPBVXT4m3h9No4L6wVf3jWMgu5FI0PtsfwSTOrwkg3rNX8cTRZu435trwyQZOYerFMyZgDIwKumHZaJcv28ZM6Uz4mZWViw%2FpVxBsDjwpJGg%2FRS9D40ZMCEBXEOSrNi3hKn4BTmnzn5FeDhklkAZ9skAqXTO792oRz6OWckq1n3v%2F6%2F8t7Qg20H0r94o3P6DQO7IgU3hldKCCsWLEyRUCpAmcukvT87AF2XDoSbQfYKg6YNFqplAOufLWDwUN6yhGkXTTW5uiiqUpnRY03vJry7gkjwbJotBr9fL4nz6tZQy5u3XAXM4x1qyTbB4%2F4Dllv%2BjlQxDN27y4v1GJX3NYHJBv9enzw10D8eAXWfXVmToSxmIF6HnQnpeAsQCHubo69djXmmFAR6A0O8b%2B9PmCeXhH6SovYblgUu1oAlgT1ACuh4nXoiVjR21KwTN2k92d2EBDKa%2BR4BmgB0GY7ylbzt335QUTNZWYb0D%2B1ILQHuRx3Ci6fq2g6OlAVHDkA4gW1nmocuW3pz3y%2BOijdRSDWtAf1jPZ%2FR9YIQdzm2weeLLLG%2FW1oTsLfog2WcoHviwt3LZMx%2BarqPGN2zkMKLpO44fPQ1%2BgUq2KGdYj5YI1zCM8lt5QXn6yC%2FUJpaWUwMSh9%2Fm3aNX8viJGvLrJOWfXGRxGgEX2lnSTH32ekW8zDhKP8VDuZ8%2F1iqV%2FurDQWEGqxCo5HZod0qMUNPcMXAXhbzRlKwqRiMbEalwjwZ24dMwqFiXo%2FEMgM4aMVJRH%2BT%2B%2B7B0sd6UG6nlPpwi0dVLE4tYgbLp7h0dSSauq6BxM4tE6A04j0ymVQT2DHE4hvjhSEp%2F%2BdYyJI9cWsR6piODig6d2gTEKNbqn0xd5NwrCYCswwxtXi0gY6sQGe3ujjAKuegZHQRSUk7Vi1w%2FpZHgYPTlv62tVRXgM%2Fok8HX4zCxeKMHKPEUl6QODA924ByIH%2FDAONQdG30N4d7tVn2MZkz6V6kOf5CP6XA%2FqI%2F7V0u%2Btolph7GJI6l0Dig9mYwaYafmreYGtncwnfimJRZbkWvZ5rP5kuvk4MpBsfu%2BXa03Ngt9JsuePBTkKg91%2F1j9PVAwI6ZIi8dJMe1rM1a0x2w%2FfZhPeIlqUqESJA%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260716T111024Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYTJI5SB7Z%2F20260716%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=873107445461b4ec7101384730bf87aebb64af29f4c69fe54d4edc04ca5d21c1&hash=ea9054ff413afe71d651615dee9f6078a7247775a319130cb7d6a9ed6eceb81c&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S2214317325000484&tid=spdf-2d7597f6-9625-4fc0-a375-c6f88d9438a2&sid=cb3a75e7265cf54a489aeda19b8c87ea2832gxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=0313045602515d01550d&rr=a1c08f6c28ddd665&cc=es)]
-
-  52. Ni, L., Ye, F., Cui, X., Peng, X., Song, S., & Luo, W. (2026). Comparative Study of Lightweight Deep Learning Models for Greenhouse Tomato Leaf Disease Classification Using the Public TLID Dataset. Digital Intelligence in Agriculture, 2(1), 45-53. [[paper](https://www.icck.org/article/abs/dia.2026.103152)]
-
-  53. Subhan, M., Rana, N., Qamar, F., Jeribi, F., Alhazmi, A. H., Tahir, A., & Shahzadi, R. (2026). Crop disease detection using EfficientNetB0 deep learning approach for precision agriculture. Discover Computing, 29(1), 25. [[paper](https://link.springer.com/article/10.1007/s10791-025-09881-y)]
-
-  54. Sahu, S., & Verma, P. (2026). UAV-based real-time detection of corn earworm using EfficientNet and machine learning. Journal of Environmental Science and Health, Part B, 1-14. [[paper](https://www.tandfonline.com/doi/full/10.1080/03601234.2026.2660035?scroll=top&needAccess=true)]
-
-  55. Yang, Q., Lao, D., Wu, Y., Liu, C., Zhang, Z., Li, Z., ... & Li, F. (2026). Leaf thermal infrared imaging and lightweight deep learning enable early detection of water stress in watermelon for precision irrigation. Agricultural Water Management, 329, 110344. [[paper](https://www.sciencedirect.com/science/article/pii/S0378377426002258)]
-
-  56. Shanthini, S., & Dheeran, S. (2025, February). EfficientNet-Based Feature Extraction and Ensemble Learning for Tomato Quality Classification. In 2025 3rd International Conference on Intelligent Systems, Advanced Computing and Communication (ISACC) (pp. 589-595). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/10969232)]
-
-  57. Kavitha, K. (2025, October). Deep Learning-Driven Computer Vision Techniques for Advancing Smart Greenhouse Agriculture. In 2025 International Conference on Sustainable Communication Networks and Application (ICSCN) (pp. 24-30). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/11308643)]
-
-  58. Ni, L., Ye, F., Cui, X., Peng, X., Song, S., & Luo, W. (2026). Comparative Study of Lightweight Deep Learning Models for Greenhouse Tomato Leaf Disease Classification Using the Public TLID Dataset. Digital Intelligence in Agriculture, 2(1), 45-53. [[paper](https://www.icck.org/article/abs/dia.2026.103152)]
-
-  59. Wang, X. (2025, August). EfficientNet-SE: A Lightweight Attention-Enhanced CNN for Real-Time Crop Leaf Disease Detection in Precision Agriculture. In 2025 6th International Conference on Internet of Things, Artificial Intelligence and Mechanical Automation (IoTAIMA) (pp. 63-67). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/11212650)]
-
-  60. Nashrulloh, M. H., & Subarkah, A. (2025). Fruit Image Classification Using CNN With EfficientNet Architecture for Visual Education. Journal of Intelligent Systems Technology and Informatics, 1(2), 67-71. [[paper](https://journal.aptika.org/index.php/jistics/article/view/9)]
-
-<!-- -----------------ViT -------------------- -->
-
-  61. Rajendran, M., & Muruganantham, M. (2026). Tomato leaf disease classification using a vision transformer with cascaded group attention (ViT-CGA) for real-time decision support in precision agriculture. Journal of Plant Diseases and Protection, 133(3), 91. [[paper](https://link.springer.com/article/10.1007/s41348-026-01274-7)]
-
-  62. Zeng, Z., Mahmood, T., Wang, Y., Rehman, A., & Mujahid, M. A. (2025). AI-driven smart agriculture using hybrid transformer-CNN for real time disease detection in sustainable farming. Scientific Reports, 15(1), 25408. [[paper](https://www.nature.com/articles/s41598-025-10537-6)]
-
-  63. Verma, P. K., Gupta, N., Sharma, A. K., Rakesh, N., & Gulhane, M. (2025). ViTCon: a hybrid CNN-ViT model for improved plant leaf disease detection. Cogent Food & Agriculture, 11(1), 2562165. [[paper](https://www.tandfonline.com/doi/full/10.1080/23311932.2025.2562165)]
-
-  64. Huo, Y., Liu, Y., He, P., Hu, L., Gao, W., & Gu, L. (2025). Identifying Tomato Growth Stages in Protected Agriculture with StyleGAN3–Synthetic Images and Vision Transformer. Agriculture, 15(2), 120. [[paper](https://www.mdpi.com/2077-0472/15/2/120)]
-
-  65. Hasasneh, A., Ghannam, R., & Masri, S. (2025). WeedNet-ViT: A Vision Transformer Approach for Robust Weed Classification in Smart Farming. Geographies, 5(4), 64. [[paper](https://www.mdpi.com/2673-7086/5/4/64)]
-
-  66. Guttikonda, B. S., Al-Khafaji, Z. A., Senthil, P., & Kavitha, P. (2025, June). Smart Agriculture Framework for Multi-Crop Disease Detection using IoT and Vision Transformer. In 2025 International Conference on Intelligent Computing and Knowledge Extraction (ICICKE) (pp. 1-7). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/11136532)]
-
-  67. ÖZDEN, C. (2026). Vision Transformer and CNN-Based Models for Image Analysis of Plant Diseases: An Approach for Agricultural Decision Support Systems. ISPEC Journal of Agricultural Sciences. [[paper](https://ispecjournal.com/index.php/ispecjas/article/view/915)]
-
-  68. Lata, K., Kaur, N., & Singh, S. (2025). Satellite-Based Crop Recognition Using Vision Transformer Models for Smart Agriculture. Engineering Proceedings, 118(1), 34. [[paper](https://www.mdpi.com/2673-4591/118/1/34)]
-
-  69. Cho, S. B., Choi, J. W., Hidayat, M. S., Cho, J. I., Lee, H., Cho, B. K., & Kim, G. (2025). Development of a CNN classifier with XAI to detect interpretable water stress in sweet potato using RGB images. Agricultural Water Management, 321, 109899. [[paper](https://www.sciencedirect.com/science/article/pii/S0378377425006134)]
-
-  70. Venkatesh, K., Prasad, M., Kurikala, G., & Singh, L. K. (2026, February). Crop Health Identification by Exploiting CNN-ViT Synergy: Detecting Multi-Nutrient Deficiencies. In 2026 2nd International Conference on Advances in Intelligent Computing and Applications (AICAPS) (pp. 1-4). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/11452925)]
-
-<!-- ----------------- Swin tranformers -------------------- -->
-
-  71. Iftee, I. K., Ahmed, F., Jobaier, M. H., Osama, A. U., & Aziz, N. H. A. (2025, October). Smart Agriculture: Cucurbit Leaf Disease Detection Using Swin Transformer. In 2025 International Conference on Engineering and Emerging Technologies (ICEET) (pp. 1-6). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/11423931)]
-
-  72. Liu, H., Gan, Y., Ren, X., Xu, J., Lin, P., & Chen, Y. (2026). Vision-based quantitative assessment of strawberry ripeness using a detail-aware perception transformer in complex agricultural environments. Journal of Food Measurement and Characterization, 20(4), 6418-6440. [[paper](https://link.springer.com/article/10.1007/s11694-026-04078-3)]
-
-  73. Zhang, H., Gong, Z., Hu, C., Chen, C., Wang, Z., Yu, B., ... & Lv, C. (2025). A transformer-based detection network for precision cistanche pest and disease management in smart agriculture. Plants, 14(4), 499. [[paper](https://link.springer.com/chapter/10.1007/978-981-96-8796-1_19)]
-
-  74. Haqiq, N., Zaim, M., Sbihi, M., El Alaoui, M., El Amraoui, K., El Kazini, Y., Roukhe, H., & Masmoudi, L. (2026). Lightweight Hybrid Deep Learning for Strawberry Disease Recognition and Edge Deployment Using Dynamic Multi-Scale CNN–Transformer Fusion. AgriEngineering, 8(2), 75. [[paper](https://www.mdpi.com/2624-7402/8/2/75)]
-
-  75. Murugesan, S., Chinnadurai, J., Srinivasan, S., Mathivanan, S. K., Chandan, R. R., & Moorthy, U. (2025). Robust multiclass classification of crop leaf diseases using hybrid deep learning and Grad-CAM interpretability. Scientific Reports, 15(1), 29955. [[paper](https://www.nature.com/articles/s41598-025-14847-7)]
-
-  76. Zhang, Q., Zhao, J., Cai, Y. L., Liu, K., & Li, Y. (2026). Toward smart agriculture: a hybrid mamba-transformer vision framework for plant disease detection. Frontiers in Plant Science, 17, 1846242. [[paper](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1846242/full)]
-
-<!-- ----------------- ConvNet -------------------- -->
-
-
-
-  82. Wu, Y., Dai, J., Zhu, Y., & Zhang, T. (2025). _Intelligent Agricultural Greenhouse Extraction Method Based on Multifeature Modeling: Fusion of Geometric, Spatial, and Spectral Characteristics_. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 18, 5568-5581. [[link](https://ieeexplore.ieee.org/abstract/document/10858674)]].
-
-  83. Vanmathi, C., Mangayarkarasi, R., Agrawal, R., Sumalatha, L., & Shankar, V. (2026). Cross Disease Similarity Awareness Learning (CDSAL) with DenseNet–EfficientNet embedding fusion for high-precision tomato leaf pathology classification with Grad-CAM explainability. Scientific Reports. [[paper](https://www.nature.com/articles/s41598-026-48099-w)]
-
-  84. Landolfo, M., Perotti, F., Pistillo, A., Pennisi, G., Gianquinto, G., & Orsini, F. (2025). Optimizing artificial lighting for convolutional neural network-based crop monitoring with low-cost RGB imaging in indoor cultivation. Smart Agricultural Technology, 101677. [[paper](https://www.sciencedirect.com/science/article/pii/S2772375525009086)]
-
-  85. Xing, X., Gao, J., Qi, P., Wang, S., Wang, F., Peng, X., Fangyan, W., Hou, X., & Gao, J. (2026). A Lightweight Multi-View Detection and Counting Method for Real-Time Cherry Tomato Yield Estimation Using Greenhouse Inspection Robots. Smart Agricultural Technology, 102260. [[paper](https://www.sciencedirect.com/science/article/pii/S2772375526004843)]
-
-  86. Bashir, A., Wang, Y., Ojo, M. O., & Zahid, A. (2025). A Vision System for Occluded Cutting Point Localization in Robotic Harvesting of Greenhouse Lettuce. IEEE Transactions on AgriFood Electronics. [[paper](https://ieeexplore.ieee.org/abstract/document/11219194)]
-
-  87. Cardenas-Gallegos, J. S., Severns, P. M., Klimeš, P., Lacerda, L. N., Peduzzi, A., & Ferrarezi, R. S. (2025). Reliable plant segmentation under variable greenhouse illumination conditions. Computers and Electronics in Agriculture, 229, 109711. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169924011025)]
-
-  88. Song, W., He, H., Dai, J., & Jia, G. (2025). Extraction of agricultural plastic greenhouses based on a U-Net convolutional neural network coupled with edge expansion and loss function improvement. Journal of the Air & Waste Management Association, 75(2), 109-120. [[paper](https://www.tandfonline.com/doi/full/10.1080/10962247.2024.2412708)]
-
-  89. Amir, A., Giri, S., Giri, S., & Butt, M. (2025). An advanced approach to tomato apex head thickness measurement using lightweight YOLO variants, faster RCNN, and RGB-depth sensor. Smart Agricultural Technology, 101214. [[paper](https://www.sciencedirect.com/science/article/pii/S2772375525004459)]
-
-  90. Guo, J., Zhang, B., Zhou, P., Xu, Y., Luo, S., Ji, J., Zhuo, Y., Xu, X., & Lin, L. (2026). A Digital Framework for Smart Greenhouse Tomato Cultivation. Smart Agricultural Technology, 101879. [[paper](https://www.sciencedirect.com/science/article/pii/S2772375526001036)]
-
-<!-- ----------------- Revista de envio "Artificial Intelligence in Agriculture" -------------------- -->
-
-  91. Das, A., Pathan, F., Jim, J. R., Kabir, M. M., & Mridha, M. F. (2025). Deep learning-based classification, detection, and segmentation of tomato leaf diseases: A state-of-the-art review. Artificial Intelligence in Agriculture, 15(2), 192-220. [[paper](https://www.sciencedirect.com/science/article/pii/S258972172500025X)]
-
-  92. Cheng, T., Zhang, D., Zhang, G., Wang, T., Ren, W., Yuan, F., ... & Zhao, C. (2025). High-throughput phenotyping techniques for forage: Status, bottleneck, and challenges. Artificial Intelligence in Agriculture, 15(1), 98-115. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721725000029)]
-
-  93. Gomez-Zamanillo, L., Bereciartua-Perez, A., Picon, A., Parra, L., Oldenbuerger, M., Navarra-Mestre, R., Kiukas, C., Eggers, T., & Echazarra, J. (2025). Digitalizing greenhouse trials: An automated approach for efficient and objective assessment of plant damage using deep learning. Artificial Intelligence in Agriculture, 15(2), 280-295. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721725000285)]
-
-  94. Ram, B. G., Howatt, K., Mettler, J., & Sun, X. (2025). Addressing computation resource exhaustion associated with deep learning training of three-dimensional hyperspectral images using multiclass weed classification. Artificial Intelligence in Agriculture, 15(2), 131-146. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721725000248)]
-
-  95. Yang, Y., Chen, L., Diao, Z., Gao, P., Zhang, B., & Zhao, C. (2026). Recent advances in crop pest detection, forecasting and early warning: A review. Artificial Intelligence in Agriculture. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721726000279)]
-
-  96. Wiafe, E. K., Betitame, K., Ram, B. G., & Sun, X. (2025). Technical study on the efficiency and models of weed control methods using unmanned ground vehicles: A review. Artificial Intelligence in Agriculture, 15(4), 622-641. [[paper](https://www.sciencedirect.com/science/article/pii/S258972172500056X)]
-
-  97. Ram, B. G., Howatt, K., Mettler, J., & Sun, X. (2025). Addressing computation resource exhaustion associated with deep learning training of three-dimensional hyperspectral images using multiclass weed classification. Artificial Intelligence in Agriculture, 15(2), 131-146. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721725000248)]
-
+    <summary><strong>2. Articles on greenhouses</strong></summary>
+  
+  1. Mashamba, M. M., Telukdarie, A., Munien, I., Onkonkwo, U., & Vermeulen, A. (2024). *Detection of bacterial spot disease on tomato leaves using a Convolutional Neural Network (CNN)*. Procedia Computer Science, 237, 602-609. [[paper](https://www.sciencedirect.com/science/article/pii/S187705092401161X)].
+  
+  2. Tang, R., Aridas, N. K., Talip, M. S. A., Yang, J., & Tang, J. (2025). *High-precision pest and disease detection in greenhouses using the novel IM-AlexNet framework*. npj Science of Food, 9(1), 68. [[paper](https://www.nature.com/articles/s41538-025-00426-7)].
+  
+  3. Rao, S. T., Dulla, T. C., Kolla, V. K., Kurakula, G. S., Suneetha, M., Moturi, S., & Reddy, D. V. (2025). Deep-learning-based tomato leaf disease identification: Enhancing classification with AlexNet. IEEE IATMSI, Vol. 3, pp. 1-6. [[paper](https://ieeexplore.ieee.org/abstract/document/10984969)].
+  
+  4. Jiang, N. (2025). Crop disease detection for greenhouses: a lightweight solution combining ResNet and Inception. SPIE IC-AAIP 2025, Vol. 13933, pp. 50-56. [[paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13933/1393309/Crop-disease-detection-for-greenhouses--a-lightweight-solution-combining/10.1117/12.3090705.short)].
+  
+  5. Wang, L., Li, Y., Lin, H., Tong, J., Sun, L., Wang, X., & Jiang, J. (2025). RTR-CNN: Rotated tray region selection and young seedling health status detection by CNN in greenhouse seedbed. Computers and Electronics in Agriculture, 229, 109723. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169924011141)].
+  
+  6. Zhang, L., Li, X., Yang, Z., Yang, B., Yu, S., Zhao, S., et al. (2025). Tomato seedling stem and leaf segmentation method based on an improved ResNet architecture. Frontiers in Plant Science, 16, 1571445. [[paper](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1571445/full)].
+  
+  7. Cohen, A., Muriki, H., Sun, Y., Qin, Z., Gan, L., & Chen, Y. (2025). A Proof-of-Concept for Non-Destructive Lettuce Nutrient Assessment Using Vision Transformers and Residual Networks on Raw Hyperspectral Imagery. Smart Agricultural Technology, 101501. [[paper](https://www.sciencedirect.com/science/article/pii/S2772375525007324)].
+  
+  8. Jain, S., & Rajpoot, R. (2025). Real-Time Monitoring and Disease Detection in Greenhouses Using IoT and Deep Learning. In Computational Intelligence Techniques for 5G Enabled IoT Networks (pp. 213-235). Springer. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-82733-4_14)].
+  
+  9. Kavitha, K. (2025). Deep Learning-Driven Computer Vision Techniques for Advancing Smart Greenhouse Agriculture. IEEE ICSCN 2025, pp. 24-30. [[paper](https://ieeexplore.ieee.org/abstract/document/11308643)].
+  
+  10. Saxena, A., Agarwal, A., Nagrath, B., Jayavanth, C. S., Thulasidoss, S., Maheswari, S., & Sasikumar, P. (2025). Deep learning-driven IoT solution for smart tomato farming. Scientific Reports, 15(1), 31092. [[paper](https://www.nature.com/articles/s41598-025-15615-)].
+  
+  11. Pounambal, M., & Vellingiri, J. (2025). Advancing agricultural sustainability with gradient weighted Densenet-201 model for accurate detection of plant leaf diseases. Environment, Development and Sustainability, 1-27. [[paper](https://link.springer.com/article/10.1007/s10668-025-06314-0)].
+  
+  12. Alam, M. S., Ali, M. R., & Rahman, A. (2025). Detection and Localization of Ripe Tomato in Greenhouse Environment Using Keras-Based Deep Learning Models. Journal of Agriculture and Food Research, 102182. [[paper](https://www.sciencedirect.com/science/article/pii/S2666154325005538)].
+  
+  13. Shi, D., Liang, L., Chen, X., Yang, X., Li, M., & Diao, M. (2025). DTM-Unet: A Deep Learning Framework Incorporating DenseNet and Transformer for Precise Identification and Quantitative Segmentation of Cucumber Leaf Disease. Smart Agricultural Technology, 101659. [[paper](https://www.sciencedirect.com/science/article/pii/S2772375525008901)].
+  
+  14. Sajid, S., Li, P., Zhang, L., Jie, C., Ali, A., & Ullah, F. (2025). Leveraging VGG-19 for automated fruit classification in smart agriculture. PeerJ Computer Science, 11, e3391. [[paper](https://peerj.com/articles/cs-3391/)].
+  
+  15. Siva, V., & Ponnusamy, V. (2025). Tomato Ripeness Evaluation Through Cutting-Edge Deep Learning Models. World Conf. on Information Systems for Business Management, pp. 413-423. Springer. [[paper](https://link.springer.com/chapter/10.1007/978-3-032-13006-8_40)].
+  
+  16. Ray, R. K., Chakravarty, S., Dash, S., Ghosh, A., Mohanty, S. N., Chirra, V. R. R., et al. (2025). Precision pest management in agriculture using Inception V3 and EfficientNet B4: A deep learning approach for crop protection. Information Processing in Agriculture. [[paper](https://www.sciencedirect.com/science/article/pii/S2214317325000484)].
+  
+  17. Shanthini, S., & Dheeran, S. (2025). EfficientNet-Based Feature Extraction and Ensemble Learning for Tomato Quality Classification. IEEE ISACC 2025, pp. 589-595. [[paper](https://ieeexplore.ieee.org/abstract/document/10969232)].
+  
+  18. Wang, X. (2025). EfficientNet-SE: A Lightweight Attention-Enhanced CNN for Real-Time Crop Leaf Disease Detection in Precision Agriculture. IEEE IoTAIMA 2025, pp. 63-67. [[paper](https://ieeexplore.ieee.org/abstract/document/11212650)].
+  
+  19. Zeng, Z., Mahmood, T., Wang, Y., Rehman, A., & Mujahid, M. A. (2025). AI-driven smart agriculture using hybrid transformer-CNN for real time disease detection in sustainable farming. Scientific Reports, 15(1), 25408. [[paper](https://www.nature.com/articles/s41598-025-10537-6)].
+  
+  20. Verma, P. K., Gupta, N., Sharma, A. K., Rakesh, N., & Gulhane, M. (2025). ViTCon: a hybrid CNN-ViT model for improved plant leaf disease detection. Cogent Food & Agriculture, 11(1), 2562165. [[paper](https://www.tandfonline.com/doi/full/10.1080/23311932.2025.2562165)].
+  
+  21. Huo, Y., Liu, Y., He, P., Hu, L., Gao, W., & Gu, L. (2025). Identifying Tomato Growth Stages in Protected Agriculture with StyleGAN3–Synthetic Images and Vision Transformer. Agriculture, 15(2), 120. [[paper](https://www.mdpi.com/2077-0472/15/2/120)].
+  
+  22. Guttikonda, B. S., Al-Khafaji, Z. A., Senthil, P., & Kavitha, P. (2025). Smart Agriculture Framework for Multi-Crop Disease Detection using IoT and Vision Transformer. IEEE ICICKE 2025, pp. 1-7. [[paper](https://ieeexplore.ieee.org/abstract/document/11136532)].
+  
+  23. Iftee, I. K., Ahmed, F., Jobaier, M. H., Osama, A. U., & Aziz, N. H. A. (2025). Smart Agriculture: Cucurbit Leaf Disease Detection Using Swin Transformer. IEEE ICEET 2025, pp. 1-6. [[paper](https://ieeexplore.ieee.org/abstract/document/11423931)].
+  
+  24. Zhang, H., Gong, Z., Hu, C., Chen, C., Wang, Z., Yu, B., et al. (2025). A transformer-based detection network for precision cistanche pest and disease management in smart agriculture. Plants, 14(4), 499. [[paper](https://link.springer.com/chapter/10.1007/978-981-96-8796-1_19)].
+  
+  25. Murugesan, S., Chinnadurai, J., Srinivasan, S., Mathivanan, S. K., Chandan, R. R., & Moorthy, U. (2025). Robust multiclass classification of crop leaf diseases using hybrid deep learning and Grad-CAM interpretability. Scientific Reports, 15(1), 29955. [[paper](https://www.nature.com/articles/s41598-025-14847-7)].
+  
+  26. Landolfo, M., Perotti, F., Pistillo, A., Pennisi, G., Gianquinto, G., & Orsini, F. (2025). Optimizing artificial lighting for convolutional neural network-based crop monitoring with low-cost RGB imaging in indoor cultivation. Smart Agricultural Technology, 101677. [[paper](https://www.sciencedirect.com/science/article/pii/S2772375525009086)].
+  
+  27. Bashir, A., Wang, Y., Ojo, M. O., & Zahid, A. (2025). A Vision System for Occluded Cutting Point Localization in Robotic Harvesting of Greenhouse Lettuce. IEEE Transactions on AgriFood Electronics. [[paper](https://ieeexplore.ieee.org/abstract/document/11219194)].
+  
+  28. Cardenas-Gallegos, J. S., Severns, P. M., Klimeš, P., Lacerda, L. N., Peduzzi, A., & Ferrarezi, R. S. (2025). Reliable plant segmentation under variable greenhouse illumination conditions. Computers and Electronics in Agriculture, 229, 109711. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169924011025)].
+  
+  29. Amir, A., Giri, S., Giri, S., & Butt, M. (2025). An advanced approach to tomato apex head thickness measurement using lightweight YOLO variants, faster RCNN, and RGB-depth sensor. Smart Agricultural Technology, 101214. [[paper](https://www.sciencedirect.com/science/article/pii/S2772375525004459)].
+  
+  30. Bhaskar, C. G., Krishnan, C. A., & Manimekala, B. (2026). Automated tomato leaf disease diagnosis with improved Alex Net model. AIP Conference Proceedings, Vol. 3427, No. 1, 020015. [[paper](https://pubs.aip.org/aip/acp/article-abstract/3427/1/020015/3392439/Automated-tomato-leaf-disease-diagnosis-with)].
+  
+  31. Zhang, K., Chai, Q., Gao, R., Shen, A., Liu, X., Yang, L., et al. (2026). Deep learning-powered diagnosis of greenhouse tomato growth using time-series RGB images. Computers and Electronics in Agriculture, 245, 111566. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169926001614)].
+  
+  32. Yusof, M. I., Yasin, F. N. M., Risangtuni, A. G., Putra, N. K., Samseh, S. H., Zainal, A., & Sani, M. A. A. (2026). Enhancing Greenhouse Pollination with CNN-Based Micro-UAV for Real-Time Flower Detection. [[paper](https://www.preprints.org/manuscript/202602.2026)].
+  
+  33. Liang, L., Chen, J., Tian, Y., Wang, H., Cai, Y., Zhong, F., Wang, A., Hou, M., & Lu, J. (2026). DenseNet-BiFPN-ECA Fusion Network: An Enhanced Transfer Learning Approach for Tomato Leaf Disease Recognition. Horticulturae, 12(4), 423. [[paper](https://www.mdpi.com/2311-7524/12/4/423)].
+  
+  34. Santoso, H. A., Fandhi Safsalta, B., Febrianto, N., Wilujeng Saraswati, G., & Haw, S. C. (2026). Comparative analysis of convolutional neural network and DenseNet121 transfer learning in agriculture focusing on crop leaf disease identification. Applied Computing and Informatics, 22(3-4), 316-328. [[paper](https://www.emerald.com/aci/article/22/3-4/316/1248414)].
+  
+  35. Huang, Y., Huang, T., Du, J., Qiu, J., Liu, C., Wan, F., et al. (2026). DenseNet-CSL: An Enhanced Network for Multi-Class Recognition of Agricultural Pests, Weeds, and Crop Diseases. Agriculture, 16(4), 394. [[paper](https://www.mdpi.com/2077-0472/16/4/394)].
+  
+  36. Sundaravadivel, P., Reyes-Ramirez, R., Sethurani, P. M., Brown, C., Borah, S. S., & Kousik, S. (2026). AI-Enabled Reconfigurable Edge Device for Plant Health Assessment in Greenhouse Environment. First Int. Workshop on AI in Agriculture. [[paper](https://openreview.net/forum?id=7GDdzjv6EZ)].
+  
+  37. Ni, L., Ye, F., Cui, X., Peng, X., Song, S., & Luo, W. (2026). Comparative Study of Lightweight Deep Learning Models for Greenhouse Tomato Leaf Disease Classification Using the Public TLID Dataset. Digital Intelligence in Agriculture, 2(1), 45-53. [[paper](https://www.icck.org/article/abs/dia.2026.103152)].
+  
+  38. Subhan, M., Rana, N., Qamar, F., Jeribi, F., Alhazmi, A. H., Tahir, A., & Shahzadi, R. (2026). Crop disease detection using EfficientNetB0 deep learning approach for precision agriculture. Discover Computing, 29(1), 25. [[paper](https://link.springer.com/article/10.1007/s10791-025-09881-y)].
+  
+  39. Rajendran, M., & Muruganantham, M. (2026). Tomato leaf disease classification using a vision transformer with cascaded group attention (ViT-CGA) for real-time decision support in precision agriculture. Journal of Plant Diseases and Protection, 133(3), 91. [[paper](https://link.springer.com/article/10.1007/s41348-026-01274-7)].
+  
+  40. Venkatesh, K., Prasad, M., Kurikala, G., & Singh, L. K. (2026). Crop Health Identification by Exploiting CNN-ViT Synergy: Detecting Multi-Nutrient Deficiencies. IEEE AICAPS 2026, pp. 1-4. [[paper](https://ieeexplore.ieee.org/abstract/document/11452925)].
+  
+  41. Liu, H., Gan, Y., Ren, X., Xu, J., Lin, P., & Chen, Y. (2026). Vision-based quantitative assessment of strawberry ripeness using a detail-aware perception transformer in complex agricultural environments. Journal of Food Measurement and Characterization, 20(4), 6418-6440. [[paper](https://link.springer.com/article/10.1007/s11694-026-04078-3)].
+  
+  42. Haqiq, N., Zaim, M., Sbihi, M., El Alaoui, M., El Amraoui, K., El Kazini, Y., Roukhe, H., & Masmoudi, L. (2026). Lightweight Hybrid Deep Learning for Strawberry Disease Recognition and Edge Deployment Using Dynamic Multi-Scale CNN–Transformer Fusion. AgriEngineering, 8(2), 75. [[paper](https://www.mdpi.com/2624-7402/8/2/75)].
+  
+  43. Zhang, Q., Zhao, J., Cai, Y. L., Liu, K., & Li, Y. (2026). Toward smart agriculture: a hybrid mamba-transformer vision framework for plant disease detection. Frontiers in Plant Science, 17, 1846242. [[paper](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1846242/full)].
+  
+  44. Vanmathi, C., Mangayarkarasi, R., Agrawal, R., Sumalatha, L., & Shankar, V. (2026). Cross Disease Similarity Awareness Learning (CDSAL) with DenseNet–EfficientNet embedding fusion for high-precision tomato leaf pathology classification with Grad-CAM explainability. Scientific Reports. [[paper](https://www.nature.com/articles/s41598-026-48099-w)].
+  
+  45. Xing, X., Gao, J., Qi, P., Wang, S., Wang, F., Peng, X., Fangyan, W., Hou, X., & Gao, J. (2026). A Lightweight Multi-View Detection and Counting Method for Real-Time Cherry Tomato Yield Estimation Using Greenhouse Inspection Robots. Smart Agricultural Technology, 102260. [[paper](https://www.sciencedirect.com/science/article/pii/S2772375526004843)].
+  
+  46. Guo, J., Zhang, B., Zhou, P., Xu, Y., Luo, S., Ji, J., Zhuo, Y., Xu, X., & Lin, L. (2026). A Digital Framework for Smart Greenhouse Tomato Cultivation. Smart Agricultural Technology, 101879. [[paper](https://www.sciencedirect.com/science/article/pii/S2772375526001036)].
   
   </details>
+  
+  <details>
+    <summary><strong>3. Entries excluded based on PRISMA</strong></summary>
+  
+  1. Ragavee, U., Oviya, R., & KR, N. (2025). *Renewable Energy-Driven IoT System for Automated Greenhouse Monitoring*. IEEE ICECIT 2025, pp. 1-6. — Reason: IoT monitoring system paper, not a classification-algorithm study retained in the final table. [[paper](https://ieeexplore.ieee.org/abstract/document/11450958)].
+  
+  2. Zimmermann, G. B., Pellenz, M. E., Costa, Y. M., & Britto Jr, A. D. S. (2025). *Enhancing Disease and Pest Detection in Greenhouse Tomato Cultivation Using Advanced Machine Learning on New Dataset of Images*. Journal of the Brazilian Computer Society, 31(1). — Reason: not referenced by any citation key in the final Classification table; original link also carried an exposed institutional access token and was not reused. [[paper](https://openurl.ebsco.com/EPDB%3Agcd%3A16%3A20183152/detailv2)].
+  
+  3. Parvez, S., Uddin, M. A., Islam, M. M., Bharman, P., & Talukder, M. A. (2025). *Tomato leaf disease detection using convolutional neural network*. In Applied Intelligence for Healthcare Informatics (pp. 42-55). CRC Press. — Reason: book chapter not selected as a primary study in the final table. [[paper](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003583363-4/tomato-leaf-disease-detection-using-convolutional-neural-network-shamima-parvez-md-ashraf-uddin-md-manowarul-islam-pallab-bharman-md-alamin-talukder)].
+  
+  4. Kiran, K., Gopal, L., Agarwal, V., Bansal, V., & Gupta, R. (2026). *CNN-Based Tomato Leaf Disease Detection for Sustainable Agriculture*. IEEE INDIACom 2026, pp. 1-6. — Reason: not referenced in the final Classification table. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11526549)].
+  
+  5. Xiang, J., Ge, J., Fu, C., Huang, J., Lu, M., Zhang, Z., et al. (2026). *An environment-guided visual–temporal deep learning framework for early disease detection in greenhouse horticultural crops*. Frontiers in Plant Science, 17, 1796407. — Reason: duplicated three times in the original README (entries 8, 43, 46) and not present in the final Classification table under any citation key. [[paper](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1796407/full)].
+  
+  6. Antony, A. J., & Murugan, R. (2026). *Transforming Agriculture with AI: Insights into Computer Vision Applications for Sustainable Farming*. IEEE IC-AIDA 2026, pp. 1-12. — Reason: broad opinion/insight paper, not a primary classification study. [[paper](https://ieeexplore.ieee.org/abstract/document/11564160)].
+  
+  7. Upadhyay, A., Chandel, N. S., Singh, K. P., Chakraborty, S. K., Nandede, B. M., Kumar, M., et al. (2025). *Deep learning and computer vision in plant disease detection: a comprehensive review of techniques, models, and trends in precision agriculture*. Artificial Intelligence Review, 58(3), 92. — Reason: survey/review article, not a primary study eligible for the table. [[paper](https://link.springer.com/article/10.1007/s10462-024-11100-x)].
+  
+  8. Swamy, L. N., Parande, P. V., Kumar, H. M., Rakshitha, V., Thimmaraju, S. N., & Yogesha, T. (2026). *Convolutional Neural Network Architectures for Enhanced Tomato Leaf Disease Classification using ResNet-152 and VGGNet Model*. Indian Journal of Agricultural Research, 60(1), 130-134. — Reason: not referenced in the final Classification table. [[paper](https://indianjournals.com/article/ijar2-60-1-019)].
+  
+  9. Jain, E., Kukreja, V., Kaushik, P., Ahuja, V., & Bansal, A. (2025). *Hybrid ViT-ResNet: A High-Accuracy AI Model for Automated Strawberry Ripeness Classification in Precision Agriculture*. Applied Fruit Science, 67(5), 368. — Reason: not referenced in the final table (distinct from the retained `Jain2025IoTDenseNet` entry). [[paper](https://link.springer.com/article/10.1007/s10341-025-01576-4)].
+  
+  10. Muthaiah, U., Reddy, Y. N., & Roy, R. V. (2026). *RESNET Based Crop Disease Detection Models Using Convolutional Neural Networks*. In Operations Research and Data Analytics (pp. 365-386). Springer Nature Singapore. — Reason: not referenced in the final Classification table. [[paper](https://link.springer.com/chapter/10.1007/978-981-96-8327-7_20)].
+  
+  11. Xue, X., Thakur, V., Dhumras, H., Jhaveri, R. H., & Gadekallu, T. R. (2025). *Real-Time Pest Detection Using ResNet-50 and Vision Transformer: An IoT-Enabled Mobile Application for Smart Agriculture*. IEEE Transactions on Consumer Electronics. — Reason: not referenced in the final Classification table. [[paper](https://ieeexplore.ieee.org/abstract/document/11127220)].
+  
+  12. Jain, S., & Rajpoot, R. (2025). *Real-Time Monitoring and Disease Detection in Greenhouses Using IoT and Deep Learning*. In Computational Intelligence Techniques for 5G Enabled IoT Networks (pp. 213-235). Springer. — Reason: duplicate entry (same reference kept once under `Jain2025IoTDenseNet` in the matched list). [[paper](https://link.springer.com/chapter/10.1007/978-3-031-82733-4_14)].
+  
+  13. Kavitha, K. (2025). *Deep Learning-Driven Computer Vision Techniques for Advancing Smart Greenhouse Agriculture*. IEEE ICSCN 2025, pp. 24-30. — Reason: duplicate entry (same reference kept once under (Kavitha et al, 2025) in the matched list). [[paper](https://ieeexplore.ieee.org/abstract/document/11308643)].
+  
+  14. Paymode, A. S., & Malode, V. B. (2022). *Transfer learning for multi-crop leaf disease image classification using convolutional neural network VGG*. Artificial Intelligence in Agriculture, 6, 23-33. — Reason: outside the review's 2024-onward search window; not referenced in the final table. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721721000416)].
+  
+  15. Ram, B. G., Howatt, K., Mettler, J., & Sun, X. (2025). *Addressing computation resource exhaustion associated with deep learning training of three-dimensional hyperspectral images using multiclass weed classification*. Artificial Intelligence in Agriculture, 15(2), 131-146. — Reason: duplicated three times in the original README (entries 44, 94, 97) and not referenced in the final Classification table. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721725000248)].
+  
+  16. Swapna, B., Kameswaran, S., & Ramakrishna, M. (2026). *Deep Learning in Plant Pest Control*. In Plant Genomic Prediction: AI-Enhanced Models for Plant Genomics and Crop Improvement (pp. 335-351). CABI. — Reason: book chapter overview, not a primary classification study. [[paper](https://www.cabidigitallibrary.org/doi/full/10.1079/9781836991328.0017)].
+  
+  17. Islam, M. S., Rahman, N., Mahmud, M. T., Naidu, A., Toha, M. A., Yasar, S., et al. (2026). *An Automated Approach for Classifying The Severity of Cucumber Diseases Using Deep Learning and Transfer Learning*. IEEE ICMI 2026, pp. 1-5. — Reason: not referenced in the final Classification table. [[paper](https://ieeexplore.ieee.org/abstract/document/11539878)].
+  
+  18. Sahu, S., & Verma, P. (2026). *UAV-based real-time detection of corn earworm using EfficientNet and machine learning*. Journal of Environmental Science and Health, Part B, 1-14. — Reason: open-field/UAV study, outside the review's greenhouse domain filter. [[paper](https://www.tandfonline.com/doi/full/10.1080/03601234.2026.2660035?scroll=top&needAccess=true)].
+  
+  19. Yang, Q., Lao, D., Wu, Y., Liu, C., Zhang, Z., Li, Z., et al. (2026). *Leaf thermal infrared imaging and lightweight deep learning enable early detection of water stress in watermelon for precision irrigation*. Agricultural Water Management, 329, 110344. — Reason: not referenced in the final Classification table. [[paper](https://www.sciencedirect.com/science/article/pii/S0378377426002258)].
+  
+  20. Nashrulloh, M. H., & Subarkah, A. (2025). *Fruit Image Classification Using CNN With EfficientNet Architecture for Visual Education*. Journal of Intelligent Systems Technology and Informatics, 1(2), 67-71. — Reason: educational-context study, not referenced in the final table. [[paper](https://journal.aptika.org/index.php/jistics/article/view/9)].
+  
+  21. Hasasneh, A., Ghannam, R., & Masri, S. (2025). *WeedNet-ViT: A Vision Transformer Approach for Robust Weed Classification in Smart Farming*. Geographies, 5(4), 64. — Reason: general open-field weed classification, not referenced in the final Classification table. [[paper](https://www.mdpi.com/2673-7086/5/4/64)].
+  
+  22. ÖZDEN, C. (2026). *Vision Transformer and CNN-Based Models for Image Analysis of Plant Diseases: An Approach for Agricultural Decision Support Systems*. ISPEC Journal of Agricultural Sciences. — Reason: not referenced in the final Classification table. [[paper](https://ispecjournal.com/index.php/ispecjas/article/view/915)].
+  
+  23. Lata, K., Kaur, N., & Singh, S. (2025). *Satellite-Based Crop Recognition Using Vision Transformer Models for Smart Agriculture*. Engineering Proceedings, 118(1), 34. — Reason: satellite/remote-sensing scope, outside the review's greenhouse robotics domain. [[paper](https://www.mdpi.com/2673-4591/118/1/34)].
+  
+  24. Cho, S. B., Choi, J. W., Hidayat, M. S., Cho, J. I., Lee, H., Cho, B. K., & Kim, G. (2025). *Development of a CNN classifier with XAI to detect interpretable water stress in sweet potato using RGB images*. Agricultural Water Management, 321, 109899. — Reason: not referenced in the final Classification table. [[paper](https://www.sciencedirect.com/science/article/pii/S0378377425006134)].
+  
+  25. Wu, Y., Dai, J., Zhu, Y., & Zhang, T. (2025). *Intelligent Agricultural Greenhouse Extraction Method Based on Multifeature Modeling: Fusion of Geometric, Spatial, and Spectral Characteristics*. IEEE JSTARS, 18, 5568-5581. — Reason: remote-sensing greenhouse-structure extraction, not a crop-level classification study. [[paper](https://ieeexplore.ieee.org/abstract/document/10858674)].
+  
+  26. Song, W., He, H., Dai, J., & Jia, G. (2025). *Extraction of agricultural plastic greenhouses based on a U-Net convolutional neural network coupled with edge expansion and loss function improvement*. Journal of the Air & Waste Management Association, 75(2), 109-120. — Reason: greenhouse-structure remote-sensing extraction, outside the crop-classification scope of the final table. [[paper](https://www.tandfonline.com/doi/full/10.1080/10962247.2024.2412708)].
+  
+  27. Das, A., Pathan, F., Jim, J. R., Kabir, M. M., & Mridha, M. F. (2025). *Deep learning-based classification, detection, and segmentation of tomato leaf diseases: A state-of-the-art review*. Artificial Intelligence in Agriculture, 15(2), 192-220. — Reason: survey/review article, not a primary study. [[paper](https://www.sciencedirect.com/science/article/pii/S258972172500025X)].
+  
+  28. Cheng, T., Zhang, D., Zhang, G., Wang, T., Ren, W., Yuan, F., et al. (2025). *High-throughput phenotyping techniques for forage: Status, bottleneck, and challenges*. Artificial Intelligence in Agriculture, 15(1), 98-115. — Reason: review article on forage phenotyping, outside the greenhouse-classification scope. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721725000029)].
+  
+  29. Gomez-Zamanillo, L., Bereciartua-Perez, A., Picon, A., Parra, L., Oldenbuerger, M., Navarra-Mestre, R., et al. (2025). *Digitalizing greenhouse trials: An automated approach for efficient and objective assessment of plant damage using deep learning*. Artificial Intelligence in Agriculture, 15(2), 280-295. — Reason: not referenced in the final Classification table. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721725000285)].
+  
+  30. Yang, Y., Chen, L., Diao, Z., Gao, P., Zhang, B., & Zhao, C. (2026). *Recent advances in crop pest detection, forecasting and early warning: A review*. Artificial Intelligence in Agriculture. — Reason: survey/review article, not a primary study. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721726000279)].
+  
+  31. Wiafe, E. K., Betitame, K., Ram, B. G., & Sun, X. (2025). *Technical study on the efficiency and models of weed control methods using unmanned ground vehicles: A review*. Artificial Intelligence in Agriculture, 15(4), 622-641. — Reason: review article on UGV weed control, outside the vision-classification scope of the final table. [[paper](https://www.sciencedirect.com/science/article/pii/S258972172500056X)].
+
+ </details>
+
 </details>
 <!-- ---------------------------------------------------------------------------------------------------------------------------- -->
 <!-- ----------------------------------------------------------Detección -------------------------------------------------------- -->
@@ -704,102 +669,94 @@ The foundational articles underpinning the most significant advances in vision t
 <details>
   <summary><strong>2. Articles on greenhouse farming</strong></summary>
 
- <!-- ----------------- PointNet -------------------- -->
-
-  1. Yang, X., Xu, C., Wang, Y., Feng, R., Yu, J., Su, Z., ... & Xu, T. (2025). PlaneSegNet: A deep learning network with plane attention for plant point cloud segmentation in agricultural environments. Artificial Intelligence in Agriculture. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721725000947)]
-
-  2. Yao, J., Wang, W., Fu, H., Deng, Z., Cui, G., Wang, S., Wang, D., Wei, S., & Cao, X. (2025). Automated measurement of field crop phenotypic traits using UAV 3D point clouds and an improved PointNet++. Frontiers in Plant Science, 16, 1654232. [[paper](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1654232/full)]
-
-  3. Fatima, Z., Zardari, S., & Tanveer, M. H. (2025). Bridging domain gaps in agricultural 3D point cloud classification using adversarial domain adaptation. Scientific Reports, 15(1), 41995. [[paper](https://www.nature.com/articles/s41598-025-26225-4)]
-
-  4. Yang, C., Sun, L., Zhang, J., Fan, X., Zhang, D., Ren, T., Liu, M., Zhang, Z., & Ma, W. (2025). Research on the quantification and automatic classification method of Chinese cabbage plant type based on point cloud data and PointNet++. Frontiers in Plant Science, 15, 1458962. [[paper](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1458962/full)]
-
-  5. Zhou, L., Xu, Y., Zhang, C., Zhang, X., Wu, Q., Bian, L., Elsherbiny, O., & Zhang, H. (2026). From pixels to points: An AI framework with weaker-and-fewer-labels for lightweight 3D phenotyping using 2D-3D coordinate mapping and VLMs. Artificial Intelligence in Agriculture. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721726000139)]
-
-  6. Cao, R., Jiang, Y., Suo, X., Du, M., Yang, G., Wang, W., Chen, Y., Gong, Y., He, Y., & Feng, X. Agripointr: Point cloud completion with geometry-aware transformers for crops with complex structures. Available at SSRN 6066357. [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6066357)]
-
-  7. Wang, P., Luo, W., Liu, J., Zhou, Y., Li, X., Zhao, S., Zhang, G., & Zhao, Y. (2025). Real-time semantic SLAM-based 3D reconstruction robot for greenhouse vegetables. Computers and Electronics in Agriculture, 237, 110582. [[paper](https://www.sciencedirect.com/science/article/pii/S016816992500688X)]
-
-  8. Tan, H., Wang, Z., Fu, H., Zhao, X., Zhang, Y., Yang, M., & Zhai, C. (2026). Precision pesticide application in greenhouse asparagus: A semantic segmentation approach for canopy-adapted variable-rate spraying. Smart Agricultural Technology, 102297. [[paper](https://www.sciencedirect.com/science/article/pii/S2772375526005228)]
-
-  9. Davarakis, D. T., Ren, Y., & Argyropoulos, D. (2025, June). Recent Developments of Machine Learning Combined 3D Reconstruction in Agricultural and Food Sectors. In 2025 6th International Conference in Electronic Engineering & Information Technology (EEITE) (pp. 1-10). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/11166193)]
-
-  10. Jiang, Y., Liu, Q., Lu, W., Zhou, B., Smoleňová, K., Tekinerdogan, B., & Yang, Q. (2025). Plant stem occlusion inpainting with deep reinforcement learning. Computers and Electronics in Agriculture, 237, 110465. [[paper](https://www.sciencedirect.com/science/article/pii/S016816992500571X)]
-
- <!-- ----------------- PointNet++ -------------------- -->
-
-  11. Zhang, H., Furuhashi, K., & Kaizu, Y. (2025). An Efficient and Low-Cost 3D Phenotyping Framework for Tomato Seedlings via Neural Radiance Fields and PointNet++. Smart Agricultural Technology, 101722. [[paper](https://www.sciencedirect.com/science/article/pii/S2772375525009530)]
-
-  12. Ma, B., Xia, H., Ge, Y., Zhang, H., Wu, Z., Li, M., & Wang, D. (2025). A Method for Identifying Picking Points in Safflower Point Clouds Based on an Improved PointNet++ Network. Agronomy, 15(5), 1125. [[paper](https://www.mdpi.com/2073-4395/15/5/1125)]
-
-  13. Yang, Y., Wijewardane, N. K., Slonecki, T. J., Wadl, P. A., Andreason, S. A., Chen, J., & Harvey, L. (2025). Nondestructive detection of sweet potato leaf curl virus using 3D laser imaging combined with deep learning. Smart Agricultural Technology, 11, 101004. [[paper](https://www.sciencedirect.com/science/article/pii/S2772375525002370)]
-
-  14. De Silva, R., Nazari, K., Moraru, I., Li, D., Sklar, E. I., Pearson, S., & Coutts, S. (2026). AgSentry: LiDAR reflectivity based obstacle detection for safety in agricultural environments. Smart Agricultural Technology, 102014. [[paper](https://www.sciencedirect.com/science/article/pii/S2772375526002376)]
-
-  15. Zhang, Q., Zhenxiang, W., Wu, W., Lizhang, X., Zhenghui, Z., & Shaowei, L. (2026). A Review of Crop Attribute Detection for Agricultural Harvesting Machinery. Agronomy, 16(10), 973. [[paper](https://www.proquest.com/docview/3345751240?pq-origsite=gscholar&fromopenview=true&sourcetype=Scholarly%20Journals)]
-      
-  16. Wei, Z., Long, J., Zhang, Z., Xue, X., Sun, Y., Li, Q., Liu, W., Shen, J., Zhang, Z., Li, X., & Ma, Z. (2025). Structure-aware completion of plant 3D LiDAR point clouds via a multi-resolution GAN-inversion network. Frontiers in Plant Science, 16, 1698843. [[paper](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1698843/full)]
-
-  17. Zhang, L., Huang, Z., Yang, Z., Yang, B., Yu, S., Zhao, S., Zhang, X., Li, X., Yang, H., Lin, Y., & Yu, H. (2025). Tomato stem and leaf segmentation and phenotype parameter extraction based on improved red billed blue magpie optimization algorithm. Agriculture, 15(2), 180. [[paper](https://www.mdpi.com/2077-0472/15/2/180)]
-
-  18. Gao, X., Gao, J., & Qureshi, W. A. (2025). Applications, trends, and challenges of precision weed control technologies based on deep learning and machine vision. Agronomy, 15(8), 1954. [[paper](https://www.mdpi.com/2073-4395/15/8/1954)]
-
-  19. Tai, H., Rao, C., Li, X., Li, H., & Li, C. (2025). Extracting rubber tree parameters and estimating carbon storage using airborne LiDAR. PLoS One, 20(8), e0330768. [[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0330768)]
-
-  20. Wang, Q., Chen, Y., Li, J., Chen, Y., & Wang, H. (2026). 3D semantic map reconstruction for orchard environments using multi-sensor fusion. Agriculture, 16(4), 455. [[paper](https://www.mdpi.com/2077-0472/16/4/455)]
-
-  21. Wang, T., Tong, R., Xu, T., Li, Y., & Chen, Y. (2025). Artificial intelligence in plant science: from image-based phenotyping to yield and trait prediction. Frontiers in Plant Science, 16, 1732979. [[paper](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1732979/full)]
-
-
- <!-- ----------------- DGCNN -------------------- -->
-
-  22. Fatima, Z., Zardari, S., & Tanveer, M. H. (2025). Bridging domain gaps in agricultural 3D point cloud classification using adversarial domain adaptation. Scientific Reports, 15(1), 41995. [[paper](https://www.nature.com/articles/s41598-025-26225-4)]
-
-  23. Pourdelan, H., Xiang, Z., Stewart, H., Nicholson, C., Tomko, M., & Khoshelham, K. (2026). Direct Estimation of Tree Volume and Aboveground Biomass Using Deep Regression with Synthetic Lidar Data. arXiv preprint arXiv:2603.04683. [[paper](https://arxiv.org/abs/2603.04683)]
-
-  24. Zhu, Q., & Yu, M. (2025). A Corn Point Cloud Stem-Leaf Segmentation Method Based on Octree Voxelization and Region Growing. Agronomy, 15(3), 740. [[paper](https://www.mdpi.com/2073-4395/15/3/740)]
-
-  25. Ma, S., Lu, X., & Zhang, L. (2025). TSINet: A Semantic and Instance Segmentation Network for 3D Tomato Plant Point Clouds. Applied Sciences, 15(15), 8406. [[aper](https://www.mdpi.com/2076-3417/15/15/8406)]
-
-  29. Yang, X., Shang, Z., Huang, H., Liu, C., Xu, T., & Miao, T. (2026). SMFCA-Net: Sparse Multi-Frequency Cross-Attention Network for Single-Plant Point Cloud Classification and Segmentation. IEEE Transactions on Geoscience and Remote Sensing. [[paper](https://ieeexplore.ieee.org/abstract/document/11381999)]
-
-  30. Zhao, W., Chen, Z., Liu, D., Yang, H., & Zhao, J. (2026, March). HTMNet: A Hybrid Transformer and Mamba Network for 3D Segmentation of Brassica rapa. In 2026 9th International Conference on Advanced Electronic Technology, Computers and Software Engineering (AETCSE) (pp. 859-863). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/11504061)]
-
-
- <!-- ----------------- KPCpnv -------------------- -->
-
-  31. Seo, B. H., Lee, S., Lee, J. H., Seo, Y., Kim, D., Jo, Y., Lee, J., & Choi, W. (2026). Semantic segmentation of plastic greenhouse frames and its application to finite element model reconstruction for structural response assessment. Computers and Electronics in Agriculture, 240, 111184. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169925012906)]
-
-  32. Du, R., Zhai, G., Qiu, T., & Jiang, Y. (2025). Towards scalable organ level 3D plant segmentation: Bridging the data algorithm computing gap. arXiv preprint arXiv:2509.06329. [[paper](https://arxiv.org/abs/2509.06329)]
-
- <!-- ----------------- Point Tranformers -------------------- -->
-
-  33. Xu, J., Liu, H., & Shen, Y. (2025). Image and Point Cloud-Based Neural Network Models and Applications in Agricultural Nursery Plant Protection Tasks. Agronomy, 15(9), 2147. [[paper](https://scholar.google.es/scholar?hl=es&as_sdt=0%2C5&as_ylo=2025&authuser=2&q=Point+Tranformers+CNN+LiDAR+greenhouse+agriculture&btnG=)]
-
-  34. Saki, M., Keshavarz, R., Franklin, D., Abolhasan, M., Lipman, J., & Shariati, N. (2025). A Data-Driven review of remote Sensing-Based data fusion in precision agriculture from foundational to Transformer-Based techniques. IEEE Access. [[paper](https://ieeexplore.ieee.org/abstract/document/11165307)]
-
-  35. Manoj, M., Balaji, E., Lokesh, A., Bharathi, V., Devi, T. N., Manikandan, R., ... & Anand, A. V. (2026). Deep Learning for Real-Time Plant Monitoring Systems. In Deep Learning in Plant Science and Agricultural Biotechnology (pp. 239-269). GB: CABI. [[paper](https://www.cabidigitallibrary.org/doi/full/10.1079/9781836991120.0013)]
-
-  36. Gao, Y., Zhu, B., & Song, K. (2026). An Overview of Remote Sensing of Agricultural Greenhouses: Advances and Perspectives. Chinese Geographical Science, 36(2), 171-190. [[paper](https://link.springer.com/article/10.1007/s11769-026-1607-9)]
-
-
- <!-- ----------------- PointNet 2º round -------------------- -->
-
-  37. Li, Z., Wang, R., & Ding, R. (2025). A review of crop attribute monitoring technologies for general agricultural scenarios. AgriEngineering, 7(11), 365. [[paper](https://www.mdpi.com/2624-7402/7/11/365)]
-
-  38. Qiao, G., Zhang, Z., Niu, B., Han, S., & Yang, E. (2025). segmentation and phenotypic parameter extraction using. Advanced Methods, Equipment and Platforms in Precision Field Crops Protection, volume II. [[paper](https://books.google.es/books?hl=es&lr=&id=yAGVEQAAQBAJ&oi=fnd&pg=PA146&dq=Pointnext+CNN+LiDAR+greenhouse+agriculture&ots=sdBkOEL2EB&sig=XnBYGZ8VDXe-RL092tAZSFc0E6U#v=onepage&q&f=false)]
-
-  39. Chu, P., Han, B., Guo, Q., Wan, Y., & Zhang, J. (2025). A three-dimensional phenotype extraction method based on point cloud segmentation for all-period cotton multiple organs. Plants, 14(11), 1578. [[paper](https://www.mdpi.com/2223-7747/14/11/1578)]
-
-  40. Sánchez-Molina, J. A., Rodríguez, F., Moreno, J. C., Sánchez-Hermosilla, J., & Giménez, A. (2024). Robotics in greenhouses. Scoping review. Computers and Electronics in Agriculture, 219, 108750. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169924001418)]
+  1. Yang, X., Xu, C., Wang, Y., Feng, R., Yu, J., Su, Z., et al. (2025). PlaneSegNet: A deep learning network with plane attention for plant point cloud segmentation in agricultural environments. Artificial Intelligence in Agriculture. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721725000947)].
   
-  41. Xu, J., Gu, B., & Tian, G. (2022). Review of agricultural IoT technology. Artificial Intelligence in Agriculture, 6, 10-22. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721722000010)]
+  2. Yang, C., Sun, L., Zhang, J., Fan, X., Zhang, D., Ren, T., Liu, M., Zhang, Z., & Ma, W. (2025). Research on the quantification and automatic classification method of Chinese cabbage plant type based on point cloud data and PointNet++. Frontiers in Plant Science, 15, 1458962. [[paper](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1458962/full)].
+  
+  3. Zhang, H., Furuhashi, K., & Kaizu, Y. (2025). An Efficient and Low-Cost 3D Phenotyping Framework for Tomato Seedlings via Neural Radiance Fields and PointNet++. Smart Agricultural Technology, 101722. [[paper](https://www.sciencedirect.com/science/article/pii/S2772375525009530)].
+  
+  4. Ma, B., Xia, H., Ge, Y., Zhang, H., Wu, Z., Li, M., & Wang, D. (2025). A Method for Identifying Picking Points in Safflower Point Clouds Based on an Improved PointNet++ Network. Agronomy, 15(5), 1125. [[paper](https://www.mdpi.com/2073-4395/15/5/1125)].
+  
+  5. Cao, R., Jiang, Y., Suo, X., Du, M., Yang, G., Wang, W., Chen, Y., Gong, Y., He, Y., & Feng, X. AgriPointr: Point cloud completion with geometry-aware transformers for crops with complex structures. SSRN 6066357. [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6066357)].
+  
+  6. Wang, P., Luo, W., Liu, J., Zhou, Y., Li, X., Zhao, S., Zhang, G., & Zhao, Y. (2025). Real-time semantic SLAM-based 3D reconstruction robot for greenhouse vegetables. Computers and Electronics in Agriculture, 237, 110582. [[paper](https://www.sciencedirect.com/science/article/pii/S016816992500688X)].
+  
+  7. Wei, Z., Long, J., Zhang, Z., Xue, X., Sun, Y., Li, Q., Liu, W., Shen, J., Zhang, Z., Li, X., & Ma, Z. (2025). Structure-aware completion of plant 3D LiDAR point clouds via a multi-resolution GAN-inversion network. Frontiers in Plant Science, 16, 1698843. [[paper](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1698843/full)].
+  
+  8. Ma, S., Lu, X., & Zhang, L. (2025). TSINet: A Semantic and Instance Segmentation Network for 3D Tomato Plant Point Clouds. Applied Sciences, 15(15), 8406. [[paper](https://www.mdpi.com/2076-3417/15/15/8406)].
+  
+  9. Du, R., Zhai, G., Qiu, T., & Jiang, Y. (2025). Towards scalable organ level 3D plant segmentation: Bridging the data algorithm computing gap. arXiv preprint arXiv:2509.06329. [[paper](https://arxiv.org/abs/2509.06329)].
+  
+  10. Xu, J., Liu, H., & Shen, Y. (2025). Image and Point Cloud-Based Neural Network Models and Applications in Agricultural Nursery Plant Protection Tasks. Agronomy, 15(9), 2147. [[paper — ⚠️ original README link is a Google Scholar search query, not a direct article link; replace with the MDPI/DOI link before publishing]].
+  
+  11. Wang, F., Zhu, T., Huang, L., Feng, C., Lu, X., Min, W., et al. (2026). VGDS-PointNet++ for organ segmentation and phenotypic trait estimation in greenhouse tomato seedlings. Frontiers in Plant Science, 17, 1753706. [[paper](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1753706/full)].
+  
+  12. Yang, X., Shang, Z., Huang, H., Liu, C., Xu, T., & Miao, T. (2026). SMFCA-Net: Sparse Multi-Frequency Cross-Attention Network for Single-Plant Point Cloud Classification and Segmentation. IEEE Transactions on Geoscience and Remote Sensing. [[paper](https://ieeexplore.ieee.org/abstract/document/11381999)].
+  
+  13. Zhao, W., Chen, Z., Liu, D., Yang, H., & Zhao, J. (2026). HTMNet: A Hybrid Transformer and Mamba Network for 3D Segmentation of Brassica rapa. IEEE AETCSE 2026, pp. 859-863. [[paper](https://ieeexplore.ieee.org/abstract/document/11504061)].
+  
+  14. Seo, B. H., Lee, S., Lee, J. H., Seo, Y., Kim, D., Jo, Y., Lee, J., & Choi, W. (2026). Semantic segmentation of plastic greenhouse frames and its application to finite element model reconstruction for structural response assessment. Computers and Electronics in Agriculture, 240, 111184. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169925012906)].
+  
+  15. De Silva, R., Nazari, K., Moraru, I., Li, D., Sklar, E. I., Pearson, S., & Coutts, S. (2026). AgSentry: LiDAR reflectivity based obstacle detection for safety in agricultural environments. Smart Agricultural Technology, 102014. [[paper](https://www.sciencedirect.com/science/article/pii/S2772375526002376)].
 
-  43. Wang, F., Zhu, T., Huang, L., Feng, C., Lu, X., Min, W., ... & Nie, Y. (2026). VGDS-PointNet++ for organ segmentation and phenotypic trait estimation in greenhouse tomato seedlings. Frontiers in Plant Science, 17, 1753706. [[paper](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1753706/full)]
 
-  44. Zhong, B., Yang, L., Lu, J., & Xu, S. (2026). 3D Point Cloud Segmentation Algorithm Based on Deep Learning and Its Application in Phenotype Detection. IET Image Processing, 20(1), e70405. [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.70405)]
+  </details>
+
+<details>
+  <summary><strong>3. Entries excluded based on PRISMA</strong></summary>
+
+  1. Yao, J., Wang, W., Fu, H., Deng, Z., Cui, G., Wang, S., Wang, D., Wei, S., & Cao, X. (2025). Automated measurement of field crop phenotypic traits using UAV 3D point clouds and an improved PointNet++. Frontiers in Plant Science, 16, 1654232. — Reason: UAV/open-field phenotyping study, outside the review's greenhouse robotics domain. [[paper](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1654232/full)].
+  
+  2. Fatima, Z., Zardari, S., & Tanveer, M. H. (2025). Bridging domain gaps in agricultural 3D point cloud classification using adversarial domain adaptation. Scientific Reports, 15(1), 41995. — Reason: duplicated twice in the original README (entries 3 and 22) and not referenced in the final Classification table. [[paper](https://www.nature.com/articles/s41598-025-26225-4)].
+  
+  3. Zhou, L., Xu, Y., Zhang, C., Zhang, X., Wu, Q., Bian, L., Elsherbiny, O., & Zhang, H. (2026). From pixels to points: An AI framework with weaker-and-fewer-labels for lightweight 3D phenotyping using 2D-3D coordinate mapping and VLMs. Artificial Intelligence in Agriculture. — Reason: not referenced in the final Classification table. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721726000139)].
+  
+  4. Tan, H., Wang, Z., Fu, H., Zhao, X., Zhang, Y., Yang, M., & Zhai, C. (2026). Precision pesticide application in greenhouse asparagus: A semantic segmentation approach for canopy-adapted variable-rate spraying. Smart Agricultural Technology, 102297. — Reason: spraying-application study, not referenced by any Classification citation key. [[paper](https://www.sciencedirect.com/science/article/pii/S2772375526005228)].
+  
+  5. Davarakis, D. T., Ren, Y., & Argyropoulos, D. (2025). Recent Developments of Machine Learning Combined 3D Reconstruction in Agricultural and Food Sectors. IEEE EEITE 2025, pp. 1-10. — Reason: survey/overview paper, not a primary study. [[paper](https://ieeexplore.ieee.org/abstract/document/11166193)].
+  
+  6. Jiang, Y., Liu, Q., Lu, W., Zhou, B., Smoleňová, K., Tekinerdogan, B., & Yang, Q. (2025). Plant stem occlusion inpainting with deep reinforcement learning. Computers and Electronics in Agriculture, 237, 110465. — Reason: not referenced in the final Classification table. [[paper](https://www.sciencedirect.com/science/article/pii/S016816992500571X)].
+  
+  7. Yang, Y., Wijewardane, N. K., Slonecki, T. J., Wadl, P. A., Andreason, S. A., Chen, J., & Harvey, L. (2025). Nondestructive detection of sweet potato leaf curl virus using 3D laser imaging combined with deep learning. Smart Agricultural Technology, 11, 101004. — Reason: not referenced in the final Classification table. [[paper](https://www.sciencedirect.com/science/article/pii/S2772375525002370)].
+  
+  8. Zhang, Q., Zhenxiang, W., Wu, W., Lizhang, X., Zhenghui, Z., & Shaowei, L. (2026). A Review of Crop Attribute Detection for Agricultural Harvesting Machinery. Agronomy, 16(10), 973. — Reason: survey/review article, not a primary study. [[paper](https://www.proquest.com/docview/3345751240)].
+  
+  9. Zhang, L., Huang, Z., Yang, Z., Yang, B., Yu, S., Zhao, S., Zhang, X., Li, X., Yang, H., Lin, Y., & Yu, H. (2025). Tomato stem and leaf segmentation and phenotype parameter extraction based on improved red billed blue magpie optimization algorithm. Agriculture, 15(2), 180. — Reason: not referenced in the final Classification table. [[paper](https://www.mdpi.com/2077-0472/15/2/180)].
+  
+  10. Gao, X., Gao, J., & Qureshi, W. A. (2025). Applications, trends, and challenges of precision weed control technologies based on deep learning and machine vision. Agronomy, 15(8), 1954. — Reason: survey/review article on weed-control technology. [[paper](https://www.mdpi.com/2073-4395/15/8/1954)].
+  
+  11. Tai, H., Rao, C., Li, X., Li, H., & Li, C. (2025). Extracting rubber tree parameters and estimating carbon storage using airborne LiDAR. PLoS One, 20(8), e0330768. — Reason: outdoor/airborne forestry application, outside the greenhouse robotics domain. [[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0330768)].
+  
+  12. Wang, Q., Chen, Y., Li, J., Chen, Y., & Wang, H. (2026). 3D semantic map reconstruction for orchard environments using multi-sensor fusion. Agriculture, 16(4), 455. — Reason: orchard/open-field environment, outside the review's greenhouse domain filter. [[paper](https://www.mdpi.com/2077-0472/16/4/455)].
+  
+  13. Wang, T., Tong, R., Xu, T., Li, Y., & Chen, Y. (2025). Artificial intelligence in plant science: from image-based phenotyping to yield and trait prediction. Frontiers in Plant Science, 16, 1732979. — Reason: broad survey/review article, not a primary study. [[paper](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1732979/full)].
+  
+  14. Pourdelan, H., Xiang, Z., Stewart, H., Nicholson, C., Tomko, M., & Khoshelham, K. (2026). Direct Estimation of Tree Volume and Aboveground Biomass Using Deep Regression with Synthetic Lidar Data. arXiv preprint arXiv:2603.04683. — Reason: forestry/outdoor biomass-estimation study, outside the greenhouse robotics domain. [[paper](https://arxiv.org/abs/2603.04683)].
+  
+  15. Zhu, Q., & Yu, M. (2025). A Corn Point Cloud Stem-Leaf Segmentation Method Based on Octree Voxelization and Region Growing. Agronomy, 15(3), 740. — Reason: not referenced in the final Classification table. [[paper](https://www.mdpi.com/2073-4395/15/3/740)].
+  
+  16. Saki, M., Keshavarz, R., Franklin, D., Abolhasan, M., Lipman, J., & Shariati, N. (2025). A Data-Driven review of remote Sensing-Based data fusion in precision agriculture from foundational to Transformer-Based techniques. IEEE Access. — Reason: survey/review article. [[paper](https://ieeexplore.ieee.org/abstract/document/11165307)].
+  
+  17. Manoj, M., Balaji, E., Lokesh, A., Bharathi, V., Devi, T. N., Manikandan, R., et al. (2026). Deep Learning for Real-Time Plant Monitoring Systems. In Deep Learning in Plant Science and Agricultural Biotechnology (pp. 239-269). CABI. — Reason: book-chapter overview, not referenced in the final Classification table. [[paper](https://www.cabidigitallibrary.org/doi/full/10.1079/9781836991120.0013)].
+  
+  18. Gao, Y., Zhu, B., & Song, K. (2026). An Overview of Remote Sensing of Agricultural Greenhouses: Advances and Perspectives. Chinese Geographical Science, 36(2), 171-190. — Reason: remote-sensing overview article, not a primary classification study. [[paper](https://link.springer.com/article/10.1007/s11769-026-1607-9)].
+  
+  19. Li, Z., Wang, R., & Ding, R. (2025). A review of crop attribute monitoring technologies for general agricultural scenarios. AgriEngineering, 7(11), 365. — Reason: survey/review article. [[paper](https://www.mdpi.com/2624-7402/7/11/365)].
+  
+  20. Qiao, G., Zhang, Z., Niu, B., Han, S., & Yang, E. (2025). Segmentation and phenotypic parameter extraction using PointNeXt. In Advanced Methods, Equipment and Platforms in Precision Field Crops Protection, Vol. II. — Reason: not referenced in the final Classification table. [[paper](https://books.google.es/books?hl=es&lr=&id=yAGVEQAAQBAJ&oi=fnd&pg=PA146&dq=Pointnext+CNN+LiDAR+greenhouse+agriculture&ots=sdBkOEL2EB&sig=XnBYGZ8VDXe-RL092tAZSFc0E6U)].
+  
+  21. Chu, P., Han, B., Guo, Q., Wan, Y., & Zhang, J. (2025). A three-dimensional phenotype extraction method based on point cloud segmentation for all-period cotton multiple organs. Plants, 14(11), 1578. — Reason: not referenced in the final Classification table. [[paper](https://www.mdpi.com/2223-7747/14/11/1578)].
+  
+  22. Sánchez-Molina, J. A., Rodríguez, F., Moreno, J. C., Sánchez-Hermosilla, J., & Giménez, A. (2024). Robotics in greenhouses. Scoping review. Computers and Electronics in Agriculture, 219, 108750. — Reason: scoping-review article, not a primary study. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169924001418)].
+  
+  23. Xu, J., Gu, B., & Tian, G. (2022). Review of agricultural IoT technology. Artificial Intelligence in Agriculture, 6, 10-22. — Reason: review article and outside the review's 2024-onward search window. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721722000010)].
+  
+  24. Zhong, B., Yang, L., Lu, J., & Xu, S. (2026). 3D Point Cloud Segmentation Algorithm Based on Deep Learning and Its Application in Phenotype Detection. IET Image Processing, 20(1), e70405. — Reason: not referenced in the final Classification table. [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.70405)].
 
 </details>
+
+
+  
 </details>
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------- -->
