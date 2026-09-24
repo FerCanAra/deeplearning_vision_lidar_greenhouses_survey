@@ -238,186 +238,172 @@ The foundational articles underpinning the most significant advances in vision t
 <details>
   <summary><strong>1. Articles on mathematical foundations</strong></summary>
 
-  8. Girshick, R., Donahue, J., Darrell, T., & Malik, J. (2014). _Rich feature hierarchies for accurate object detection and semantic segmentation (R-CNN)_. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 580-587). [[paper](https://openaccess.thecvf.com/content_cvpr_2014/html/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.html)].
+  1. Girshick, R., Donahue, J., Darrell, T., & Malik, J. (2014). _Rich feature hierarchies for accurate object detection and semantic segmentation (R-CNN)_. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 580-587). [[paper](https://openaccess.thecvf.com/content_cvpr_2014/html/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.html)].
   
-  9. Girshick, R. (2015). _Fast r-cnn_. In Proceedings of the IEEE international conference on computer vision (pp. 1440-1448). [[paper](https://openaccess.thecvf.com/content_iccv_2015/html/Girshick_Fast_R-CNN_ICCV_2015_paper.html)].
+  2. Girshick, R. (2015). _Fast r-cnn_. In Proceedings of the IEEE international conference on computer vision (pp. 1440-1448). [[paper](https://openaccess.thecvf.com/content_iccv_2015/html/Girshick_Fast_R-CNN_ICCV_2015_paper.html)].
 
-  10. Ren, S., He, K., Girshick, R., & Sun, J. (2015). _Faster r-cnn: Towards real-time object detection with region proposal networks_. Advances in neural information processing systems, 28. [[paper](https://proceedings.neurips.cc/paper/2015/hash/14bfa6bb14875e45bba028a21ed38046-Abstract.html)].
+  3. Ren, S., He, K., Girshick, R., & Sun, J. (2015). _Faster r-cnn: Towards real-time object detection with region proposal networks_. Advances in neural information processing systems, 28. [[paper](https://proceedings.neurips.cc/paper/2015/hash/14bfa6bb14875e45bba028a21ed38046-Abstract.html)].
 
-  11. Redmon, J., Divvala, S., Girshick, R., & Farhadi, A. (2016). _You only look once: Unified, real-time object detection (YOLO)_. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 779-788). [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Redmon_You_Only_Look_CVPR_2016_paper.html)] 
+  4. Redmon, J., Divvala, S., Girshick, R., & Farhadi, A. (2016). _You only look once: Unified, real-time object detection (YOLO)_. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 779-788). [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Redmon_You_Only_Look_CVPR_2016_paper.html)] 
 
-  12. Liu, W., Anguelov, D., Erhan, D., Szegedy, C., Reed, S., Fu, C. Y., & Berg, A. C. (2016). SSD: Single shot multibox detector. In European conference on computer vision (pp. 21-37). Cham: Springer International Publishing. [[paper](https://link.springer.com/chapter/10.1007/978-3-319-46448-0_2)].
+  5. Liu, W., Anguelov, D., Erhan, D., Szegedy, C., Reed, S., Fu, C. Y., & Berg, A. C. (2016). SSD: Single shot multibox detector. In European conference on computer vision (pp. 21-37). Cham: Springer International Publishing. [[paper](https://link.springer.com/chapter/10.1007/978-3-319-46448-0_2)].
 
- 13. Lin, T. Y., Goyal, P., Girshick, R., He, K., & Dollár, P. (2017). _Focal loss for dense object detection (RetinaNet)_. In Proceedings of the IEEE international conference on computer vision (pp. 2980-2988). [[paper](https://openaccess.thecvf.com/content_iccv_2017/html/Lin_Focal_Loss_for_ICCV_2017_paper.html)].
+ 6. Lin, T. Y., Goyal, P., Girshick, R., He, K., & Dollár, P. (2017). _Focal loss for dense object detection (RetinaNet)_. In Proceedings of the IEEE international conference on computer vision (pp. 2980-2988). [[paper](https://openaccess.thecvf.com/content_iccv_2017/html/Lin_Focal_Loss_for_ICCV_2017_paper.html)].
 
-  14. Carion, N., Massa, F., Synnaeve, G., Usunier, N., Kirillov, A., & Zagoruyko, S. (2020). _End-to-end object detection with transformers (DETR)_. In European conference on computer vision (pp. 213-229). Cham: Springer International Publishing. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_13)].
+  7. Carion, N., Massa, F., Synnaeve, G., Usunier, N., Kirillov, A., & Zagoruyko, S. (2020). _End-to-end object detection with transformers (DETR)_. In European conference on computer vision (pp. 213-229). Cham: Springer International Publishing. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_13)].
 
-  15. He, K., Gkioxari, G., Dollár, P., & Girshick, R. (2017). _Mask R-CNN_. In Proceedings of the IEEE international conference on computer vision (pp. 2961-2969). [[paper](https://openaccess.thecvf.com/content_iccv_2017/html/He_Mask_R-CNN_ICCV_2017_paper.html)].
+  8. He, K., Gkioxari, G., Dollár, P., & Girshick, R. (2017). _Mask R-CNN_. In Proceedings of the IEEE international conference on computer vision (pp. 2961-2969). [[paper](https://openaccess.thecvf.com/content_iccv_2017/html/He_Mask_R-CNN_ICCV_2017_paper.html)].
 
 </details>
 <details>
   <summary><strong>2. Articles on greenhouse farming</strong></summary>
 
-<!-- ----------------- R-CNN -------------------- -->
-
-  100. Ghantasala, G. P., Dasari, S., Kumar, P. P., Suman, B., Kumar, A. R., Reddy, A., & Vidyullatha, P. (2026). DEEP LEARNING FRAMEWORK FOR MULTI-CLASS TOMATO LEAF DISEASE DETECTION FROM SEGMENTED IMAGES. Genetics and Molecular Research. [[paper](https://geneticsmr.com/index.php/gmr/article/view/1672)]
-
-  102. Gao, Y., Yin, F., Hong, C., Chen, X., Deng, H., Liu, Y., Li, Y., & Yao, Q. (2025). Intelligent field monitoring system for cruciferous vegetable pests using yellow sticky board images and an improved Cascade R-CNN. Journal of Integrative Agriculture, 24(1), 220-234. [[paper](https://www.sciencedirect.com/science/article/pii/S2095311924002405)]
-
-  103. Kavitha, K. (2025, October). Deep Learning-Driven Computer Vision Techniques for Advancing Smart Greenhouse Agriculture. In 2025 International Conference on Sustainable Communication Networks and Application (ICSCN) (pp. 24-30). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/11308643)]
-
-  104. Ahmad, A., Lloret, J., Parra, L., Sendra, S., & Di Gioia, F. (2026). Comparative Analysis of R-CNN and YOLOv8 Segmentation Features for Tomato Ripening Stage Classification and Quality Estimation. Horticulturae, 12(2), 127. [[paper](https://www.mdpi.com/2311-7524/12/2/127)]
-
-  105. Xu, S. S. D., Wedajew, G. N., Ku, C. M., Chiu, C. C., & Yusuf, S. H. (2026). An Improved Sparse R-CNN Approach for Strawberry Disease Detection. Digital Signal Processing, 106212. [[paper](https://www.sciencedirect.com/science/article/pii/S1051200426003313)]
-
-  106. Tamrakar, N., Paudel, B., Karki, S., Deb, N. C., Arulmozhi, E., Kook, J. H., ... & Kim, H. T. (2025). Peduncle Detection of Ripe Strawberry to Localize Picking Point Using DF-Mask R-CNN and Monocular Depth. IEEE Access. [[paper](https://ieeexplore.ieee.org/abstract/document/10976681)]
-
-  107. Donohoe, S. P., Alege, F. P., & Delhom, C. D. (2026). Toward multi-class detection and localization of contamination in cotton fields: Comparing EfficientDet, Faster R-CNN ResNet50, SSD MobileNet V2, and YOLOv11. Computers and Electronics in Agriculture, 247, 111690. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169926002851)]
-
-  108. Huang, L., Li, H., Yang, H., Fu, C., Zhang, Y., & Chang, F. (2026). Research on real-time target detection algorithm for strawberry-picking robot based on improved YOLOv5. Journal of Food Measurement and Characterization, 20(1), 847-868. [[paper](https://link.springer.com/article/10.1007/s11694-025-03703-x)]
-
-  109. Rajagopal, S., & Venkatasubramaniam, K. (2025, February). Freshness Grading of Tomato Using Fast R-CNN. In 2025 International Conference on Innovative Trends in Information Technology (ICITIIT) (pp. 1-6). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/11041523)]
-
-  110. Amir, A., Giri, S., Giri, S., & Butt, M. (2025). An advanced approach to tomato apex head thickness measurement using lightweight YOLO variants, faster RCNN, and RGB-depth sensor. Smart Agricultural Technology, 101214. [[paper](https://www.sciencedirect.com/science/article/pii/S2772375525004459)]
-
-  111. Xu, S. S. D., Wedajew, G. N., Ku, C. M., Chiu, C. C., & Yusuf, S. H. (2026). An Improved Sparse R-CNN Approach for Strawberry Disease Detection. Digital Signal Processing, 106212. [[paper](https://www.sciencedirect.com/science/article/pii/S1051200426003313)]
-
-<!-- ----------------- Fast R-CNN -------------------- -->
-
-  112. Bashir, A., Wang, Y., Ojo, M. O., & Zahid, A. (2025). A Vision System for Occluded Cutting Point Localization in Robotic Harvesting of Greenhouse Lettuce. IEEE Transactions on AgriFood Electronics. [[paper](https://ieeexplore.ieee.org/abstract/document/11219194)]
-
-  113. Nan, Y., Zhang, H., Zheng, J., & Yang, K. (2025). Pitaya detection using an improved lightweight Faster R-CNN based on MobileNetV3 in densely planted pitaya orchards. Journal of Agricultural Engineering, 56(4). [[paper](https://www.agroengineering.org/jae/article/view/1886)]
-
-  114. Bilal, M., Shah, A. A., Abbas, S., & Khan, M. A. (2025). High‐Performance Deep Learning for Instant Pest and Disease Detection in Precision Agriculture. Food Science & Nutrition, 13(9), e70963. [[paper](https://onlinelibrary.wiley.com/doi/full/10.1002/fsn3.70963)]
-
-  115. Alfred, R., Leo, J., & Kaijage, S. F. (2025). Detectron2-enhanced mask R-CNN for precise instance segmentation of rice blast disease in Tanzania: Supporting timely intervention and data-driven severity assessment. Smart Agricultural Technology, 101301. [[paper](https://www.sciencedirect.com/science/article/pii/S2772375525005325)]
-
-  116. Daraghmi, Y. A., Naser, W., Daraghmi, E. Y., & Fouchal, H. (2025). Drone-Assisted Plant Stress Detection Using Deep Learning: A Comparative Study of YOLOv8, RetinaNet, and Faster R-CNN. AgriEngineering, 7(8), 257. [[paper](https://www.mdpi.com/2624-7402/7/8/257)]
-
-<!-- ----------------- Faster R-CNN -------------------- -->
-
-  117. Arik, K., & Ağgül, B. (2026). Reproducible Benchmarking of Tomato Detection in Greenhouse: Comparing Attention-Augmented and Baseline Detectors. AgriEngineering. [[paper](https://www.researchgate.net/profile/Burak-Agguel/publication/408501666_Reproducible_Benchmarking_of_Tomato_Detection_in_Greenhouse_Comparing_Attention-Augmented_and_Baseline_Detectors/links/6a4ce65a1681584dea2d5b7c/Reproducible-Benchmarking-of-Tomato-Detection-in-Greenhouse-Comparing-Attention-Augmented-and-Baseline-Detectors.pdf)]
-
-  118. Restrepo-Arias, J. F., Montoya-Castaño, M. J., Moreno-De La Espriella, M. F., & Branch-Bedoya, J. W. (2025). An Application of Deep Learning Models for the Detection of Cocoa Pods at Different Ripening Stages: An Approach with Faster R-CNN and Mask R-CNN. Computation, 13(7), 159. [[paper](https://www.mdpi.com/2079-3197/13/7/159)]
-
-<!-- ----------------- YOLO -------------------- -->
-
-  119. Zhang, J., Guo, J., Zhao, C., Li, W., & Yuan, T. (2026). LeafRemoval-YOLO-K: A hybrid visual recognition network for stem-petiole segmentation and cutting point localization in tomato plants. Computers and Electronics in Agriculture, 246, 111485. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169926000803)]
-
-  120. Ali, A. S., Narayan, J., Shukla, A., & Shree, R. (2026). Enhancing precision farming with YOLO models for real-time growth detection of basil plants. Environmental Sustainability, 1-11. [[paper](https://link.springer.com/article/10.1007/s42398-026-00454-3)]
-
-  121. Jia, W., Lin, S., Wei, Z., Tian, B., Meng, X., & Zhang, Y. (2026). Research on Intelligent Identification Method for Nitrogen Content in Greenhouse Cucumber Leaves Integrating YOLOv11n Segmentation and Machine Learning. Agriculture, 16(13), 1376. [[paper](https://www.mdpi.com/2077-0472/16/13/1376)]
-
-  122. Singh, R., Kaur, M., Alirezaee, S., & Hussain, I. (2026). YOLO26-RipeLoc Lite: A lightweight architecture for tomato ripeness detection and picking point localization in greenhouse robotic harvesting. arXiv preprint arXiv:2605.27129. [[paper](https://arxiv.org/abs/2605.27129)]
-
-  123. Moni, M. A., Chaitee, A. S., Tanvir, K. M., Rahman, M. A., Banik, S., & Habib, M. T. (2026, January). Machine vision-based pepper breed classification Using yolov10 and transfer learning models. In 2026 6th International Conference on Image Processing and Capsule Networks (ICIPCN) (pp. 544-549). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/11438307)] 
+  1. Zhang, X., Zhang, G., Wang, J., Yang, J., Ge, Q., Zhao, R., & Yang, W. (2025). Efficient instance segmentation for strawberry in greenhouses using YOLOv8n-MCP on edge devices. Information Processing in Agriculture. [[paper](https://www.sciencedirect.com/science/article/pii/S2214317325000344)].
   
-  124. Liu, Y., Wang, H., Wu, H., Xu, M., Yuan, G., Yan, R., & Zou, J. A Hybrid YOLO–EfficientNet Architecture for Multi-Task Recognition of Pests and Diseases in Greenhouse Crops. Available at SSRN 5939218. [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5939218)]
-
-  125. Zhao, B., Zheng, D., Yang, C., Jomartova, S., Sonza, R., Mansurova, M., & Liu, H. (2026). DTBi-YOLOv8-seg: A dual-backbone deep learning framework for automated tomato ripeness detection in greenhouse environments. Scientia Horticulturae, 361, 114855. [[paper](https://www.sciencedirect.com/science/article/pii/S0304423826002487)]
-
-  126. Kuang, M., Wang, Y., Li, X., Zou, X., Liu, D., Xiang, Y., Bader, S., Cie, F., Zhang, Y., & Li, X. (2026). GCP-YOLO: high-precision detection of tiny chili flowers in complex greenhouse scenes. Frontiers in Plant Science, 17, 1879612. [[paper](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1879612/full)]
-
-  127. Cañadas-Aránega, F., Moreno, J. C., Blanco-Claraco, J. L., Giménez, A., Rodríguez, F., & Sánchez-Hermosilla, J. (2024). Autonomous collaborative mobile robot for greenhouses: Design, development, and validation tests. Smart Agricultural Technology, 9, 100606. [[paper](https://www.sciencedirect.com/science/article/pii/S2772375524002119)]
-
-  128. Su, Y., Zhang, P., Li, H., Kang, F., Zhao, P., & Wang, L. (2026). YOLO-FLBM: a lightweight and high-performance model for tomato ripeness detection in complex greenhouse environments. Frontiers in Plant Science, 17, 1824558. [[paper](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1824558/full)]
-
-  129. Chen, M., Ma, K., Geng, X., Hu, D., Fei, S., He, S., Du, X., Shu, S., Zhang, R., & Ma, Y. (2026). MS-R outperforms RGB: Lightweight CYOLO-BiCNet enables efficient detection and storage optimization of cotton flowers. Precision Agriculture, 27(4), 92. [[paper](https://link.springer.com/article/10.1007/s11119-026-10396-9)]
-
-  130. Zhang, X., Zhang, G., Wang, J., Yang, J., Ge, Q., Zhao, R., & Yang, W. (2025). Efficient instance segmentation for strawberry in greenhouses using YOLOv8n-MCP on edge devices. Information Processing in Agriculture. [[paper](https://www.sciencedirect.com/science/article/pii/S2214317325000344)]
-
-  131. Carbone, G., Gurtatta, A. S., & Malyshev, D. (2025). Development and implementation of a hybrid visual prediction algorithm for robotic smart tomato harvesting. Engineering Applications of Artificial Intelligence, 161, 112261. [[paper](https://www.sciencedirect.com/science/article/pii/S0952197625022699)]
-
-  132. Weng, W., Lai, Z., Cui, Z., Chen, Z., Chen, H., Lin, T., Wang, J., Zheng, S., & Chen, G. (2025). GCD-YOLO: A deep learning network for accurate tomato fruit stalks identification in unstructured environments. Smart Agricultural Technology, 101465. [[paper](https://www.sciencedirect.com/science/article/pii/S2772375525006963)]
-
-  133. Zoubek, T., Bumbálek, R., Ufitikirezi, J. D. D. M., Strob, M., Filip, M., Špalek, F., Hermanek, A., & Bartoš, P. (2025). Advancing precision agriculture with computer vision: A comparative study of YOLO models for weed and crop recognition. Crop Protection, 190, 107076. [[paper](https://www.sciencedirect.com/science/article/pii/S0261219424005040)]
-
-  134. Liu, X., Teng, W., Yu, H., Yao, Z., Wang, C., Peng, Y., Han, X., & Liu, J. (2025). GAE-YOLO: a lightweight multimodal detection framework for tomato smart agriculture with edge computing. Frontiers in Plant Science, 16, 1712432. [[paper](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1712432/full)]
-
-  135. Cañadas-Aránega, F., Muñoz, M., Moreno, J. C., & Blanco-Claraco, J. L. (2026). Integrated cloud-based architecture for robot-robot and human-robot collaboration using ROS 2-MQTT in Mediterranean Greenhouses. arXiv preprint arXiv:2606.22682. [[paper](https://arxiv.org/abs/2606.22682)]
-
-  136. Cañadas-Aránega, F., Mañas-Álvarez, F. J., Moreno, J. C., & Blanco-Claraco, J. L. (2026). A ROS2 Benchmarking Framework for Hierarchical Control Strategies in Mobile Robots for Mediterranean Greenhouses. arXiv preprint arXiv:2602.15162. [[paper](https://arxiv.org/abs/2602.15162)]
-
-  137. Aranega, F. C., Border, R., Claraco, J. L. B., & Úbeda, J. C. M. (2025). NBV Planning for the detection of hidden tomatoes in greenhouses with AgriSEE. Jornadas de Automática, (46). [[paper](https://revistas.udc.es/index.php/JA_CEA/article/view/12234)]
-
-<!-- ----------------- SSD -------------------- -->
-
-  138. Singh, R., Gadade, A. M., & Hussain, I. (2025). Robust real-time strawberry maturity detection using UAV-mounted deep learning for precision agriculture. BMC Plant Biology, 25(1), 1367. [[paper](https://link.springer.com/article/10.1186/s12870-025-07246-7)]
-
-  139. Yuan, M., Wang, D., Lin, J., Yang, S., & Ning, J. (2025). SSP-MambaNet: An automated system for detection and counting of missing seedlings in glass greenhouse-grown virus-free strawberry. Plant Phenomics, 7(2), 100043. [[paper](https://www.sciencedirect.com/science/article/pii/S2643651525000494)]
-
-  140. Kamat, P., Gite, S., Chandekar, H., Dlima, L., & Pradhan, B. (2025). Multi-class fruit ripeness detection using YOLO and SSD object detection models. Discover Applied Sciences, 7(9), 931. [[paper](https://link.springer.com/article/10.1007/s42452-025-07617-7)]
-
-  141. Tarasiuk, K., Mystkowski, A., Ostaszewski, M., Kwaśniewski, K. K., Majka, A., & Czarnigowski, J. (2026). Agriculture surrounding monitoring and object identification based on optimized you only look once and single shot multibox detector setups using combined vision and thermal images. Scientific Reports. [[paper](https://www.nature.com/articles/s41598-026-36181-2)]
-
-  142. Rezgui, J., & Ly, W. (2025, October). AI-based Plant Disease Detection: Development and Deployment of YOLO Models for Agricultural Innovation. In 2025 International Symposium on Networks, Computers and Communications (ISNCC) (pp. 1-6). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/11250413)]
-
-
-<!-- ----------------- RetineNet -------------------- -->
-
- 143. Ibrahim, E., Hamdy, M., El-Fishawy, A. S., A Eldolil, S., & El-Hoseny, H. (2025). Comprehensive survey on residual neural networks improvements in agricultural applications. Neural Computing and Applications, 1-42. [[paper](https://link.springer.com/article/10.1007/s00521-025-11682-9)]
-
- 144. Ruhad, F. M., Fahim, M., Hossain, M. S., Monir, M. F., Islam, A., & Amin, M. A. (2025). Beyond Classification: Benchmarking Object Detection Models for Efficient Tomato Leaf Disease Identification on a Real-World Dataset. Smart Agricultural Technology, 101336. [[paper](https://www.sciencedirect.com/science/article/pii/S2772375525005672)]
-
- 145. Arif, T., Riaz, S., Shafiq, Z., & Khan, G. M. (2025, June). Computer Vision-Based Plant Growth Stages Analysis for Optimizing Crop Yield. In IFIP International Conference on Artificial Intelligence Applications and Innovations (pp. 283-296). Cham: Springer Nature Switzerland. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-97313-0_22)]
-
- 146. Khan, Z., Liu, H., Shen, Y., Yang, Z., Zhang, L., & Yang, F. (2025). Optimizing precision agriculture: A real-time detection approach for grape vineyard unhealthy leaves using deep learning improved YOLOv7 with feature extraction capabilities. Computers and Electronics in Agriculture, 231, 109969. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169925000754)]
-
- 147. Yilmaz, E., Bocekci, S. C., Safak, C., & Yildiz, K. (2025). Advancements in smart agriculture: A systematic literature review on state‐of‐the‐art plant disease detection with computer vision. IET Computer Vision, 19(1), e70004. [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cvi2.70004)]
-
- 148. Li, X., Lin, Z., Liang, Z., Wang, G., & Zou, X. (2026). Research on tomato object all-day detection and occlusion scenario analysis methods. Artificial Intelligence in Agriculture. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721726000498)]
-
-<!-- ----------------- DETR -------------------- -->
-
-  149. Fan, X. R., Cai, D., Wang, X., & Kang, M. (2026). SGS-DETR: A Lightweight Transformer for Real-Time Strawberry Growth Stage Detection in Smart Agriculture Systems. Smart Agricultural Technology, 102118. [[paper](https://www.sciencedirect.com/science/article/pii/S2772375526003382)]
-
-  150. Sapkota, R., Cheppally, R. H., Sharda, A., & Karkee, M. (2025). Rf-detr object detection vs yolov12: A study of transformer-based and cnn-based architectures for single-class and multi-class greenfruit detection in complex orchard environments under label ambiguity. arXiv preprint arXiv:2504.13099. [[paper](https://arxiv.org/abs/2504.13099)]
-
-  151. Shuai, Y., Shi, J., Li, Y., Zhou, S., Zhang, L., & Mu, J. (2025). YOLO-SW: A Real-Time Weed Detection Model for Soybean Fields Using Swin Transformer and RT-DETR. Agronomy, 15(7), 1712. [[paper](https://www.mdpi.com/2073-4395/15/7/1712)]
-
-  152. Kuang, M., Li, X., Wu, B., Liu, D., Xiang, Y., Liu, F., ... & Li, X. (2026). CF-DETR: a robust transformer-based framework for small-scale chili flower detection in industrial chili production systems. Frontiers in Plant Science, 17, 1824412.[[paper](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1824412/full)]
-
-  153. Tang, Z., Fang, L., Sun, S., Gong, Y., & Li, Q. (2025). ML-DETR: Multiscale-Lite Detection Transformer for identification of mature cherry tomatoes. IEEE Transactions on Instrumentation and Measurement. [[paper](https://ieeexplore.ieee.org/abstract/document/11156100)]
-
-  154. Rong, Z., Wang, G., Sun, Q., Sun, J., Li, R., Xu, Y., & Yang, L. (2025). A Lightweight and Efficient Model for Safety Protection Equipment Detection Based on Improved RT-DETR. IEEE Access, 14, 5510-5521. [[paper](https://ieeexplore.ieee.org/abstract/document/11230344)]
-
-  155. Guo, J., Liu, Z., Zhang, X., Wang, R., Ma, X., & Li, W. (2026). SlimTom-DETR: A Lightweight and Real-Time Tomato Detection Model for Plant Factories With Complex Lighting Conditions. IEEE Access. [[paper](https://ieeexplore.ieee.org/abstract/document/11428165)]
-
-  156. Karahan, F. E., Celikel, T., & Ozcan, G. (2026). An End-to-End Deep Learning Framework for Crop Type and Phenological Stage Identification. IEEE Access. [[paper](https://ieeexplore.ieee.org/abstract/document/11577148)]
-
-  157. Xu, J., Zhang, X., Wang, X., Song, H., & Wang, Y. (2026). ELSF-DETR: an efficient lightweight network for detecting strawberry flowers pollination status in non-structured greenhouse environments. Computers and Electronics in Agriculture, 243, 111398. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169925015042)]
-
-  158. Ren, W., Qian, T., Li, G., & Li, X. (2025, March). RT-DETR-MC: A Novel Fusion of Multi-Scale Features and Gating Mechanism for Lettuce Disease Detection. In Proceedings of the 2025 6th International Conference on Computer Information and Big Data Applications (pp. 196-202). [[paper](https://dl.acm.org/doi/full/10.1145/3746709.3746745)]
-
-<!-- ----------------- Mask R-CNN -------------------- -->
-
-  159. Lyu, D. Y., Li, X. C., Wang, W. D., Wu, B. R., Shi, S. H., & Shen, H. Y. (2025). A melon fruit diameter measurement method based on an improved Mask R-CNN. [[paper](https://api.inmateh.eu/public/uploads/77-09-N1707-Deyang-LYUe919c8af-e304-45eb-aa86-023ae6e02762.pdf)]
-
-  160. Chen, Y., Liu, H., Wang, L., Chen, C., Li, S., Zhong, B., Qiao, J., Ye, R., & Li, T. (2025). Research on Instance Segmentation Algorithm for Caged Chickens in Infrared Images Based on Improved Mask R-CNN. Sensors, 25(19), 6237. [[paper](https://www.mdpi.com/1424-8220/25/19/6237)]
-
-  161. Montilla, J. C. A., Aniceto, M. J. C., & Caya, M. V. C. (2025, August). Eggplant Size Acquisition using Mask R-CNN. In 2025 IEEE International Conference on Artificial Intelligence in Engineering and Technology (IICAIET) (pp. 210-214). IEEE. [[paper](https://ieeexplore.ieee.org/abstract/document/11265158)]
-
-  162. Grbović, Ž., Panić, M., Filipović, V., Brdar, S., De Villiers, H., Mensink, M., & Chauhan, A. (2025). An efficient encoding spectral information in hyperspectral images for transfer learning of Mask R-CNN for instance segmentation of tomato sepals. IEEE Access. [[paper](https://ieeexplore.ieee.org/abstract/document/11000115)]
-
-  163. Sahu, K., Tiwari, S., Singh, M. K., Pahareeya, J., Shakya, H. K., Kumar, G., & Selvarajan, S. (2025). Plant disease detection using a hybrid dilated CNN with attention mechanisms and optimized mask RCNN segmentation. Scientific Reports. [[paper](https://www.nature.com/articles/s41598-025-26192-w)]
-
-  164. Jiang, R., Guo, T., Liu, G., & Jia, W. (2026). GHD Net: Overlapping Green Tomato Instance Segmentation Under Facility Environments. IEEE Transactions on AgriFood Electronics. [[paper](https://ieeexplore.ieee.org/abstract/document/11390666)]
-
-  165. Sun, P., & Wu, W. (2026). Improved mask R-CNN-based instance segmentation model for coal gangue. International Journal of Coal Preparation and Utilization, 46(6), 1601-1619. [[paper](https://www.tandfonline.com/doi/full/10.1080/19392699.2025.2505448?scroll=top&needAccess=true)]
-
-  166. Deepika, P., & Arthi, B. (2026). Enhancing the severity classification of tomato plant epidemic pathogens using adaptive segmentation of mask RCNN and multiscale recurrent MobileNet. Scientific Reports. [[paper](https://www.nature.com/articles/s41598-026-42675-w)]
-
-  167. Wang, X., Burusa, A. K., Rapado-Rincón, D., Versmissen, T. A., van Henten, E. J., & Kootstra, G. (2025). Multiple object tracking with multi-view active vision to effectively find plant nodes in a cluttered tomato greenhouse. Computers and Electronics in Agriculture, 234, 110266. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169925003722)]
-
-<!-- ----------------- Revista de envio "Artificial Intelligence in Agriculture" -------------------- -->
-
-  168. Gao, L., Li, Y., Wu, J., Feng, Q., Chen, L., Shen, C., ... & Zhao, C. (2026). YOLO-GPP: End-to-end prediction of the grasp position and pose on tomato peduncle for robotic harvesting. Artificial Intelligence in Agriculture. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721726000206)]
-
-  169. Gao, R., Cao, W., Zhang, Z., Cheng, X., Ji, Z., Kong, Q., & Su, Z. (2026). YOLOSc-SAM: An acceptable extraction method for farmland regions in remote sensing images using SAM. Artificial Intelligence in Agriculture. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721726000176)]
-
- 200. Afzaal, H., Farooque, A. A., Randhawa, G. S., Schumann, A. W., Krouglicof, N., Gill, Y. S., & Zaman, Q. U. (2026). Zero-shot crop segmentation via 3D depth-aware vision pipeline using unsupervised clustering. Artificial Intelligence in Agriculture. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721726000462)]
+  2. Weng, W., Lai, Z., Cui, Z., Chen, Z., Chen, H., Lin, T., Wang, J., Zheng, S., & Chen, G. (2025). GCD-YOLO: A deep learning network for accurate tomato fruit stalks identification in unstructured environments. Smart Agricultural Technology, 101465. [[paper](https://www.sciencedirect.com/science/article/pii/S2772375525006963)].
+  
+  3. Liu, X., Teng, W., Yu, H., Yao, Z., Wang, C., Peng, Y., Han, X., & Liu, J. (2025). GAE-YOLO: a lightweight multimodal detection framework for tomato smart agriculture with edge computing. Frontiers in Plant Science, 16, 1712432. [[paper](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1712432/full)].
+  
+  4. Aranega, F. C., Border, R., Claraco, J. L. B., & Úbeda, J. C. M. (2025). NBV Planning for the detection of hidden tomatoes in greenhouses with AgriSEE. Jornadas de Automática, (46). [[paper](https://revistas.udc.es/index.php/JA_CEA/article/view/12234)].
+  
+  5. Kamat, P., Gite, S., Chandekar, H., Dlima, L., & Pradhan, B. (2025). Multi-class fruit ripeness detection using YOLO and SSD object detection models. Discover Applied Sciences, 7(9), 931. [[paper](https://link.springer.com/article/10.1007/s42452-025-07617-7)].
+  
+  6. Rezgui, J., & Ly, W. (2025). AI-based Plant Disease Detection: Development and Deployment of YOLO Models for Agricultural Innovation. IEEE ISNCC 2025, pp. 1-6. [[paper](https://ieeexplore.ieee.org/abstract/document/11250413)].
+  
+  7. Ruhad, F. M., Fahim, M., Hossain, M. S., Monir, M. F., Islam, A., & Amin, M. A. (2025). Beyond Classification: Benchmarking Object Detection Models for Efficient Tomato Leaf Disease Identification on a Real-World Dataset. Smart Agricultural Technology, 101336. [[paper](https://www.sciencedirect.com/science/article/pii/S2772375525005672)].
+  
+  8. Carbone, G., Gurtatta, A. S., & Malyshev, D. (2025). Development and implementation of a hybrid visual prediction algorithm for robotic smart tomato harvesting. Engineering Applications of Artificial Intelligence, 161, 112261. [[paper](https://www.sciencedirect.com/science/article/pii/S0952197625022699)].
+  
+  9. Amir, A., Giri, S., Giri, S., & Butt, M. (2025). An advanced approach to tomato apex head thickness measurement using lightweight YOLO variants, faster RCNN, and RGB-depth sensor. Smart Agricultural Technology, 101214. [[paper](https://www.sciencedirect.com/science/article/pii/S2772375525004459)].
+  
+  10. Tamrakar, N., Paudel, B., Karki, S., Deb, N. C., Arulmozhi, E., Kook, J. H., et al. (2025). Peduncle Detection of Ripe Strawberry to Localize Picking Point Using DF-Mask R-CNN and Monocular Depth. IEEE Access. [[paper](https://ieeexplore.ieee.org/abstract/document/10976681)].
+  
+  11. Wang, X., Burusa, A. K., Rapado-Rincón, D., Versmissen, T. A., van Henten, E. J., & Kootstra, G. (2025). Multiple object tracking with multi-view active vision to effectively find plant nodes in a cluttered tomato greenhouse. Computers and Electronics in Agriculture, 234, 110266. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169925003722)].
+  
+  12. Gao, Y., Yin, F., Hong, C., Chen, X., Deng, H., Liu, Y., Li, Y., & Yao, Q. (2025). Intelligent field monitoring system for cruciferous vegetable pests using yellow sticky board images and an improved Cascade R-CNN. Journal of Integrative Agriculture, 24(1), 220-234. [[paper](https://www.sciencedirect.com/science/article/pii/S2095311924002405)].
+  
+  13. Rajagopal, S., & Venkatasubramaniam, K. (2025). Freshness Grading of Tomato Using Fast R-CNN. IEEE ICITIIT 2025, pp. 1-6. [[paper](https://ieeexplore.ieee.org/abstract/document/11041523)].
+  
+  14. Lyu, D. Y., Li, X. C., Wang, W. D., Wu, B. R., Shi, S. H., & Shen, H. Y. (2025). A melon fruit diameter measurement method based on an improved Mask R-CNN. INMATEH — Agricultural Engineering. [[paper](https://api.inmateh.eu/public/uploads/77-09-N1707-Deyang-LYUe919c8af-e304-45eb-aa86-023ae6e02762.pdf)].
+  
+  15. Montilla, J. C. A., Aniceto, M. J. C., & Caya, M. V. C. (2025). Eggplant Size Acquisition using Mask R-CNN. IEEE IICAIET 2025, pp. 210-214. [[paper](https://ieeexplore.ieee.org/abstract/document/11265158)].
+  
+  16. Grbović, Ž., Panić, M., Filipović, V., Brdar, S., De Villiers, H., Mensink, M., & Chauhan, A. (2025). An efficient encoding spectral information in hyperspectral images for transfer learning of Mask R-CNN for instance segmentation of tomato sepals. IEEE Access. [[paper](https://ieeexplore.ieee.org/abstract/document/11000115)].
+  
+  17. Sahu, K., Tiwari, S., Singh, M. K., Pahareeya, J., Shakya, H. K., Kumar, G., & Selvarajan, S. (2025). Plant disease detection using a hybrid dilated CNN with attention mechanisms and optimized mask RCNN segmentation. Scientific Reports. [[paper](https://www.nature.com/articles/s41598-025-26192-w)].
+  
+  18. Sapkota, R., Cheppally, R. H., Sharda, A., & Karkee, M. (2025). Rf-detr object detection vs yolov12: A study of transformer-based and cnn-based architectures for single-class and multi-class greenfruit detection in complex orchard environments under label ambiguity. arXiv preprint arXiv:2504.13099. [[paper](https://arxiv.org/abs/2504.13099)].
+  
+  19. Tang, Z., Fang, L., Sun, S., Gong, Y., & Li, Q. (2025). ML-DETR: Multiscale-Lite Detection Transformer for identification of mature cherry tomatoes. IEEE Transactions on Instrumentation and Measurement. [[paper](https://ieeexplore.ieee.org/abstract/document/11156100)].
+  
+  20. Rong, Z., Wang, G., Sun, Q., Sun, J., Li, R., Xu, Y., & Yang, L. (2025). A Lightweight and Efficient Model for Safety Protection Equipment Detection Based on Improved RT-DETR. IEEE Access, 14, 5510-5521. [[paper](https://ieeexplore.ieee.org/abstract/document/11230344)].
+  
+  21. Ren, W., Qian, T., Li, G., & Li, X. (2025). RT-DETR-MC: A Novel Fusion of Multi-Scale Features and Gating Mechanism for Lettuce Disease Detection. Proc. 2025 6th ICCIBDA, pp. 196-202. [[paper](https://dl.acm.org/doi/full/10.1145/3746709.3746745)].
+  
+  22. Tarasiuk, K., Mystkowski, A., Ostaszewski, M., Kwaśniewski, K. K., Majka, A., & Czarnigowski, J. (2026). Agriculture surrounding monitoring and object identification based on optimized you only look once and single shot multibox detector setups using combined vision and thermal images. Scientific Reports. [[paper](https://www.nature.com/articles/s41598-026-36181-2)].
+  
+  23. Ahmad, A., Lloret, J., Parra, L., Sendra, S., & Di Gioia, F. (2026). Comparative Analysis of R-CNN and YOLOv8 Segmentation Features for Tomato Ripening Stage Classification and Quality Estimation. Horticulturae, 12(2), 127. [[paper](https://www.mdpi.com/2311-7524/12/2/127)].
+  
+  24. Zhang, J., Guo, J., Zhao, C., Li, W., & Yuan, T. (2026). LeafRemoval-YOLO-K: A hybrid visual recognition network for stem-petiole segmentation and cutting point localization in tomato plants. Computers and Electronics in Agriculture, 246, 111485. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169926000803)].
+  
+  25. Ali, A. S., Narayan, J., Shukla, A., & Shree, R. (2026). Enhancing precision farming with YOLO models for real-time growth detection of basil plants. Environmental Sustainability, 1-11. [[paper](https://link.springer.com/article/10.1007/s42398-026-00454-3)].
+  
+  26. Jia, W., Lin, S., Wei, Z., Tian, B., Meng, X., & Zhang, Y. (2026). Research on Intelligent Identification Method for Nitrogen Content in Greenhouse Cucumber Leaves Integrating YOLOv11n Segmentation and Machine Learning. Agriculture, 16(13), 1376. [[paper](https://www.mdpi.com/2077-0472/16/13/1376)].
+  
+  27. Singh, R., Kaur, M., Alirezaee, S., & Hussain, I. (2026). YOLO26-RipeLoc Lite: A lightweight architecture for tomato ripeness detection and picking point localization in greenhouse robotic harvesting. arXiv preprint arXiv:2605.27129. [[paper](https://arxiv.org/abs/2605.27129)].
+  
+  28. Moni, M. A., Chaitee, A. S., Tanvir, K. M., Rahman, M. A., Banik, S., & Habib, M. T. (2026). Machine vision-based pepper breed classification Using yolov10 and transfer learning models. IEEE ICIPCN 2026, pp. 544-549. [[paper](https://ieeexplore.ieee.org/abstract/document/11438307)].
+  
+  29. Liu, Y., Wang, H., Wu, H., Xu, M., Yuan, G., Yan, R., & Zou, J. A Hybrid YOLO–EfficientNet Architecture for Multi-Task Recognition of Pests and Diseases in Greenhouse Crops. SSRN 5939218. [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5939218)].
+  
+  30. Zhao, B., Zheng, D., Yang, C., Jomartova, S., Sonza, R., Mansurova, M., & Liu, H. (2026). DTBi-YOLOv8-seg: A dual-backbone deep learning framework for automated tomato ripeness detection in greenhouse environments. Scientia Horticulturae, 361, 114855. [[paper](https://www.sciencedirect.com/science/article/pii/S0304423826002487)].
+  
+  31. Kuang, M., Wang, Y., Li, X., Zou, X., Liu, D., Xiang, Y., Bader, S., Cie, F., Zhang, Y., & Li, X. (2026). GCP-YOLO: high-precision detection of tiny chili flowers in complex greenhouse scenes. Frontiers in Plant Science, 17, 1879612. [[paper](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1879612/full)].
+  
+  32. Su, Y., Zhang, P., Li, H., Kang, F., Zhao, P., & Wang, L. (2026). YOLO-FLBM: a lightweight and high-performance model for tomato ripeness detection in complex greenhouse environments. Frontiers in Plant Science, 17, 1824558. [[paper](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1824558/full)].
+  
+  33. Chen, M., Ma, K., Geng, X., Hu, D., Fei, S., He, S., Du, X., Shu, S., Zhang, R., & Ma, Y. (2026). MS-R outperforms RGB: Lightweight CYOLO-BiCNet enables efficient detection and storage optimization of cotton flowers. Precision Agriculture, 27(4), 92. [[paper](https://link.springer.com/article/10.1007/s11119-026-10396-9)].
+  
+  34. Gao, L., Li, Y., Wu, J., Feng, Q., Chen, L., Shen, C., et al. (2026). YOLO-GPP: End-to-end prediction of the grasp position and pose on tomato peduncle for robotic harvesting. Artificial Intelligence in Agriculture. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721726000206)].
+  
+  35. Li, X., Lin, Z., Liang, Z., Wang, G., & Zou, X. (2026). Research on tomato object all-day detection and occlusion scenario analysis methods. Artificial Intelligence in Agriculture. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721726000498)].
+  
+  36. Huang, L., Li, H., Yang, H., Fu, C., Zhang, Y., & Chang, F. (2026). Research on real-time target detection algorithm for strawberry-picking robot based on improved YOLOv5. Journal of Food Measurement and Characterization, 20(1), 847-868. [[paper](https://link.springer.com/article/10.1007/s11694-025-03703-x)].
+  
+  37. Xu, S. S. D., Wedajew, G. N., Ku, C. M., Chiu, C. C., & Yusuf, S. H. (2026). An Improved Sparse R-CNN Approach for Strawberry Disease Detection. Digital Signal Processing, 106212. [[paper](https://www.sciencedirect.com/science/article/pii/S1051200426003313)].
+  
+  38. Deepika, P., & Arthi, B. (2026). Enhancing the severity classification of tomato plant epidemic pathogens using adaptive segmentation of mask RCNN and multiscale recurrent MobileNet. Scientific Reports. [[paper](https://www.nature.com/articles/s41598-026-42675-w)].
+  
+  39. Fan, X. R., Cai, D., Wang, X., & Kang, M. (2026). SGS-DETR: A Lightweight Transformer for Real-Time Strawberry Growth Stage Detection in Smart Agriculture Systems. Smart Agricultural Technology, 102118. [[paper](https://www.sciencedirect.com/science/article/pii/S2772375526003382)].
+  
+  40. Kuang, M., Li, X., Wu, B., Liu, D., Xiang, Y., Liu, F., et al. (2026). CF-DETR: a robust transformer-based framework for small-scale chili flower detection in industrial chili production systems. Frontiers in Plant Science, 17, 1824412. [[paper](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1824412/full)].
+  
+  41. Guo, J., Liu, Z., Zhang, X., Wang, R., Ma, X., & Li, W. (2026). SlimTom-DETR: A Lightweight and Real-Time Tomato Detection Model for Plant Factories With Complex Lighting Conditions. IEEE Access. [[paper](https://ieeexplore.ieee.org/abstract/document/11428165)].
+  
+  42. Karahan, F. E., Celikel, T., & Ozcan, G. (2026). An End-to-End Deep Learning Framework for Crop Type and Phenological Stage Identification. IEEE Access. [[paper](https://ieeexplore.ieee.org/abstract/document/11577148)].
+  
+  43. Xu, J., Zhang, X., Wang, X., Song, H., & Wang, Y. (2026). ELSF-DETR: an efficient lightweight network for detecting strawberry flowers pollination status in non-structured greenhouse environments. Computers and Electronics in Agriculture, 243, 111398. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169925015042)].
 
 </details>
+</details>
+
+<details>
+  <summary><strong>3. Entries excluded based on PRISMA</strong></summary>
+  
+  1. Ghantasala, G. P., Dasari, S., Kumar, P. P., Suman, B., Kumar, A. R., Reddy, A., & Vidyullatha, P. (2026). Deep Learning Framework for Multi-Class Tomato Leaf Disease Detection from Segmented Images. Genetics and Molecular Research. — Reason: classification-oriented study, not referenced by any Detection citation key. [[paper](https://geneticsmr.com/index.php/gmr/article/view/1672)].
+  
+  2. Kavitha, K. (2025). Deep Learning-Driven Computer Vision Techniques for Advancing Smart Greenhouse Agriculture. IEEE ICSCN 2025, pp. 24-30. — Reason: already accounted for under the Classification scope; not referenced by a Detection citation key. [[paper](https://ieeexplore.ieee.org/abstract/document/11308643)].
+  
+  3. Donohoe, S. P., Alege, F. P., & Delhom, C. D. (2026). Toward multi-class detection and localization of contamination in cotton fields: Comparing EfficientDet, Faster R-CNN ResNet50, SSD MobileNet V2, and YOLOv11. Computers and Electronics in Agriculture, 247, 111690. — Reason: open-field cotton study, outside the review's greenhouse domain filter. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169926002851)].
+  
+  4. Xu, S. S. D., Wedajew, G. N., Ku, C. M., Chiu, C. C., & Yusuf, S. H. (2026). An Improved Sparse R-CNN Approach for Strawberry Disease Detection. Digital Signal Processing, 106212. — Reason: duplicate entry (same reference kept once under `Xu2026SparseRCNNStrawberry` in the matched list). [[paper](https://www.sciencedirect.com/science/article/pii/S1051200426003313)].
+  
+  5. Bashir, A., Wang, Y., Ojo, M. O., & Zahid, A. (2025). A Vision System for Occluded Cutting Point Localization in Robotic Harvesting of Greenhouse Lettuce. IEEE Transactions on AgriFood Electronics. — Reason: already accounted for under the Classification scope; not referenced by a Detection citation key. [[paper](https://ieeexplore.ieee.org/abstract/document/11219194)].
+  
+  6. Nan, Y., Zhang, H., Zheng, J., & Yang, K. (2025). Pitaya detection using an improved lightweight Faster R-CNN based on MobileNetV3 in densely planted pitaya orchards. Journal of Agricultural Engineering, 56(4). — Reason: open orchard cultivation, outside the greenhouse domain filter. [[paper](https://www.agroengineering.org/jae/article/view/1886)].
+  
+  7. Bilal, M., Shah, A. A., Abbas, S., & Khan, M. A. (2025). High-Performance Deep Learning for Instant Pest and Disease Detection in Precision Agriculture. Food Science & Nutrition, 13(9), e70963. — Reason: not referenced in the final Detection table. [[paper](https://onlinelibrary.wiley.com/doi/full/10.1002/fsn3.70963)].
+  
+  8. Alfred, R., Leo, J., & Kaijage, S. F. (2025). Detectron2-enhanced mask R-CNN for precise instance segmentation of rice blast disease in Tanzania: Supporting timely intervention and data-driven severity assessment. Smart Agricultural Technology, 101301. — Reason: open-field rice cultivation, outside the greenhouse domain filter. [[paper](https://www.sciencedirect.com/science/article/pii/S2772375525005325)].
+  
+  9. Daraghmi, Y. A., Naser, W., Daraghmi, E. Y., & Fouchal, H. (2025). Drone-Assisted Plant Stress Detection Using Deep Learning: A Comparative Study of YOLOv8, RetinaNet, and Faster R-CNN. AgriEngineering, 7(8), 257. — Reason: UAV/drone-based study, outside the greenhouse robotics domain. [[paper](https://www.mdpi.com/2624-7402/7/8/257)].
+  
+  10. Arik, K., & Ağgül, B. (2026). Reproducible Benchmarking of Tomato Detection in Greenhouse: Comparing Attention-Augmented and Baseline Detectors. AgriEngineering. — Reason: not referenced in the final Detection table. [[paper](https://www.researchgate.net/profile/Burak-Agguel/publication/408501666)].
+  
+  11. Restrepo-Arias, J. F., Montoya-Castaño, M. J., Moreno-De La Espriella, M. F., & Branch-Bedoya, J. W. (2025). An Application of Deep Learning Models for the Detection of Cocoa Pods at Different Ripening Stages: An Approach with Faster R-CNN and Mask R-CNN. Computation, 13(7), 159. — Reason: open-field cocoa cultivation, outside the greenhouse domain filter. [[paper](https://www.mdpi.com/2079-3197/13/7/159)].
+  
+  12. Cañadas-Aránega, F., Moreno, J. C., Blanco-Claraco, J. L., Giménez, A., Rodríguez, F., & Sánchez-Hermosilla, J. (2024). Autonomous collaborative mobile robot for greenhouses: Design, development, and validation tests. Smart Agricultural Technology, 9, 100606. — Reason: robotic-platform design paper, not a detection-algorithm study. [[paper](https://www.sciencedirect.com/science/article/pii/S2772375524002119)].
+  
+  13. Zoubek, T., Bumbálek, R., Ufitikirezi, J. D. D. M., Strob, M., Filip, M., Špalek, F., Hermanek, A., & Bartoš, P. (2025). Advancing precision agriculture with computer vision: A comparative study of YOLO models for weed and crop recognition. Crop Protection, 190, 107076. — Reason: general open-field weed/crop recognition, not referenced in the final Detection table. [[paper](https://www.sciencedirect.com/science/article/pii/S0261219424005040)].
+  
+  14. Cañadas-Aránega, F., Muñoz, M., Moreno, J. C., & Blanco-Claraco, J. L. (2026). Integrated cloud-based architecture for robot-robot and human-robot collaboration using ROS 2-MQTT in Mediterranean Greenhouses. arXiv preprint arXiv:2606.22682. — Reason: robotics-infrastructure paper, not a detection-algorithm study. [[paper](https://arxiv.org/abs/2606.22682)].
+  
+  15. Cañadas-Aránega, F., Mañas-Álvarez, F. J., Moreno, J. C., & Blanco-Claraco, J. L. (2026). A ROS2 Benchmarking Framework for Hierarchical Control Strategies in Mobile Robots for Mediterranean Greenhouses. arXiv preprint arXiv:2602.15162. — Reason: robotics-benchmarking framework paper, not a detection-algorithm study. [[paper](https://arxiv.org/abs/2602.15162)].
+  
+  16. Singh, R., Gadade, A. M., & Hussain, I. (2025). Robust real-time strawberry maturity detection using UAV-mounted deep learning for precision agriculture. BMC Plant Biology, 25(1), 1367. — Reason: UAV-based study, outside the greenhouse robotics domain. [[paper](https://link.springer.com/article/10.1186/s12870-025-07246-7)].
+  
+  17. Yuan, M., Wang, D., Lin, J., Yang, S., & Ning, J. (2025). SSP-MambaNet: An automated system for detection and counting of missing seedlings in glass greenhouse-grown virus-free strawberry. Plant Phenomics, 7(2), 100043. — Reason: not referenced in the final Detection table. [[paper](https://www.sciencedirect.com/science/article/pii/S2643651525000494)].
+  
+  18. Ibrahim, E., Hamdy, M., El-Fishawy, A. S., A Eldolil, S., & El-Hoseny, H. (2025). Comprehensive survey on residual neural networks improvements in agricultural applications. Neural Computing and Applications, 1-42. — Reason: survey/review article, not a primary study. [[paper](https://link.springer.com/article/10.1007/s00521-025-11682-9)].
+  
+  19. Arif, T., Riaz, S., Shafiq, Z., & Khan, G. M. (2025). Computer Vision-Based Plant Growth Stages Analysis for Optimizing Crop Yield. IFIP AIAI 2025, pp. 283-296. — Reason: not referenced in the final Detection table. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-97313-0_22)].
+  
+  20. Khan, Z., Liu, H., Shen, Y., Yang, Z., Zhang, L., & Yang, F. (2025). Optimizing precision agriculture: A real-time detection approach for grape vineyard unhealthy leaves using deep learning improved YOLOv7 with feature extraction capabilities. Computers and Electronics in Agriculture, 231, 109969. — Reason: open-field vineyard study, outside the greenhouse domain filter. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169925000754)].
+  
+  21. Yilmaz, E., Bocekci, S. C., Safak, C., & Yildiz, K. (2025). Advancements in smart agriculture: A systematic literature review on state-of-the-art plant disease detection with computer vision. IET Computer Vision, 19(1), e70004. — Reason: systematic literature review, not a primary study. [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cvi2.70004)].
+  
+  22. Shuai, Y., Shi, J., Li, Y., Zhou, S., Zhang, L., & Mu, J. (2025). YOLO-SW: A Real-Time Weed Detection Model for Soybean Fields Using Swin Transformer and RT-DETR. Agronomy, 15(7), 1712. — Reason: open-field soybean weed detection, outside the greenhouse domain filter. [[paper](https://www.mdpi.com/2073-4395/15/7/1712)].
+  
+  23. Chen, Y., Liu, H., Wang, L., Chen, C., Li, S., Zhong, B., Qiao, J., Ye, R., & Li, T. (2025). Research on Instance Segmentation Algorithm for Caged Chickens in Infrared Images Based on Improved Mask R-CNN. Sensors, 25(19), 6237. — Reason: poultry-farming application, outside the greenhouse crop-robotics domain. [[paper](https://www.mdpi.com/1424-8220/25/19/6237)].
+  
+  24. Jiang, R., Guo, T., Liu, G., & Jia, W. (2026). GHD Net: Overlapping Green Tomato Instance Segmentation Under Facility Environments. IEEE Transactions on AgriFood Electronics. — Reason: not referenced in the final Detection table. [[paper](https://ieeexplore.ieee.org/abstract/document/11390666)].
+  
+  25. Sun, P., & Wu, W. (2026). Improved mask R-CNN-based instance segmentation model for coal gangue. International Journal of Coal Preparation and Utilization, 46(6), 1601-1619. — Reason: coal-processing application, unrelated to agricultural greenhouse robotics. [[paper](https://www.tandfonline.com/doi/full/10.1080/19392699.2025.2505448)].
+  
+  26. Gao, R., Cao, W., Zhang, Z., Cheng, X., Ji, Z., Kong, Q., & Su, Z. (2026). YOLOSc-SAM: An acceptable extraction method for farmland regions in remote sensing images using SAM. Artificial Intelligence in Agriculture. — Reason: remote-sensing farmland-region extraction, not a crop/object detection study. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721726000176)].
+  
+  27. Afzaal, H., Farooque, A. A., Randhawa, G. S., Schumann, A. W., Krouglicof, N., Gill, Y. S., & Zaman, Q. U. (2026). Zero-shot crop segmentation via 3D depth-aware vision pipeline using unsupervised clustering. Artificial Intelligence in Agriculture. — Reason: not referenced in the final Detection table. [[paper](https://www.sciencedirect.com/science/article/pii/S2589721726000462)].
+
 </details>
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------- -->
@@ -769,68 +755,86 @@ The foundational articles underpinning the most significant advances in vision t
 <details>
   <summary><strong>1. Articles on mathematical foundations</strong></summary>
 
-  7. Yan, Y., Mao, Y., & Li, B. (2018). Second: Sparsely embedded convolutional detection. Sensors, 18(10), 3337. [[paper](https://www.mdpi.com/1424-8220/18/10/3337)]
+  1. Yan, Y., Mao, Y., & Li, B. (2018). Second: Sparsely embedded convolutional detection. Sensors, 18(10), 3337. [[paper](https://www.mdpi.com/1424-8220/18/10/3337)]
 
-  8. Shi, S., Wang, X., & Li, H. (2019). Pointrcnn: 3d object proposal generation and detection from point cloud. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 770-779). [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_PointRCNN_3D_Object_Proposal_Generation_and_Detection_From_Point_Cloud_CVPR_2019_paper.pdf)]
+  2. Shi, S., Wang, X., & Li, H. (2019). Pointrcnn: 3d object proposal generation and detection from point cloud. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 770-779). [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_PointRCNN_3D_Object_Proposal_Generation_and_Detection_From_Point_Cloud_CVPR_2019_paper.pdf)]
 
-  9. Lang, A. H., Vora, S., Caesar, H., Zhou, L., Yang, J., & Beijbom, O. (2019). Pointpillars: Fast encoders for object detection from point clouds. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 12697-12705). [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Lang_PointPillars_Fast_Encoders_for_Object_Detection_From_Point_Clouds_CVPR_2019_paper.html)]
+  3. Lang, A. H., Vora, S., Caesar, H., Zhou, L., Yang, J., & Beijbom, O. (2019). Pointpillars: Fast encoders for object detection from point clouds. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 12697-12705). [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Lang_PointPillars_Fast_Encoders_for_Object_Detection_From_Point_Clouds_CVPR_2019_paper.html)]
 
-  10. Shi, S., Guo, C., Jiang, L., Wang, Z., Shi, J., Wang, X., & Li, H. (2020). Pv-rcnn: Point-voxel feature set abstraction for 3d object detection. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 10529-10538). [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Shi_PV-RCNN_Point-Voxel_Feature_Set_Abstraction_for_3D_Object_Detection_CVPR_2020_paper.html)]
+  4. Shi, S., Guo, C., Jiang, L., Wang, Z., Shi, J., Wang, X., & Li, H. (2020). Pv-rcnn: Point-voxel feature set abstraction for 3d object detection. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 10529-10538). [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Shi_PV-RCNN_Point-Voxel_Feature_Set_Abstraction_for_3D_Object_Detection_CVPR_2020_paper.html)]
 
-  11. Yin, T., Zhou, X., & Krahenbuhl, P. (2021). Center-based 3d object detection and tracking. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 11784-11793). [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Yin_Center-Based_3D_Object_Detection_and_Tracking_CVPR_2021_paper.html)]
+  5. Yin, T., Zhou, X., & Krahenbuhl, P. (2021). Center-based 3d object detection and tracking. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 11784-11793). [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Yin_Center-Based_3D_Object_Detection_and_Tracking_CVPR_2021_paper.html)]
 
-  12. Wang, Y., Guizilini, V. C., Zhang, T., Wang, Y., Zhao, H., & Solomon, J. (2022, January). Detr3d: 3d object detection from multi-view images via 3d-to-2d queries. In Conference on robot learning (pp. 180-191). PMLR. [[paper](https://proceedings.mlr.press/v164/wang22b.html?ref=https://githubhelp.com)]
+  6. Wang, Y., Guizilini, V. C., Zhang, T., Wang, Y., Zhao, H., & Solomon, J. (2022, January). Detr3d: 3d object detection from multi-view images via 3d-to-2d queries. In Conference on robot learning (pp. 180-191). PMLR. [[paper](https://proceedings.mlr.press/v164/wang22b.html?ref=https://githubhelp.com)]
 
 </details>
 
 <details>
   <summary><strong>2. Articles on greenhouse farming</strong></summary>
 
-  43. Khan, Z., Shen, Y., & Liu, H. (2025). Objectdetection in agriculture: A comprehensive review of methods, applications, challenges, and future directions. Agriculture, 15(13), 1351. [[paper](https://www.mdpi.com/2077-0472/15/13/1351)]
-
  <!-- ----------------- SECOND -------------------- -->
 
-  45. Huang, Z., Yang, N., Cao, R., Li, Z., He, Y., & Feng, X. (2025). Autonomous navigation system in various greenhouse scenarios based on improved FAST-LIO2. Computers and Electronics in Agriculture, 234, 110279. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169925003850)]
+  1. Huang, Z., Yang, N., Cao, R., Li, Z., He, Y., & Feng, X. (2025). Autonomous navigation system in various greenhouse scenarios based on improved FAST-LIO2. Computers and Electronics in Agriculture, 234, 110279. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169925003850)]
 
-  46. Tan, H., Zhao, X., Fu, H., Yang, M., & Zhai, C. (2025). A novel fusion positioning navigation system for greenhouse strawberry spraying robot using LiDAR and ultrasonic tags. Agriculture Communications, 3(2), 100087. [[paper](https://www.sciencedirect.com/science/article/pii/S2949798125000171)]
+  2. Tan, H., Zhao, X., Fu, H., Yang, M., & Zhai, C. (2025). A novel fusion positioning navigation system for greenhouse strawberry spraying robot using LiDAR and ultrasonic tags. Agriculture Communications, 3(2), 100087. [[paper](https://www.sciencedirect.com/science/article/pii/S2949798125000171)]
 
  <!-- ----------------- POINTRCNN -------------------- -->
 
-  47. Ma, H., Wen, W., Gou, W., Lu, X., Fan, J., Zhang, M., Liang, Y., Gu, S., & Guo, X. (2025). 3D time-series phenotyping of lettuce in greenhouses. Biosystems Engineering, 250, 250-269. [[paper](https://www.sciencedirect.com/science/article/pii/S1537511025000042)]
-
-  48. Zhao, H., Chen, S., Yang, S., Tang, H., Xu, Z., Zheng, Y., & Kang, F. (2026). Point-cloud segmentation for overlapping fruit-tree canopies using LiDAR to improve individual-tree data quality in precision orchards. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. [[paper](https://ieeexplore.ieee.org/abstract/document/11399749)]
-
-  49. Lin, F., Liu, Z., Meng, T., Lu, L., Xue, Q., & Ren, K. (2026). Physical Adversarial Example Attacks towards LiDAR Perception via Electromagnetic Injection. IEEE Transactions on Mobile Computing. [[paper](https://ieeexplore.ieee.org/abstract/document/11603440)]
-
-  50. Tu, J., Ren, D., Shi, F., Jia, Z., Ren, Y., Qin, J., & He, F. (2025). Minkowski-MambaNet: A Point Cloud Framework with Selective State Space Models for Forest Biomass Quantification. arXiv preprint arXiv:2510.09367. [[paper](https://arxiv.org/abs/2510.09367)]
+  3. Ma, H., Wen, W., Gou, W., Lu, X., Fan, J., Zhang, M., Liang, Y., Gu, S., & Guo, X. (2025). 3D time-series phenotyping of lettuce in greenhouses. Biosystems Engineering, 250, 250-269. [[paper](https://www.sciencedirect.com/science/article/pii/S1537511025000042)]
 
  <!-- ----------------- PointPillars -------------------- -->
 
-  53. Guaragnella, G., Cardellicchio, A., Patruno, C., Nitti, M., Pedrocchi, N., & Renò, V. (2026). Artificial Intelligence in Autonomous Mobile Robot Navigation: From Classical Approaches to Intelligent Adaptation. Advanced Intelligent Systems, 8(5), e202501376. [[paper](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aisy.202501376)]
-
-  54. Valverde, M., Moutinho, A., & Zacchi, J. V. (2025). A Survey of Deep Learning-Based 3D Object Detection Methods for Autonomous Driving Across Different Sensor Modalities. Sensors (Basel, Switzerland), 25(17), 5264. [[paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC12431044/)]
-
  <!-- ----------------- PV-RCNN -------------------- -->
 
-  55. Werner, H., Delea, C., Zantopp, N., Au, C. N., & Tiedemann, T. (2025, October). Advancing Maritime Perception: PV-RCNN for 3D LiDAR Object Detection. In Journal of Physics: Conference Series (Vol. 3123, No. 1, p. 012026). IOP Publishing. [[paper](https://iopscience.iop.org/article/10.1088/1742-6596/3123/1/012026/meta)]
+  4. Werner, H., Delea, C., Zantopp, N., Au, C. N., & Tiedemann, T. (2025, October). Advancing Maritime Perception: PV-RCNN for 3D LiDAR Object Detection. In Journal of Physics: Conference Series (Vol. 3123, No. 1, p. 012026). IOP Publishing. [[paper](https://iopscience.iop.org/article/10.1088/1742-6596/3123/1/012026/meta)]
 
-  56. Jang, S. H., Cho, H. R., Hong, H. G., Kwon, T. H., Cho, Y. J., Yun, H. Y., Lee, Y.J., Ahn, W.J., & Lim, M. T. (2026). FruitTrackDB: a multi-sensor dataset for intelligent navigation in real orchard environments. Intelligent Service Robotics, 19(3), 50. [[paper](https://link.springer.com/article/10.1007/s11370-026-00702-9)]
-
-  57. Lielamurs, E., Sayed, I., Cvetkovs, A., Novickis, R., Zencovs, A., Celitans, M., Bizums, A., Dimitrakopoulos, G., Kaszzescha, J., & Ozols, K. (2025). A distributed time-of-flight sensor system for autonomous vehicles: architecture, sensor fusion, and spiking neural network perception. Electronics, 14(7), 1375. [[paper](https://www.mdpi.com/2079-9292/14/7/1375)]
+  5. Jang, S. H., Cho, H. R., Hong, H. G., Kwon, T. H., Cho, Y. J., Yun, H. Y., Lee, Y.J., Ahn, W.J., & Lim, M. T. (2026). FruitTrackDB: a multi-sensor dataset for intelligent navigation in real orchard environments. Intelligent Service Robotics, 19(3), 50. [[paper](https://link.springer.com/article/10.1007/s11370-026-00702-9)]
 
  <!-- ----------------- CenterPoint -------------------- -->
 
-  58. Xie, P., Fang, L., He, Y., & Cen, H. (2025). Temporal semantic multispectral point cloud generation and feature fusion pipeline for comprehensive trait estimation in greenhouse tomatoes. Computers and Electronics in Agriculture, 237, 110748. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169925008543)]
-
-  59. Fang, W., Bi, C., Zhou, J., Yu, H., & Zhao, M. (2025). 3D LiDAR-based crop row detection for soybean at maturity under different planting densities. Computers and Electronics in Agriculture, 239, 111046. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169925011524)]
+  6. Fang, W., Bi, C., Zhou, J., Yu, H., & Zhao, M. (2025). 3D LiDAR-based crop row detection for soybean at maturity under different planting densities. Computers and Electronics in Agriculture, 239, 111046. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169925011524)]
 
  <!-- ----------------- DETR3D -------------------- -->
 
-  60. Zhang, D., Gajardo, J., Medic, T., Katircioglu, I., Boss, M., Kirchgessner, N., Walter, A., & Roth, L. (2025). Wheat3dgs: In-field 3d reconstruction, instance segmentation and phenotyping of wheat heads with gaussian splatting. In Proceedings of the Computer Vision and Pattern Recognition Conference (pp. 5360-5370). [[paper](https://openaccess.thecvf.com/content/CVPR2025W/V4A/html/Zhang_Wheat3DGS_In-field_3D_Reconstruction_Instance_Segmentation_and_Phenotyping_of_Wheat_CVPRW_2025_paper.html)]
-
-  61. González-Muñoz, A., Wu, D. J., Perera-Rodríguez, A. B., Rekik, M., Giancola, S., Wulff, B. B., & Gardener, C. (2025). A high-throughput pipeline for phenotyping, object detection and quantification of leaf trichomes. Theoretical and Applied Genetics, 138(8), 188. [[paper](https://link.springer.com/article/10.1007/s00122-025-04967-z)]
+  7. Zhang, D., Gajardo, J., Medic, T., Katircioglu, I., Boss, M., Kirchgessner, N., Walter, A., & Roth, L. (2025). Wheat3dgs: In-field 3d reconstruction, instance segmentation and phenotyping of wheat heads with gaussian splatting. In Proceedings of the Computer Vision and Pattern Recognition Conference (pp. 5360-5370). [[paper](https://openaccess.thecvf.com/content/CVPR2025W/V4A/html/Zhang_Wheat3DGS_In-field_3D_Reconstruction_Instance_Segmentation_and_Phenotyping_of_Wheat_CVPRW_2025_paper.html)]
 
 </details>
+
+<details>
+  <summary><strong>Excluded entries</strong></summary>
+
+  1. Khan, Z., Shen, Y., & Liu, H. (2025). Object detection in agriculture: A comprehensive review of methods, applications, challenges, and future directions. Agriculture, 15(13), 1351. — Reason: survey/review article, not a primary study. [[paper](https://www.mdpi.com/2077-0472/15/13/1351)].
+  
+  2. Huang, Z., Yang, N., Cao, R., Li, Z., He, Y., & Feng, X. (2025). Autonomous navigation system in various greenhouse scenarios based on improved FAST-LIO2. Computers and Electronics in Agriculture, 234, 110279. — Reason: SLAM-based navigation-system paper, not referenced by a Detection citation key. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169925003850)].
+  
+  3. Tan, H., Zhao, X., Fu, H., Yang, M., & Zhai, C. (2025). A novel fusion positioning navigation system for greenhouse strawberry spraying robot using LiDAR and ultrasonic tags. Agriculture Communications, 3(2), 100087. — Reason: positioning/navigation-system paper, not a detection-algorithm study. [[paper](https://www.sciencedirect.com/science/article/pii/S2949798125000171)].
+  
+  4. Ma, H., Wen, W., Gou, W., Lu, X., Fan, J., Zhang, M., Liang, Y., Gu, S., & Guo, X. (2025). 3D time-series phenotyping of lettuce in greenhouses. Biosystems Engineering, 250, 250-269. — Reason: phenotyping study, not referenced by a Detection citation key. [[paper](https://www.sciencedirect.com/science/article/pii/S1537511025000042)].
+  
+  5. Zhao, H., Chen, S., Yang, S., Tang, H., Xu, Z., Zheng, Y., & Kang, F. (2026). Point-cloud segmentation for overlapping fruit-tree canopies using LiDAR to improve individual-tree data quality in precision orchards. IEEE JSTARS. — Reason: open orchard environment, outside the greenhouse domain filter. [[paper](https://ieeexplore.ieee.org/abstract/document/11399749)].
+  
+  6. Lin, F., Liu, Z., Meng, T., Lu, L., Xue, Q., & Ren, K. (2026). Physical Adversarial Example Attacks towards LiDAR Perception via Electromagnetic Injection. IEEE Transactions on Mobile Computing. — Reason: LiDAR-security/adversarial-attack study, unrelated to crop detection. [[paper](https://ieeexplore.ieee.org/abstract/document/11603440)].
+  
+  7. Tu, J., Ren, D., Shi, F., Jia, Z., Ren, Y., Qin, J., & He, F. (2025). Minkowski-MambaNet: A Point Cloud Framework with Selective State Space Models for Forest Biomass Quantification. arXiv preprint arXiv:2510.09367. — Reason: forestry-biomass application, outside the greenhouse robotics domain. [[paper](https://arxiv.org/abs/2510.09367)].
+  
+  8. Guaragnella, G., Cardellicchio, A., Patruno, C., Nitti, M., Pedrocchi, N., & Renò, V. (2026). Artificial Intelligence in Autonomous Mobile Robot Navigation: From Classical Approaches to Intelligent Adaptation. Advanced Intelligent Systems, 8(5), e202501376. — Reason: broad robot-navigation survey, not a primary study. [[paper](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aisy.202501376)].
+  
+  9. Valverde, M., Moutinho, A., & Zacchi, J. V. (2025). A Survey of Deep Learning-Based 3D Object Detection Methods for Autonomous Driving Across Different Sensor Modalities. Sensors, 25(17), 5264. — Reason: autonomous-driving survey, not agriculture-related. [[paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC12431044/)].
+  
+  10. Werner, H., Delea, C., Zantopp, N., Au, C. N., & Tiedemann, T. (2025). Advancing Maritime Perception: PV-RCNN for 3D LiDAR Object Detection. Journal of Physics: Conference Series, Vol. 3123, No. 1, 012026. — Reason: maritime-domain application, unrelated to agricultural greenhouse robotics. [[paper](https://iopscience.iop.org/article/10.1088/1742-6596/3123/1/012026/meta)].
+  
+  11. Lielamurs, E., Sayed, I., Cvetkovs, A., Novickis, R., Zencovs, A., Celitans, M., Bizums, A., Dimitrakopoulos, G., Kaszzescha, J., & Ozols, K. (2025). A distributed time-of-flight sensor system for autonomous vehicles: architecture, sensor fusion, and spiking neural network perception. Electronics, 14(7), 1375. — Reason: autonomous-vehicle sensor system, unrelated to agricultural greenhouse robotics. [[paper](https://www.mdpi.com/2079-9292/14/7/1375)].
+  
+  12. Xie, P., Fang, L., He, Y., & Cen, H. (2025). Temporal semantic multispectral point cloud generation and feature fusion pipeline for comprehensive trait estimation in greenhouse tomatoes. Computers and Electronics in Agriculture, 237, 110748. — Reason: trait-estimation/generation-scope pipeline, not referenced by a Detection citation key. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169925008543)].
+  
+  13. Fang, W., Bi, C., Zhou, J., Yu, H., & Zhao, M. (2025). 3D LiDAR-based crop row detection for soybean at maturity under different planting densities. Computers and Electronics in Agriculture, 239, 111046. — Reason: open-field soybean row detection, outside the greenhouse domain filter. [[paper](https://www.sciencedirect.com/science/article/pii/S0168169925011524)].
+  
+  14. Zhang, D., Gajardo, J., Medic, T., Katircioglu, I., Boss, M., Kirchgessner, N., Walter, A., & Roth, L. (2025). Wheat3dgs: In-field 3D reconstruction, instance segmentation and phenotyping of wheat heads with gaussian splatting. Proc. CVPR 2025 Workshops, pp. 5360-5370. — Reason: open-field wheat phenotyping via Gaussian splatting, not referenced by a Detection citation key. [[paper](https://openaccess.thecvf.com/content/CVPR2025W/V4A/html/Zhang_Wheat3DGS_In-field_3D_Reconstruction_Instance_Segmentation_and_Phenotyping_of_Wheat_CVPRW_2025_paper.html)].
+  
+  15. González-Muñoz, A., Wu, D. J., Perera-Rodríguez, A. B., Rekik, M., Giancola, S., Wulff, B. B., & Gardener, C. (2025). A high-throughput pipeline for phenotyping, object detection and quantification of leaf trichomes. Theoretical and Applied Genetics, 138(8), 188. — Reason: leaf-trichome phenotyping, not referenced by a Detection citation key. [[paper](https://link.springer.com/article/10.1007/s00122-025-04967-z)].
+
+</details>
+
 </details>
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------- -->
