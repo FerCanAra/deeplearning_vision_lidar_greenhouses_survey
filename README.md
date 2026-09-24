@@ -980,20 +980,3 @@ The foundational articles underpinning the most significant advances in vision t
 
 </details>
 
-
-## Robotics tools
-
-<details>
-<summary>Maps generative</summary>
-
-[ROS-SLAM-Map-Editor](https://github.com/GyroPalm/ROS-SLAM-Map-Editor): A web-based map editor for quick editing of ROS and ROS2 SLAM maps
-
-<div align="center">
-  <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/a2783929-038d-4e8f-a857-d5553352ffc4" />
-</div>
-
-</details>
-
-
-
-
